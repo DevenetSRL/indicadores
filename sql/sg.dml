@@ -1,0 +1,80 @@
+-- @file aux.dml
+--
+-- @brief Archivo de datos inciales del esquema sg
+--
+-- @ingroup Backend
+--
+-- @author Alejandro Salamanca <alejandro@devenet.net>
+-- @author Virginia Kama <virginia@devenet.net>
+-- @author Josué Gutiérrez Quino <jquino@devenet.net>
+-- @author Javier Ramiro Castillo Tarqui <rcastillo@devenet.net>
+
+-- This file is part of the indicadores-municipales distribution
+-- (https://fam.egob.org or
+-- https://github.com/DevenetSRL/indicadores).
+-- Copyright (c) 2019 Devenet SRL.
+--
+-- This program is free software: you can redistribute it and/or modify  
+-- it under the terms of the GNU General Public License as published by  
+-- the Free Software Foundation, version 3.
+--
+-- This program is distributed in the hope that it will be useful, but 
+-- WITHOUT ANY WARRANTY; without even the implied warranty of 
+-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+-- General Public License for more details.
+--
+-- You should have received a copy of the GNU General Public License 
+-- along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+
+alter table glb.options add constraint creator foreign key (id_creator)
+    references sg.usuarios (id_usuario) on delete restrict on update cascade;
+alter table glb.options add constraint modificator foreign key (id_modificator)
+    references sg.usuarios (id_usuario) on delete restrict on update cascade;
+
+with rolesBase ( codigo, rol, descripcion ) as (
+    values
+        ( 'A', 'Admin',      'Administrador del sistema' ),
+        ( 'W', 'Webmaster',  'Webmaster' ),
+        ( 'E', 'Executive',  'Ejecutivo de la FAM Bolivia' ),
+        ( 'M', 'Manager',    'Alcalde Municipal' ),
+        ( 'O', 'Operator',   'Servidor público' ),
+        ( 'R', 'Researcher', 'Investigador' )
+   )
+   select
+       sg.crearRol( :'token', codigo, rol, descripcion )
+     from
+       rolesBase;
+
+with recursosBase ( codigo, descripcion ) as (
+    values
+        ( 1000, 'Opciones de seguridad del sistema' ),
+        ( 2000, 'Gestión de clasificadores' ),
+        ( 2500, 'Configuración del sistema' ),
+        ( 3000, 'Gestión de datos' ),
+        ( 4000, 'Acceso Ejecutivo' ),
+        ( 5000, 'Acceso administrativo' ),
+        ( 6000, 'Acceso operativo' ),
+        ( 7000, 'Acceso limitado' )
+    )
+    select
+        sg.crearRecurso( :'token', codigo, descripcion )
+      from
+        recursosBase;
+
+with securityScheme ( codeRole, codeResource ) as (
+    values
+        ( 'A',  1000 ),
+        ( 'A',  2000 ),
+        ( 'AW', 2500 ),
+        ( 'W',  3000 ),
+        ( 'E',  4000 ),
+        ( 'M',  5000 ),
+        ( 'O',  6000 ),
+        ( 'R',  7000 )
+     )
+    select
+        sg.asignarRolesRecurso( :'token', codeResource, codeRole )
+      from
+        securityScheme;
+----------------------------------------------------------------------------

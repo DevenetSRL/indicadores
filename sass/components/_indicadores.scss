@@ -1,0 +1,219 @@
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.banner {
+    /* padding: 3em 0; */
+    min-height: 20em;
+    text-shadow: 1px 1px 10px #ddd;
+    color: $secondary-color;
+}
+
+h2, h3, h4, h5, h6 {
+    color: $secondary-color;
+}
+
+body.sistema {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+body.sistema .main {
+    background-image:url('../img/indicadores.svg');
+    background-position: top center;
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 280px) {
+    .banner::after {
+        height: 300px;
+        top: 5em;
+    }
+}
+
+@media (min-width: 480px) {
+    .banner::after {
+        height: 300px;
+        top: 5em;
+    }
+}
+
+@media (min-width: 768px) {
+    .banner::after {
+        height: 350px;
+        top: 6em;
+    }
+}
+
+@media (min-width: 992px) {
+    .banner::after {
+        height: 400px;
+        left: -20px;
+        top: 3em;
+    }
+}
+
+.primaryColor {
+    background-color: $primary-color;
+}
+
+.secondaryColor {
+    background-color: $secondary-color;
+}
+
+.primaryColor-text {
+    color: $primary-color;
+}
+
+.secondaryColor-text {
+    color: $secondary-color;
+}
+
+//-------------
+
+$primary-color-ultralight: lighten($primary-color, 60%) !default;
+.primaryColorUltraLight {
+    background-color: $primary-color-ultralight !important;
+}
+
+$secondary-color-ultralight: lighten($secondary-color, 50%) !default;
+.secondaryColorUltraLight {
+    background-color: $secondary-color-ultralight !important;
+}
+
+/* Opciones del formulario delagado */
+.narrow.card {
+    max-width: 360px;
+    margin:  2em auto;
+    padding: 2em;
+}
+em.error, strong.error {
+    font-size: small;
+    color: red;
+}
+
+.notes {
+    align: center;
+    background-color: $secondary-color-ultralight;
+    font-size: small;
+}
+
+/* Opciones del menú de usuario en el menú principal */
+li.userData span {
+    font-size: small;
+    background-color: $secondary-color;
+    color: #fff;
+}
+li.userData i {
+    line-height: 1;
+    height: 1;
+    display: inline;
+    font-size: 1.2rem;
+}
+#userConnect {
+    min-width: 15em;
+}
+
+#logo-container img {
+    max-height: 64px;
+}
+
+.thumb {
+    height: 175px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+}
+
+.cr-resultado {
+    font-size: 3em;
+    font-weight: bold;
+    line-height: 0.8em;
+}
+
+#carruselIndicadores {
+    
+    .carousel-item {
+        height: 200px !important;
+        min-height: 5em !important;
+        max-width: 400px;
+        .row {
+            height: auto !important;
+        }
+    }
+
+    @media #{$medium-and-up} {
+        .cr-right {
+            text-align: right;
+        }
+        .cr-left {
+            text-align: left;
+        }
+    }
+
+    @media #{$small-and-down} {
+        .cr-right {
+            text-align: center;
+        }
+        .cr-left {
+            text-align: center;
+        }
+    }
+    
+    .carousel-item .cr-municipio {
+        font-size: 1.5em;
+    }
+
+    .carousel-item .cr-descripcion {
+        font-size: 1em;
+        text-align: left;
+    }
+
+    .material-icons.icon-pad {
+        padding: 0 10px;
+        font-size: 75px;
+    }
+}
+
+.semitransparente-blanco {
+    background-color: rgba( 255, 255, 255, 0.8 );
+    border-radius: 1em;
+    padding: 0.5em 1em;
+    .input-field {
+    }
+}
+
+.cuerpo {
+    flex: 1;
+    min-height: 120vh;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.datos-titulo {
+    padding: 0.5em;
+    /* line-height: 2.5em;
+       height: 2.5em;
+       padding-left: 1em; */
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.mejores-nacional {
+    .cr-resultado {
+        font-size: large;
+    }
+    i.large {
+        font-size: 4rem;
+    }
+}

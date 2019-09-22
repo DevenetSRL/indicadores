@@ -1,0 +1,61 @@
+<!--
+     @file sintesis.html
+     
+     @brief HTML que permite desplegar una ficha de síntesis.
+     Embebe el archivo SVG asociado y lo preprecesa para adpatarlo
+     al sitio web.
+     
+     @ingroup Frontend
+     
+     @author Alejandro Salamanca <alejandro@devenet.net>
+     @author Virginia Kama <virginia@devenet.net>
+     @author Josué Gutiérrez Quino <jquino@devenet.net>
+     @author Javier Ramiro Castillo Tarqui <rcastillo@devenet.net>
+
+     
+     This file is part of the indicadores-municipales distribution
+     (https://fam.egob.org or
+     https://github.com/DevenetSRL/indicadores).
+     Copyright (c) 2019 Devenet SRL.
+
+     This program is free software: you can redistribute it and/or modify  
+     it under the terms of the GNU General Public License as published by  
+     the Free Software Foundation, version 3.
+
+     This program is distributed in the hope that it will be useful, but 
+     WITHOUT ANY WARRANTY; without even the implied warranty of 
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+     General Public License for more details.
+
+     You should have received a copy of the GNU General Public License 
+     along with this program. If not, see <http://www.gnu.org/licenses/>.
+   -->
+<!--#set:title=Ficha agregada - Sistema de Indicadores-->
+<!--#set:bodyClass=ficha-->
+<!--#set:userJavascript=js/f.min.js-->
+<div id="svg"></div>
+<script>
+ $(document).ready( function() {
+     /* Recuperar el id del agregado */
+     var url = new URL(window.location.href);
+     var idAgregado = url.searchParams.get( "idAgregado" );
+     var idSintesis = url.searchParams.get( "idSintesis" );
+     var svg = './img/s-' + idSintesis + '/' + idAgregado + '-' + idSintesis + '.svg';
+     /* insertar el svg en id=svg */
+     $.ajax( {
+         url: svg,
+         dataType: 'text',
+         success: function( text ) {
+             text = text.replace( '<?xml version="1.0" encoding="UTF-8" standalone="no"?>', '' );
+             text = text.replace( new RegExp( 'font-family:[^;]+;', 'g' ), 'font-family:Roboto;' );
+             text = text.replace( new RegExp( '-inkscape[^;]+;', 'g' ), ';' );
+             text = text.replace( new RegExp( 'inkscape[^ >]+ ', 'g' ), '' );
+             text = text.replace( new RegExp( 'inkscape[^ >]+>', 'g' ), '>' );
+             text = text.replace( new RegExp( 'sodipodi:absref="[^"]+"', 'g' ), '' );
+             text = text.replace( new RegExp( 'xlink:href="[^"]+/img/', 'g' ), 'xlink:href="./img/' );
+             text = text.replace( 'width="8.5in"', 'width="400"' );
+             text = text.replace( 'height="11in"', '' );
+             $('#svg').html( text );
+         } } );
+ } );
+</script>

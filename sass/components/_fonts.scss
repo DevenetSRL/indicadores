@@ -1,0 +1,64 @@
+$font-path: '../fonts' !default;
+@font-face {
+    font-family: 'Material Icons';
+    font-weight: 400;
+    font-style: normal;
+    src: url('#{$font-path}/MaterialIcons-webfont.eot?v=1.4.57');
+    src: url('#{$font-path}/MaterialIcons-webfont.eot?#iefix&v=1.4.57') format('embedded-opentype'),
+    url('#{$font-path}/MaterialIcons-webfont.woff2?v=1.4.57') format('woff2'),
+    url('#{$font-path}/MaterialIcons-webfont.woff?v=1.4.57') format('woff'),
+    url('#{$font-path}/MaterialIcons-webfont.ttf?v=1.4.57') format('truetype'),
+    url('#{$font-path}/MaterialIcons-webfont.svg?v=1.4.57#MaterialIconsRegular') format('svg');
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin roboto-font($type, $weight, $style: normal) {
+    @font-face {
+        font-family: 'Roboto';
+        src: url('#{$font-path}/Roboto-#{$type}.eot');
+        src: url('#{$font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$font-path}/Roboto-#{$type}.woff2') format('woff2'),
+             url('#{$font-path}/Roboto-#{$type}.woff') format('woff'),
+             url('#{$font-path}/Roboto-#{$type}.ttf') format('truetype'),
+             url('#{$font-path}/Roboto-#{$type}.svg#Roboto') format('svg');
+        font-weight: $weight;
+        font-style: $style;
+    }
+
+    @font-face {
+        font-family: 'Roboto-#{$type}';
+        src: url('#{$font-path}/Roboto-#{$type}.eot');
+        src: url('#{$font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$font-path}/Roboto-#{$type}.woff2') format('woff2'),
+             url('#{$font-path}/Roboto-#{$type}.woff') format('woff'),
+             url('#{$font-path}/Roboto-#{$type}.ttf') format('truetype'),
+             url('#{$font-path}/Roboto-#{$type}.svg#Roboto') format('svg');
+    }
+}
+
+@mixin roboto-font-pair($type, $weight) {
+    @include roboto-font($type, $weight);
+    @include roboto-font(#{$type}Italic, $weight, italic);
+}
+
+@include roboto-font-pair('Thin', 100);
+@include roboto-font-pair('Light', 300);
+@include roboto-font-pair('Regular', 400);
+@include roboto-font-pair('Medium', 500);
+@include roboto-font-pair('Bold', 700);
+@include roboto-font-pair('Black', 900);

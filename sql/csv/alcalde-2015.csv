@@ -1,0 +1,340 @@
+cod_ine,nombre,gestion,alcalde,foto,partido,votos
+10101,Sucre,2015,Iván Jorge Arcienega Collazos,jpg,MAS-IPSP,29.4
+10102,Yotala,2015,Dionisio Barriga Seña,jpg,MAS-IPSP,46.72
+10103,Poroma,2015,Luciano Precio Romero,jpg,MAS-IPSP,47.38
+10201,Villa Azurduy,2015,Leonardo Vladimir Flores Ferrufino,jpg,MAS-IPSP,41.78
+10202,Tarvita,2015,Reynaldo Cruz Villalba,jpg,MAS-IPSP,42.58
+10301,Villa Zudañez,2015,Silverio Cuellar Ochoa,jpg,MAS-IPSP,46.63
+10302,Presto,2015,José Luis Pérez Torres,jpg,MAS-IPSP,53.16
+10303,Villa Mojocoya,2015,Richard Lomar,jpg,MAS-IPSP,37.8
+10304,Icla,2015,Gonzalo Salazar Ponce,jpg,MAS-IPSP,42.83
+10401,Padilla,2015,Raúl Soliz Irala,jpg,MAS-IPSP,49.19
+10402,Tomina,2015,Germán Sifuentes Terrazas,jpg,MAS-IPSP,68.32
+10403,Sopachuy,2015,José Cáceres Salazar,jpg,MAS-IPSP,51.67
+10404,Villa Alcalá,2015,Diego Cruz Estrada,jpg,MAS-IPSP,42.37
+10405,El Villar,2015,Gerardo Llanes Navarro,jpg,MAS-IPSP,62.93
+10501,Monteagudo,2015,Tito Ronald Aramayo Carballo,jpg,FRI,32.27
+10502,San Pablo de Huacareta,2015,Daniel López Salazar,jpg,MAS-IPSP,46.91
+10601,Tarabuco,2015,Iber Meras Durán,jpg,MAS-IPSP,38.15
+10602,Yamparáez,2015,Edwin Palacios Díaz,jpg,MAS-IPSP,53.15
+10701,Camargo,2015,Valentín Cruz Copa,jpg,MAS-IPSP,38.49
+10702,San Lucas,2015,Zenón Aiza Peñas,jpg,MAS-IPSP,54.74
+10703,Incahuasi,2015,Filomeno Agapito Cruz Rodríguez,jpg,MAS-IPSP,42.24
+10704,Villa Charcas,2015,Juan Rodríguez Rengifo,jpg,MAS-IPSP,58.11
+10801,Villa Serrano,2015,Mario Ramírez Carvallo,jpg,MAS-IPSP,48.29
+10901,Camataqui (Villa Abecia),2015,Jhonny Gilberto Ortega Alzo,jpg,MAS-IPSP,44.21
+10902,Culpina,2015,Wilfredo Aguirre,jpg,MAS-IPSP,39.06
+10903,Las Carreras,2015,Limber Aparicio Flores,jpg,MAS-IPSP,59.53
+11001,Villa Vaca Guzmán (Muyupampa),2015,Félix Flores Pérez,jpg,MAS-IPSP,30.34
+11002,Huacaya,2015,Henry Nogales Rosado,jpg,MAS-IPSP,43.75
+11003,Macharetí,2015,Eduviges Chambaye Maruanda,jpg,CST,35.75
+20101,La Paz,2015,Luis Antonio Revilla Herrero,jpg,SOL.BO,49.49
+20102,Palca,2015,Rene Vitaliano Aruquipa Ramos,jpg,MCP-NG,22.3
+20103,Mecapaca,2015,Enrique De La Cruz Mendoza,jpg,MAS-IPSP,21.4
+20104,Achocalla,2015,Damaso Teodoro Ninaja Huanca,jpg,MAS-IPSP,22.36
+20105,El Alto,2015,Carmen Soledad Chapeton Tancara,jpg,UN,32.16
+20201,Achacachi,2015,Edgar Ramos Laura,jpg,MAS-IPSP,19.11
+20202,Ancoraimes,2015,Zenon Ramos Mamani,jpg,MAS-IPSP,29.66
+20203,Chua Cocani,2015,Juan Rodríguez Coarite,jpg,MAS-IPSP,26.12
+20204,Huarina,2015,Agustín Quispe Yujra,jpg,MAS-IPSP,31.69
+20205,Santiago de Huata,2015,Roberto Huaycho Villca,jpg,MAS-IPSP,17.91
+20206,Huatajata,2015,Guido Cahuaya Quispe,jpg,MAS-IPSP,33.69
+20301,Coro Coro,2015,Agustín Quispe Mamani,jpg,ASP,28.7
+20302,Caquiaviri,2015,Bruno Álvarez Chambi,jpg,FPV,22.43
+20303,Calacoto,2015,Lucio Suntura Tancara,jpg,MAS-IPSP,28.32
+20304,Comanche,2015,Félix Limachi Herrera,jpg,ASP,24.34
+20305,Charaña,2015,Martín Villalobos Mamani,jpg,MPS,29.54
+20306,Waldo Ballivián,2015,Nestor Justiniano Rojas Salluco,jpg,MAS-IPSP,28.83
+20307,Nazacara de Pacajes,2015,Encarnación Vila Limachi,jpg,MAS-IPSP,47.21
+20308,Santiago de Callapa,2015,Victor Honorio Calle,jpg,MPS,21.82
+20401,Puerto Acosta,2015,Primitivo Pillco Calla,jpg,SOL.BO,24.85
+20402,Mocomoco,2015,Elia Molle Huanca Huarcacho,jpg,MPS,23.94
+20403,Puerto Carabuco,2015,Wálter José Nina Cutipa,jpg,MAS-IPSP,13.06
+20404,Humanata,2015,Aurelio Chavezcallisaya,jpg,MAS-IPSP,20.19
+20405,Escoma,2015,Natalio Chino Mejía,jpg,S.E.,23.23
+20501,Chuma,2015,Ronald Teddy Angles Avendaño,jpg,MAS-IPSP,20.6
+20502,Ayata,2015,Benancio Lipa Huanca,jpg,ASP,24.59
+20503,Aucapata,2015,Rudy Ancelmo Apaza Laura,jpg,ASP,27.54
+20601,Sorata,2015,Celia Rebeca Camargo Apaza,jpg,MAS-IPSP,30.76
+20602,Guanay,2015,Roger Tintaya Mamani,jpg,MPS,21.74
+20603,Tacacoma,2015,Carlos Alberto Aguilar Blanco,jpg,SOL.BO,21.88
+20604,Quiabaya,2015,Armando Rada Murillo,jpg,MAS-IPSP,36.78
+20605,Combaya,2015,Honorato Loayza Marquéz,jpg,MAS-IPSP,54.14
+20606,Tipuani,2015,Roger Abdias Vaca Echalar,jpg,MAS-IPSP,25
+20607,Mapiri,2015,Pedro Roberto Fernández Enriquez,jpg,SOL.BO,26.98
+20608,Teoponte,2015,Eddy Mejía Villanueva,jpg,MAS-IPSP,29.67
+20701,Apolo,2015,Mario Vaquiata,jpg,MAS-IPSP,19.67
+20702,Pelechuco,2015,Ángel Lucho Mamani,jpg,MAS-IPSP,25.93
+20801,Viacha,2015,Delfín Mamani Escóbar,jpg,MAS-IPSP,20.98
+20802,Guaqui,2015,Beatriz Gladys Arce Mendoza,jpg,MPS,22.09
+20803,Tiahuanacu,2015,Octavio Quispe Chura,jpg,MAS-IPSP,23.66
+20804,Desaguadero,2015,Wilfredo Acarapi Aruquipa,jpg,MPS,30.3
+20805,San Andrés de Machaca,2015,Pascual Alanoca Conde,jpg,CAOSAM,36.7
+20806,Jesús de Machaca,2015,Fidel Ramírez Mamani,jpg,MACOJMA,37.59
+20807,Taraco,2015,Juan Quispe Limachi,jpg,MAS-IPSP,24.95
+20901,Luribay,2015,Andrés Edgar Vásquez Siles,jpg,MIDELUR,24.91
+20902,Sapahaqui,2015,Justino Calle Mamani,jpg,MAS-IPSP,26.8
+20903,Yaco,2015,César Rogelio Flores Mamani,jpg,MAS-IPSP,23.59
+20904,Malla,2015,Luis Gonzalo Ruiz Ochoa,jpg,MAS-IPSP,50
+20905,Cairoma,2015,Vïctor Pablo Morales Ruiz,jpg,MAS-IPSP,28.62
+21001,Inquisivi,2015,Mario Surzuri Paco,jpg,MAS-IPSP,44.1
+21002,Quime,2015,Javier Flores Villca,jpg,MAS-IPSP,27.55
+21003,Cajuata,2015,Tito Alcides Maida Laura,jpg,MAS-IPSP,42.26
+21004,Colquiri,2015,Juan Carlos Guzmán Mamani,jpg,MAS-IPSP,32.09
+21005,Ichoca,2015,Alejandro Choque Usnayo,jpg,MAS-IPSP,49.75
+21006,Licoma Pampa,2015,Franklin Mamani Mamani,jpg,MAS-IPSP,39.59
+21101,Chulumani,2015,Vladimir Cándido Vega Morales,jpg,MAS-IPSP,25.98
+21102,Irupana,2015,Clemente Mamani Condorena,jpg,MAS-IPSP,40.84
+21103,Yanacachi,2015,Juan Wilfredo Cossío Zapana,jpg,MYP,31.91
+21104,Palos Blancos,2015,Beimar Calep Mamani Montero,jpg,MAS-IPSP,34.95
+21105,La Asunta,2015,Reynaldo Calcina Luna,jpg,MAS-IPSP,28.51
+21201,Pucarani,2015,Francisco Hidalgo Condori,jpg,MAS-IPSP,18.81
+21202,Laja,2015,Macario Quino Valencia,jpg,MAS-IPSP,25.26
+21203,Batallas,2015,Reynaldo Gutiérrez Chávez,jpg,MPS,30.74
+21204,Puerto Pérez,2015,Ramiro Pablo Alanoca Copa,jpg,MAS-IPSP,28.75
+21301,Sica Sica,2015,Wálter Maizo Alandia,jpg,MAS-IPSP,29.55
+21302,Umala,2015,Wálter Rojas López,jpg,MAS-IPSP,24.84
+21303,Ayo Ayo,2015,Rodolfo Calle Ticona,jpg,MAS-IPSP,21.31
+21304,Calamarca,2015,Yesid Luis Mamani,jpg,MAS-IPSP,22.31
+21305,Patacamaya,2015,Tiburcio Choque,jpg,ASP,22.87
+21306,Colquencha,2015,Benigno Callisaya Queca,jpg,UN,22.14
+21307,Collana,2015,Bertha Eliana Quispe Tito,jpg,UN,34.58
+21401,Coroico,2015,Richard Noel Escóbar Valverde,jpg,MAS-IPSP,28.93
+21402,Coripata,2015,Wilfredo Ortíz Larico,jpg,MAS-IPSP,28.69
+21501,Ixiamas,2015,Jorge Adolfo Haensel Howard,jpg,MPS,30.24
+21502,San Buenaventura,2015,Francisco Javier Delgado Callisaya,jpg,ASP,23.98
+21601,Gral. Juan José Perez (Charazani),2015,Fortunato Calamani Cuno,jpg,MAS-IPSP,24.81
+21602,Curva,2015,Victor Blanco Carita,jpg,MAS-IPSP,50.56
+21701,Copacabana,2015,Félix Pedro Nina Ramos,jpg,MPS,18.67
+21702,San Pedro de Tiquina,2015,David Marconi Calle,jpg,UN,18.52
+21703,Tito Yupanqui,2015,Eugenio Achu,jpg,MPS,38.1
+21801,San Pedro de Curahuara,2015,Fernando Villca Tola,jpg,MAS-IPSP,47.92
+21802,Papel Pampa,2015,Demetrio Callejas Guzmán,jpg,MAS-IPSP,40.25
+21803,Chacarilla,2015,Sergio Muga Zambrana,jpg,ASP,25.8
+21901,Santiago de Machaca,2015,Lizandro Condori Castro,jpg,MPS,46.47
+21902,Catacora,2015,Absalón Conurana Surco,jpg,MAS-IPSP,63.32
+22001,Caranavi,2015,Lidio Roberto Mamani Straus,jpg,FPV,29.65
+22002,Alto Beni,2015,Abrahan Balboa Ticona,jpg,MPS,36.98
+30101,Cochabamba,2015,José María Leyes Justiniano,jpg,DEMOCRATAS,41.65
+30201,Aiquile,2015,Luis López Arnez,jpg,MAS-IPSP,32.84
+30202,Pasorapa,2015,Jaime Hernán Mendieta Salazar,jpg,MAS-IPSP,40.83
+30203,Omereque,2015,Héctor Arce Rodríguez,jpg,MAS-IPSP,63.31
+30301,Independencia,2015,David Campero Morales,jpg,MAS-IPSP,58.87
+30302,Morochata,2015,Pedro Mercado Gómez,jpg,MAS-IPSP,72.45
+30303,Cocapata,2015,Darío Cabrera Villarroel,jpg,MAS-IPSP,83.53
+30401,Tarata,2015,Benjamín Zurita Meneses,jpg,MAS-IPSP,50.97
+30402,Anzaldo,2015,Rubén Antonio Uriona Andia,jpg,MAS-IPSP,45.63
+30403,Arbieto,2015,Renol Almendras Sandagorda,jpg,MAS-IPSP,56.26
+30404,Sacabamba,2015,José Manuel Tordoya Coca,jpg,MAS-IPSP,61.18
+30501,Arani,2015,Dunia Rojas Mamani,jpg,MAS-IPSP,42.93
+30502,Vacas,2015,Eufronio Balderrama,jpg,MAS-IPSP,57.07
+30601,Arque,2015,Casto Coaquira Condori,jpg,MAS-IPSP,77.79
+30602,Tacopaya,2015,León Felipe Sánchez,jpg,MAS-IPSP,74.01
+30701,Capinota,2015,Martin Jora Saavedra,jpg,MAS-IPSP,45.43
+30702,Santivañez,2015,Hugo Escalera Jora,jpg,MAS-IPSP,50.71
+30703,Sicaya,2015,Darío Jora Colque,jpg,MAS-IPSP,65.01
+30801,Cliza,2015,Walker Illanes Román,jpg,CREE,42.76
+30802,Toco,2015,Tito Almendras Alba,jpg,MAS-IPSP,52.01
+30803,Tolata,2015,Walter Vargas Baldelomar,jpg,MAS-IPSP,39.4
+30901,Quillacollo,2015,Eduardo Mérida Balderrama,jpg,FPV,31
+30902,Sipe Sipe,2015,María Heredia Muñoz,jpg,MAS-IPSP,39.38
+30903,Tiquipaya,2015,Juan Carlos Anglo López,jpg,MAS-IPSP,33.97
+30904,Vinto,2015,María Patricia Arce Guzmán,jpg,MAS-IPSP,27.81
+30905,Colcapirhua,2015,Mario Enrique Severich Bustamante,jpg,MAS-IPSP,34.86
+31001,Sacaba,2015,Humberto Sánchez Sánchez,jpg,MAS-IPSP,44.24
+31002,Colomi,2015,Demetrio Pinto Vargas,jpg,MAS-IPSP,69.98
+31003,Villa Tunari,2015,Asterio Romero Villarroel,jpg,MAS-IPSP,84.97
+31101,Tapacarí,2015,Severino Vargas Zelaya,jpg,MAS-IPSP,45.25
+31201,Totora,2015,Emilio Mérida Meneces,jpg,MAS-IPSP,77.8
+31202,Pojo,2015,Eloy Rocha Villarroel,jpg,MAS-IPSP,69.22
+31203,Pocona,2015,Julián Carlos Rodríguez Peredo,jpg,MAS-IPSP,57.39
+31204,Chimoré,2015,Silveriano Lara Arce,jpg,MAS-IPSP,68.33
+31205,Puerto Villarroel,2015,Senobio Nemesio Claros Andrade,jpg,MAS-IPSP,79.34
+31206,Entre Ríos (Bulo Bulo),2015,Aurelio Rojas López,jpg,MAS-IPSP,54.39
+31301,Mizque,2015,Melecio García Montaño,jpg,MAS-IPSP,50.4
+31302,Vila Vila,2015,Emiliano Reyes García,jpg,MAS-IPSP,85.29
+31303,Alalay,2015,Leovegildo Cayoja Rojas,jpg,MAS-IPSP,66.24
+31401,Punata,2015,José Antonio Gonzales Alvarado,jpg,GV,29.94
+31402,Villa Rivero,2015,David Siles Herbas,jpg,MAS-IPSP,34.76
+31403,San Benito,2015,Greeg Albert Breton Baldelomar,jpg,UNICO,28.37
+31404,Tacachi,2015,Elmer Guevara Orellana,jpg,MAS-IPSP,65.77
+31405,Cuchumuela (Villa Gualberto Villarroel),2015,David Guevara Velásquez,jpg,MAS-IPSP,47.23
+31501,Bolívar,2015,Francisco Delgado Ledezma,jpg,MAS-IPSP,59.9
+31601,Tiraque,2015,Eduardo Camacho Castellón,jpg,MAS-IPSP,73.61
+31602,Shinahota,2015,Matilde Campos Arnés,jpg,MAS-IPSP,56.01
+40101,Oruro,2015,Édgar Rafae Bazán Ortega,jpg,MCSFA,19.92
+40102,Caracollo,2015,Juan Chino Salinas,jpg,P.P.,27.76
+40103,El Choro,2015,Edwin Vladimir Challa Huanca,jpg,MAS-IPSP,37.7
+40104,Soracachi (Paria),2015,Óscar Flores Adrián,jpg,MAS-IPSP,33.46
+40201,Challapata,2015,Martín Feliciano Choque,jpg,MAS-IPSP,31.83
+40202,Santuario de Quillacas,2015,Gaby Janet Medrano Mamani,jpg,MAS-IPSP,38.21
+40301,Corque,2015,Elias Elias Cahuana,jpg,MAS-IPSP,34.49
+40302,Choquecota,2015,Benito Apaza Gutierrez,jpg,MAS-IPSP,36.29
+40401,Curahuara de Carangas,2015,Raúl Nelson Contreras Villca,jpg,MAS-IPSP,45.82
+40402,Turco,2015,Freddy Brian Mollo Mollo,jpg,MAS-IPSP,49.11
+40501,Huachacalla,2015,Delicio Canaviri Machaca,jpg,MAS-IPSP,49.28
+40502,Escara,2015,Betty Zenteno Tito,jpg,MAS-IPSP,54.15
+40503,Cruz de Machacamarca,2015,Valois Flores Capuma,jpg,MAS-IPSP,66.87
+40504,Yunguyo del Litoral,2015,Daysi Amaru,jpg,MAS-IPSP,71.15
+40505,Esmeralda,2015,Efraín Capumaviza,jpg,MAS-IPSP,66.87
+40601,Villa Poopó,2015,Gumercinda Lucila Huanca Marca,jpg,MAS-IPSP,31.71
+40602,Pazña,2015,Diony Achacollo Velázquez,jpg,MAS-IPSP,31.99
+40603,Antequera,2015,Gerardo Arroyo Gabriel,jpg,MAS-IPSP,49.29
+40701,Villa Huanuni,2015,Felipe Martínez Mamani,jpg,MAS-IPSP,38.13
+40702,Machacamarca,2015,Darío Yucra Choque,jpg,MAS-IPSP,39.17
+40801,Salinas de Garci Mendoza,2015,Ciro Mamani Veliz,jpg,MAS-IPSP,33.01
+40802,Pampa Aullagas,2015,Tomas Gonzales Cayo,jpg,MAS-IPSP,29.32
+40901,Sabaya,2015,Egdon Pablo Villca Viza,jpg,P.P.,44.81
+40902,Coipasa,2015,Juan Jose Perez Bello,jpg,P.P.,31.91
+40903,Chipaya,2015,Vicente López Lázaro,jpg,MAS-IPSP,37.15
+41001,Toledo,2015,Martín Colque Mamani,jpg,MAS-IPSP,48.69
+41101,Eucaliptus,2015,Jaime Ramírez Luna,jpg,P.P.,35.44
+41201,Andamarca,2015,Jhonny Senobio Flores Gutierrez,jpg,MAS-IPSP,54.28
+41202,Belén de Andamarca,2015,Macrobio Wilson Chuquimia Mollo,jpg,MAS-IPSP,57.81
+41301,Totora,2015,Martha Ramírez Mollo,jpg,MAS-IPSP,33.46
+41401,Santiago de Huari,2015,Jhanet Silvia Marcelo Mamani,jpg,MAS-IPSP,26
+41501,La Rivera,2015,Edwin Chanel Gonzales Viza,jpg,MAS-IPSP,50.23
+41502,Todos Santos,2015,Gabino Colque Miranda,jpg,MAS-IPSP,43.44
+41503,Carangas,2015,Rubén Antonio Plata Flores,jpg,MAS-IPSP,68.64
+41601,Santiago de Huayllamarca,2015,Basilio Lucana Condori,jpg,MAS-IPSP,38.63
+50101,Potosí,2015,Williams Roger Cervantes,jpg,MAS-IPSP,20.23
+50102,Tinguipaya,2015,Alberto Mitha Huanca,jpg,MAS-IPSP,58.05
+50103,Villa de Yocalla,2015,Lidia Mamani Coro,jpg,MAS-IPSP,35.69
+50104,Belén de Urmiri,2015,Alfredo Mamani Vargas,jpg,MAS-IPSP,59.78
+50201,Uncía,2015,Eduardo Patty Condori,jpg,MAS-IPSP,33.73
+50202,Chayanta,2015,William Guzman Romero,jpg,MAS-IPSP,33.25
+50203,Llallagua,2015,Artemio Mamani Characayo,jpg,MAS-IPSP,32.9
+50204,Chuquihuta Ayllu Jucumani,2015,Javier Ossio Huarachi,jpg,POTOSI MOP,38.58
+50301,Betanzos,2015,Juan Noel Téllez Rodríguez,jpg,MAS-IPSP,39.41
+50302,Chaquí,2015,Rafael Bautista Paucara,jpg,MAS-IPSP,24.37
+50303,Tacobamba,2015,Filemón Isla Oquendo,jpg,MAS-IPSP,68.81
+50401,Colquechaca,2015,Eduardo Pacheco Colque,jpg,MAS-IPSP,62.33
+50402,Ravelo,2015,Germán Espada Saavedra,jpg,MAS-IPSP,39.6
+50403,Pocoata,2015,Evert Cocha Tintaya,jpg,MAS-IPSP,60.37
+50404,Ocurí,2015,Alberto Pacaja Cruz,jpg,MAS-IPSP,39.14
+50501,San Pedro de Buena Vista,2015,Williams Aira Corpa,jpg,MAS-IPSP,48.97
+50502,Toro Toro,2015,Eliodoro Uriona Pardo,jpg,MAS-IPSP,70.66
+50601,Cotagaita,2015,Gilberto Montero Ramos,jpg,MAS-IPSP,40
+50602,Vitichi,2015,Leonardo Miranda Duarte,jpg,MAS-IPSP,35.94
+50701,Sacaca,2015,Nelson Gabriel Chambi,jpg,MAS-IPSP,52.23
+50702,Caripuyo,2015,Valerio Ajomado Cruz,jpg,MAS-IPSP,63.83
+50801,Tupiza,2015,Mario Martínez Cazón,jpg,MAS-IPSP,30.67
+50802,Atocha,2015,Martín Ibarra Arroyo,jpg,MAS-IPSP,37.77
+50901,"Colcha ""K""",2015,Segundino Quispe Mamani,jpg,AS,32.91
+50902,San Pedro de Quemes,2015,Huber Orlando Quispe Veliz,jpg,MAS-IPSP,44.82
+51001,San Pablo de Lipez,2015,Bernabé Choque Huayta,jpg,MAS-IPSP,25.76
+51002,Mojinete,2015,Carmen Adela Choquevillca Mamani,jpg,MAS-IPSP,52.63
+51003,San Antonio de Esmoruco,2015,Ángel Gutiérrez Acho,jpg,MAS-IPSP,72.01
+51101,Puna,2015,Florencia Huanaco Villca,jpg,AAOQ,25.63
+51102,"Caiza ""D""",2015,Jaime Fabián Choquevillca,jpg,MAS-IPSP,29.71
+51103,Ckochas,2015,Luis Condori Castillo,jpg,MAS-IPSP,59.96
+51201,Uyuni,2015,Patricio Vito Mendoza Huaylla,jpg,MAS-IPSP,23.91
+51202,Tomave,2015,David Colque Paco,jpg,MAS-IPSP,34.6
+51203,Porco,2015,Freddy Lugo Carmona,jpg,MAS-IPSP,19.75
+51301,Arampampa,2015,Raúl Lorocachi Nicolás,jpg,MAS-IPSP,66
+51302,Acasio,2015,Eloy Luciano Cayara Gutierrez,jpg,MAS-IPSP,62.8
+51401,Llica,2015,Édgar Apala Vidaurre,jpg,MAS-IPSP,44.61
+51402,Tahua,2015,Jhonny Óscar Mamani Gutiérrez,jpg,MAS-IPSP,49.48
+51501,Villazón,2015,Jorge Fernando Acho Chungara,jpg,MAS-IPSP,19.97
+51601,San Agustín,2015,Juan Tomás Catur Bernal,jpg,MAS-IPSP,70.99
+60101,Tarija,2015,Rodrigo Paz Pereira,jpg,UNIR,42.96
+60201,Padcaya,2015,Roger Sergio Farfán Quiroga,jpg,MT,54.85
+60202,Bermejo,2015,Delfor Germán Burgos Aguirre,jpg,MAS-IPSP,41.68
+60301,Yacuiba,2015,Ramiro Vallejos Villalba,jpg,UD-A,32.21
+60302,Caraparí,2015,Wilman Peña Miranda,jpg,MAS-IPSP,32.08
+60303,Villamontes,2015,Omar Yura Peñaranda Soruco,jpg,MAS-IPSP,25.75
+60401,Uriondo (Concepción),2015,Álvaro Horacio Ruíz García,jpg,MAS-IPSP,37.62
+60402,Yunchará,2015,Gladys Valentina Alarcón Farfán,jpg,MAS-IPSP,48.23
+60501,San Lorenzo,2015,Claudio Miguel Ávila Navajas,jpg,UNIR,43.92
+60502,El Puente,2015,Hugo Girón Condori,jpg,MAS-IPSP,41.34
+60601,Entre Ríos,2015,Nicolás Herrera Barca,jpg,MAS-IPSP,40.01
+70101,Santa Cruz de la Sierra,2015,Percy Fernández Áñez,jpg,SPT,33.47
+70102,Cotoca,2015,Wilfredo Añez Carrasco,jpg,DEMOCRATAS,38.5
+70103,Porongo (Ayacucho),2015,Julio Cesar Carrillo Melgar,jpg,DEMOCRATAS,29.52
+70104,La Guardia,2015,Jorge Morales Encinas,jpg,VOCES,45.22
+70105,El Torno,2015,Gerardo Paniagua Vidal,jpg,MAS-IPSP,37.86
+70201,Warnes,2015,Mario Cronembold Aponte,jpg,MAS-IPSP,25.33
+70202,Okinawa,2015,Raul Condori Prudencio,jpg,MAS-IPSP,34.27
+70301,San Ignacio,2015,Moises Fanor Salces Lozano,jpg,DEMOCRATAS,28.38
+70302,San Miguel,2015,Oscar Hugo Dorado Flores,jpg,MAS-IPSP,40.44
+70303,San Rafael,2015,Rafael Julio Alviz Flores,jpg,MNR,34.71
+70401,Buena Vista,2015,Bladimir Chavez Roca,jpg,DEMOCRATAS,44.08
+70402,San Carlos,2015,Marcos Antonio Añez Campos,jpg,DEMOCRATAS,39.28
+70403,Yapacaní,2015,Vicente Flores Terrazas,jpg,MAS-IPSP,40.82
+70404,San Juan,2015,Blanca Jesus Salvatierra Lopez,jpg,MAS-IPSP,35.5
+70501,San José,2015,Germain Caballero Vargas,jpg,DEMOCRATAS,40.17
+70502,Pailón,2015,Marcial Cruz Ortiz,jpg,MAS-IPSP,31.97
+70503,Roboré,2015,Karim Ivan Quezada Dorado,jpg,DEMOCRATAS,36.47
+70601,Portachuelo,2015,Juan Carlos Borja Roman,jpg,DEMOCRATAS,39.55
+70602,Santa Rosa del Sara,2015,Carlos Santiago Guzman Hinojosa,jpg,MAS-IPSP,32.9
+70603,Colpa Bélgica,2015,Sandra Muñoz Gutierrez,jpg,NPC,21.97
+70701,Lagunillas,2015,Hector Contreras Alvarez,jpg,NPC,22.59
+70702,Charagua,2015,Belarmino Solano Salazar,jpg,MAS-IPSP,36.2
+70703,Cabezas,2015,Rodolfo Vallejos Espinoza,jpg,DEMOCRATAS,29.19
+70704,Cuevo,2015,Marcelo Villagra Quispe,jpg,DEMOCRATAS,46.64
+70705,Gutiérrez,2015,Francisco Taborga Quezada,jpg,DEMOCRATAS,50.17
+70706,Camiri,2015,Franz Ivan Valdez Torrico,jpg,MAS-IPSP,35.95
+70707,Boyuibe,2015,Alejandria Vacaflor Flores,jpg,MAS-IPSP,31.09
+70801,Vallegrande,2015,Casto Romero Peña,jpg,DEMOCRATAS,55.06
+70802,El Trigal,2015,Maria Isabel Mercado Quiroz,jpg,DEMOCRATAS,41.35
+70803,Moro Moro,2015,Lucio Rojas Gonzales,jpg,DEMOCRATAS,48.16
+70804,Postrervalle,2015,Willy Paniagua Mariscal,jpg,DEMOCRATAS,63.39
+70805,Pucará,2015,Carmen Ruth Calzadilla Montaño,jpg,DEMOCRATAS,50.48
+70901,Samaipata,2015,Flavio Lopez Escalera,jpg,MAS-IPSP,24.45
+70902,Pampa Grande,2015,Elsa Candia Quiroz,jpg,MAS-IPSP,36.66
+70903,Mairana,2015,Sinforoso Mamani Valencia,jpg,MAS-IPSP,41.23
+70904,Quirusillas,2015,Fausto Gabriel Jimenez Quispe,jpg,DEMOCRATAS,57.77
+71001,Montero,2015,Mario Fortunato Baptista Conde,jpg,MAS-IPSP,41.98
+71002,Gral. Saavedra,2015,Limberg Torrico Luizaga,jpg,DEMOCRATAS,44.83
+71003,Mineros,2015,Zenon Soto Soto,jpg,MAS-IPSP,23.36
+71004,Puerto Fernández Alonso,2015,Inocencio Cruz Castro,jpg,ASIP,42.76
+71005,San Pedro,2015,José Rojas Paniagua,jpg,MAS-IPSP,35.03
+71101,Concepción,2015,David Mollinedo Guzman,jpg,DEMOCRATAS,31.04
+71102,San Javier,2015,Ramon Erwin Mayser Zarco,jpg,MNR,34.14
+71103,San Ramón,2015,Ismael Villca Mamani,jpg,MAS-IPSP,38.01
+71104,San Julián,2015,Faustino Copa Flores,jpg,MAS-IPSP,40.38
+71105,San Antonio de Lomerío,2015,Ignacio Soriocó Surubi,jpg,MAS-IPSP,35.73
+71106,Cuatro Cañadas,2015,Genaro Carreño Zarate,jpg,ASIP,38.62
+71201,San Matías,2015,Fabio Lopez Olivares,jpg,DEMOCRATAS,25.47
+71301,Comarapa,2015,Hugo Valverde Veizaga,jpg,MAS-IPSP,44.18
+71302,Saipina,2015,Hernando Becerra Serrano,jpg,MAS-IPSP,45.45
+71401,Puerto Suárez,2015,Sebastian Hurtado Rodriguez,jpg,MNR,28.86
+71402,Puerto Quijarro,2015,Ybar Antelo Dorado,jpg,DEMOCRATAS,38.12
+71403,Carmen Rivero Torres,2015,Asis Aguilera Petzold,jpg,DEMOCRATAS,34.17
+71501,Ascención de Guarayos,2015,Suizo De Nilson Carrasco Espinoza,jpg,ASIP,25.27
+71502,Urubichá,2015,Paul Añanguinguri Rora,jpg,MAS-IPSP,34.98
+71503,El Puente,2015,Angel Copa Martinez,jpg,MAS-IPSP,39.23
+80101,Trinidad,2015,Mario Suarez Hurtado,jpg,MNR,35.67
+80102,San Javier,2015,Jampri Schestron Soto,jpg,MAS-IPSP,41.47
+80201,Riberalta,2015,Omar Núñez Vela Rodríguez,jpg,MAS-IPSP,31.81
+80202,Guayaramerín,2015,Helen Gorayeb Callejas Antelo,jpg,MNR,30.71
+80301,Reyes,2015,José Roca Haensel,jpg,MNR,44.9
+80302,San Borja,2015,Jorge Añez Claros,jpg,MAS-IPSP,37.6
+80303,Santa Rosa,2015,Larry García Salas,jpg,NACER,35.65
+80304,Rurrenabaque,2015,Anacleto Dávalos Arias,jpg,MAS-IPSP,38.5
+80401,Santa Ana,2015,Gustavo Humberto Antelo Chávez,jpg,MNR,45.34
+80402,Exaltación,2015,Marcos Daza Velasco,jpg,MAS-IPSP,50.8
+80501,San Ignacio,2015,Roberto Tibusa Matareco,jpg,NACER,35.06
+80601,Loreto,2015,Gaby Vania Balcázar Ribera,jpg,MAS-IPSP,45.96
+80602,San Andrés,2015,Wilson Lacoa Zabala,jpg,NACER,39
+80701,San Joaquín,2015,Hugo Vargas Lima Lobo,jpg,MNR-UD,49.95
+80702,San Ramón,2015,Efraín Salvatierra Guzmán,jpg,MNR,37.03
+80703,Puerto Siles,2015,Carlos Alberto Cuellar Justiniano,jpg,MAS-IPSP,51.29
+80801,Magdalena,2015,José Luis Añez Roca,jpg,MNR,53.64
+80802,Baures,2015,Juan Agreda Moreno,jpg,MAS-IPSP,56.57
+80803,Huacaraje,2015,Ginger Llapiz Leigue,jpg,MAS-IPSP,43.85
+90101,Cobija,2015,Luis Gatty Ribeiro Roca,jpg,MAS-IPSP,36.31
+90102,Porvenir,2015,Regis Germán Richter Alencar,jpg,MAS-IPSP,60.64
+90103,Bolpebra,2015,Erlin Hurtado Casanova,jpg,MAS-IPSP,39.11
+90104,Bella Flor,2015,Itamar Subtil Pedroso,jpg,MAS-IPSP,52.01
+90201,Puerto Rico,2015,Julián Ávila Pérez,jpg,MAS-IPSP,38.9
+90202,San Pedro,2015,Favio Durán Méndez,jpg,MAS-IPSP,50.71
+90203,Filadelfia,2015,Juan Carlos Zabala Romaña,jpg,MAS-IPSP,51.33
+90301,Puerto Gonzalo Moreno,2015,Roberto Ariel Limpias Olmos,jpg,MAS-IPSP,67.59
+90302,Blanca Flor (San Lorenzo),2015,Hansy Gonzales Aguirre,jpg,MAS-IPSP,62.51
+90303,El Sena,2015,Napoleón Antelo Nuñez,jpg,MAS-IPSP,61.61
+90401,Santa Rosa del Abuná,2015,Edgar Limpias López,jpg,MAS-IPSP,48.35
+90402,Humaita (Ingavi),2015,Teodoro Muñoz Roca,jpg,MAS-IPSP,45
+90501,Nueva Esperanza,2015,Margarita Jiménez Aramayo,jpg,MAS-IPSP,56.37
+90502,Villa Nueva (Loma Alta),2015,Lino Mercietabatte,jpg,MAS-IPSP,41.18
+90503,Santos Mercado (Reserva),2015,Antonio Vergara Batte,jpg,MAS-IPSP,36.82

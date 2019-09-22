@@ -1,0 +1,410 @@
+-- @file aux.dml
+--
+-- @brief Archivo de datos inciales del esquema im
+--
+-- @ingroup Backend
+--
+-- @author Alejandro Salamanca <alejandro@devenet.net>
+-- @author Virginia Kama <virginia@devenet.net>
+-- @author Josué Gutiérrez Quino <jquino@devenet.net>
+-- @author Javier Ramiro Castillo Tarqui <rcastillo@devenet.net>
+
+-- This file is part of the indicadores-municipales distribution
+-- (https://fam.egob.org or
+-- https://github.com/DevenetSRL/indicadores).
+-- Copyright (c) 2019 Devenet SRL.
+--
+-- This program is free software: you can redistribute it and/or modify  
+-- it under the terms of the GNU General Public License as published by  
+-- the Free Software Foundation, version 3.
+--
+-- This program is distributed in the hope that it will be useful, but 
+-- WITHOUT ANY WARRANTY; without even the implied warranty of 
+-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+-- General Public License for more details.
+--
+-- You should have received a copy of the GNU General Public License 
+-- along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+with acervos ( identificador, titulo, contribuidor, columnas, asunto, descripcion ) as (
+    values
+        ( 'municipios', 'Información de los municipios de Bolivia',
+          'SIM-FAM-Bolivia',
+          array[
+              'nombre|text|Nombre del municipio (s/INE)',
+              'otros_nombres|text|Otros nombres del municipio',
+              'seccion|text|Sección municipal',
+              'circunscripcion|text|Circunscripción(es)',
+              'departamento|text|Departamento',
+              'provincia|text|Provincia',
+              'mancomunidad|text|Mancomunidad',
+              'region|text|AMDES',
+              'amdes|text|AMDES',
+              'creacion|date|Fecha de creación',
+              'norma|text|Norma de creación',
+              'cantones|int|Otros nombres del municipio',
+              'fronterizo|boolean|¿Es un municipio fronterizo?',
+              'altitud|number|Altitud media [m.s.n.m.]',
+              'superficie|number|Área o duperficie [km²]',
+              'perimetro|number|Périmetro [km]',
+              'distancia|number|Distancia a la capital departamental [Km]',
+              'clima|text|Clima',
+              'temperatura|number|Temperatura promedio [°C]' ],
+          'Información de base del SIM-FAM Bolivia',
+          'Información de base de los municipios. '
+              'Contiene la información de definición de un municipio, '
+              'como el Código INE, Nombre del Municipio, Departamento, '
+              'Provincia, Mancomunidad, AMDES, etc.' ),
+-------------------------------------------------------              
+        ( 'alcaldia', 'Datos de la Alcaldía Municipal',
+          'SIM-FAM-Bolivia',
+          array[
+             'direccion|text|Dirección del municipio',
+             'telf_alcaldia|text|Teléfonos de la Alcaldía',
+             'telf_concejo|text|Teléfonos del Concejo',
+             'fax|text|Teléfonos/Fax',
+             'email|text|Correo electrónico',
+             'web|text|Página web',
+             'latitud|number|Latitud',
+             'longitud|number|Longitud'
+             ],
+          'Información de contacto con el municipio',
+          'Información de contacto, dirección, teléfonos, web, etc.' ),
+-------------------------------------------------------              
+        ( 'poblacion', 'Población por género y área',
+          'Instituto Nacional de Estadística (INE)',
+          array[
+            'mujer_rural|integer|Mujeres, área rural',
+            'mujer_urbana|integer|Mujeres, área urbana',
+            'hombre_rural|integer|Hombres, área rural',
+            'hombre_urbana|integer|Hombres, área rural',
+            'm_0|integer|Población mujeres de 0 a 4 años',
+            'm_5|integer|Población mujeres de 5 a 9 años',
+            'm_10|integer|Población mujeres de 10 a 14 años',
+            'm_15|integer|Población mujeres de 15 a 19 años',
+            'm_20|integer|Población mujeres de 20 a 24 años',
+            'm_25|integer|Población mujeres de 25 a 29 años',
+            'm_30|integer|Población mujeres de 30 a 34 años',
+            'm_35|integer|Población mujeres de 35 a 39 años',
+            'm_40|integer|Población mujeres de 40 a 44 años',
+            'm_45|integer|Población mujeres de 45 a 49 años',
+            'm_50|integer|Población mujeres de 50 a 54 años',
+            'm_55|integer|Población mujeres de 55 a 59 años',
+            'm_60|integer|Población mujeres de 60 a 64 años',
+            'm_65|integer|Población mujeres de 65 a 69 años',
+            'm_70|integer|Población mujeres de 70 a 74 años',
+            'm_75|integer|Población mujeres de 75 a 79 años',
+            'm_80|integer|Población mujeres de 80 a 84 años',
+            'm_85|integer|Población mujeres de 85 a 89 años',
+            'm_90|integer|Población mujeres de 90 a 94 años',
+            'm_95|integer|Población mujeres de 95 a 99 años',
+            'm_100|integer|Población mujeres de más de 100 años',
+            'h_0|integer|Población hombres de 0 a 4 años',
+            'h_5|integer|Población hombres de 5 a 9 años',
+            'h_10|integer|Población hombres de 10 a 14 años',
+            'h_15|integer|Población hombres de 15 a 19 años',
+            'h_20|integer|Población hombres de 20 a 24 años',
+            'h_25|integer|Población hombres de 25 a 29 años',
+            'h_30|integer|Población hombres de 30 a 34 años',
+            'h_35|integer|Población hombres de 35 a 39 años',
+            'h_40|integer|Población hombres de 40 a 44 años',
+            'h_45|integer|Población hombres de 45 a 49 años',
+            'h_50|integer|Población hombres de 50 a 54 años',
+            'h_55|integer|Población hombres de 55 a 59 años',
+            'h_60|integer|Población hombres de 60 a 64 años',
+            'h_65|integer|Población hombres de 65 a 69 años',
+            'h_70|integer|Población hombres de 70 a 74 años',
+            'h_75|integer|Población hombres de 75 a 79 años',
+            'h_80|integer|Población hombres de 80 a 84 años',
+            'h_85|integer|Población hombres de 85 a 89 años',
+            'h_90|integer|Población hombres de 90 a 94 años',
+            'h_95|integer|Población hombres de 95 a 99 años',
+            'h_100|integer|Población hombres de más de 100 años'
+          ],
+          'Distribución de población por género, área y edad. INE Censo de Población y vivienda 2012.',
+          'Cantidad de hombres y mujeres, tanto del área urbana como rural' ),
+-------------------------------------------------------              
+        ( 'vivienda', 'Vivienda por área',
+          'Instituto Nacional de Estadística (INE)',
+          array[
+            'rural|integer|Viviendas área rural',
+            'urbana|integer|Viviendas área urbana',
+            'tipo_desague|text|Tipo de desagüe',
+            'tenencia|text|Tenencia de la vivienda', 
+            'acceso_agua|text|Acceso a agua'
+          ],
+          'Distribución de viviendas por área. INE Censo de Población y vivienda 2012.',
+          'Cantidad de viviendas en el área rural y en el área urbana.' ),
+-------------------------------------------------------
+        ( 'alcalde', 'Datos de los alcaldes municipales',
+          'FAM - Gobiernos Municipales Autónomos',
+          array[
+            'gestion|text|Gestión de mandato del alcalde',
+            'alcalde|text|Alcaldes de los municipios',
+            'foto|text|Fotos de los alcaldes municipales',
+            'partido|text|Partido político del alcalde',
+            'votos|number|Votación porcentual'
+          ],
+          'Información de alcaldes municipales.',
+          'Alcaldes por municipio.' ),
+        -------------------------------------------------------
+        ( 'eleccion', 'Información electoral',
+          'Órgano Electoral Plurinacional (OEP)',
+          array[
+            'concejales|integer|Cantidad de concejales',
+            'concejales_hombres|integer|Cantidad de concejales hombres',
+            'concejales_mujeres|integer|Cantidad de concejales mujeres',
+            'concejo|text|Distribución de concejales por sigla',
+            'votacion|text|Distribución de votos por sigla',
+            'resultado|text|Resultados generales'
+          ],
+          'Elección de concejales y votación otenida',
+          'Información de la elección de concejalas y concejales, la distribución de votos' )
+
+        -- ( 'actividad_economica', 'Principal actividad económica', 'Instituto Geográfico Militar (IGM), Servicio Nacional de Meteorología e Hidrología (SENAMHI), Administradora Boliviana de Carreteras (ABC), Gobiernos Municipales Autónomos, Organismo Electoral Plurinacional (OEP), Unidad de Productividad y Competitividad (UPC)', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'vias_acceso', 'Acceso al municipio', 'Gobiernos Municipales Autónomos', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'población', 'Indicadores demográficos', 'Instituto Nacional de Estadística (INE)', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'salud1', 'Gasto en salud', 'Sistema Nacional de Información de Salud (SNIS)- Ministerio de Salud y Deportes', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'salud2', 'Infraestructura de salud', 'Sistema Nacional de Información de Salud (SNIS)- Ministerio de Salud y Deportes', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'salud3', 'Recursos humanos en salud', 'Sistema Nacional de Información de Salud (SNIS)- Ministerio de Salud y Deportes', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'salud4', 'Cobertura en salud', 'Sistema Nacional de Información de Salud (SNIS)- Ministerio de Salud y Deportes', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'educacion1', 'Gasto en educación', 'Sistema e Información de Educación (SIE)- Ministerio de Educación', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'educacion2', 'Infraestructura y RRHH en educación', 'Sistema e Información de Educación (SIE)- Ministerio de Educación', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'actividad1', 'Actividad económica', 'FUNDEMPRESA', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'fiscal', 'Ingresos y gastos en materias competenciales', 'Sistema Integrado de Gestión y Modernización Administrativa (SIGMA), Sistema Integrado de Contabilidad (SICON) - Ministerio de Economía y Finanzas Públicas', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+        -- ( 'forestal', 'Medio ambiente', 'Autoridad de Fiscalización y Control Social de Bosques y Tierra (ABT)', array[]::text[], 'Sin asunto', 'Sin descripcion' ),
+
+     )
+     select im.crearAcervos(
+         :'token',
+         identificador,
+         titulo,
+         contribuidor,
+         columnas,
+         asunto,
+         descripcion )
+       from
+         acervos;
+
+select im.activarAcervos( :'token', 'municipios' );
+select im.crearTablaAcervos( :'token', 'municipios' );
+
+alter table im.carrusel add constraint codigo foreign key (cod_ine) references municipios (cod_ine) on delete restrict on update cascade;
+
+select im.activarAcervos( :'token', 'alcaldia' );
+select im.crearTablaAcervos( :'token', 'alcaldia' );
+
+select im.activarAcervos( :'token', 'poblacion' );
+select im.crearTablaAcervos( :'token', 'poblacion' );
+
+select im.activarAcervos( :'token', 'vivienda' );
+select im.crearTablaAcervos( :'token', 'vivienda' );
+
+select im.activarAcervos( :'token', 'alcalde' );
+select im.crearTablaAcervos( :'token', 'alcalde' );
+
+select im.activarAcervos( :'token', 'eleccion' );
+select im.crearTablaAcervos( :'token', 'eleccion' );
+
+\set csv_path `pwd`
+
+select im.cargaAcervos(
+    :'token',
+    'municipios',
+    'Carga inicial de datos',
+    :'csv_path' || '/csv/municipios.csv' );
+
+select im.cargaAcervos(
+    :'token',
+    'alcaldia',
+    'Carga inicial de datos',
+    :'csv_path' || '/csv/alcaldia.csv' );
+
+select im.cargaAcervos(
+    :'token',
+    'poblacion',
+    'Carga inicial de datos',
+    :'csv_path' || '/csv/poblacion.csv' );
+
+select im.cargaAcervos(
+    :'token',
+    'vivienda',
+    'Carga inicial de datos',
+    :'csv_path' || '/csv/vivienda.csv' );
+
+select im.cargaAcervos(
+    :'token',
+    'alcalde',
+    'Carga inicial de datos de FAM Bolivia',
+    :'csv_path' || '/csv/alcalde-2011.csv' );
+    
+select im.cargaAcervos(
+    :'token',
+    'eleccion',
+    'TSE http://atlaselectoral.oep.org.bo/#/sub_proceso/33/1/4/datos-abiertos',
+    :'csv_path' || '/csv/eleccion-2011.csv' );
+    
+select im.cargaAcervos(
+    :'token',
+    'alcalde',
+    'Carga de datos de alcaldes FAM Bolivia',
+    :'csv_path' || '/csv/alcalde-2015.csv' );
+
+select im.cargaAcervos(
+    :'token',
+    'eleccion',
+    'TSE http://atlaselectoral.oep.org.bo/#/sub_proceso/33/1/4/datos-abiertos',
+    :'csv_path' || '/csv/eleccion-2015.csv' );
+
+-- update im.columnas set tipo_columna = 'json' where nombre_columna = 'mancomunidad';
+-- update im.columnas set tipo_columna = 'json' where nombre_columna = 'norma';
+-- alter table municipios alter column mancomunidad type json using mancomunidad::JSON ;
+-- alter table municipios alter column norma type json using norma::JSON ;
+
+
+-- Cargar InfoCard inicial
+\set ficha `cat plantillas/ficha.svg`
+select im.crearInfoFichas(
+    :'token',
+    'Datos generales',
+    :'ficha',
+    'Datos generales de municipio' );
+
+select im.activarInfoFicha( :'token', 1 );
+
+select im.crearInfoFichas(
+    :'token',
+    'Otros datos generales',
+    :'ficha',
+    'Datos generales de municipio' );
+
+-- select im.activarInfoFicha( :'token', 2 );
+
+with carrusel ( descripcion, columna, operacion, formato, icono  ) as (
+    values
+        (
+        'Mayor población de mujeres en el área urbana',
+        29, --'mujer_urbana',
+        'max',
+        'fmt.mujeres',
+        'people' ),
+        (
+        'Cantidad de cantones en todos los municipios',
+        12, --'cantonoes', 
+        'sum',
+        'fmt.cantones',
+        'map' ),
+        (
+        'Cantidad de viviendas',
+        75, --'vivienda',
+        'sum',
+        'fmt.vivienda',
+        'home' ),
+        (
+        'Cantidad de provincias',
+        6, --'provincias',
+        'count',
+        'fmt.provincia',
+        'place' ),
+        (
+        'Cantidad de hombres en el área rural',
+        30, --'hombres_rural',
+        'sum',
+        'fmt.hombres',
+        'people_outline' ),
+        (
+        'Cantidad de mujeres en el área rural',
+        28, --'mujeres_rural',
+        'sum',
+        'fmt.mujeres',
+        'people' ),
+        (
+        'Más mujeres en el área rural',
+        28, --'mujeres_rural',
+        'max',
+        'fmt.mujeres',
+        'people' ),
+        (
+        'Mayor cantidad de viviendas en el área rural',
+        74, --'viviendas_rural',
+        'max',
+        'fmt.vivienda',
+        'home' ),
+        (
+        'Mayor cantidad de viviendas en el área urbana',
+        75, --'viviendas_urbana',
+        'max',
+        'fmt.vivienda',
+        'home' ),
+        (
+        'Municipio con mayor altitud m.s.n.m.',
+        14, --'altitud',
+        'max',
+        'fmt.msndm',
+        'satellite' ),
+        (
+        'Municipio con menor altitud m.s.n.m.',
+        14, --'altitud',
+        'min',
+        'fmt.msndm',
+        'terrain' )
+     )
+     select im.crearCarrusel(
+         :'token',
+         descripcion,
+         columna,
+         operacion,
+         null,
+         null,
+         formato,
+         icono )
+       from  
+         carrusel;
+
+select im.actualizarDatosCarrusel( :'token' );
+--TODO: Revisar como se realizara el cáculo de los valores de las columnas
+-- que sean bastante grande como superfice y tambien revisar
+-- como se hará el uso de unidades
+-------------------------------------------------------------------------------------
+
+-- Cargar Ficha Vivienda
+\set ficha `cat plantillas/fichaVivienda.svg`
+select im.crearInfoFichas(
+    :'token',
+    'Datos de vivienda',
+    :'ficha',
+    'Datos generales de vivienda municipio' );
+select im.activarInfoFicha( :'token', 3 );
+
+\set ficha `cat plantillas/fichaPoblacion.svg`
+select im.crearInfoFichas(
+    :'token',
+    'Datos de población',
+    :'ficha',
+    'Datos generales de poblacion municipal' );
+select im.activarInfoFicha( :'token', 4 );
+       
+\set ficha `cat plantillas/ficha-alcaldia.svg`
+select im.crearInfoFichas(
+    :'token',
+    'Información sobre alcaldía',
+    :'ficha',
+    'Datos generales de la alcaldía municipal.' );
+select im.activarInfoFicha( :'token', 5 ); 
+
+
+\set ficha `cat plantillas/fichaSintesisVivienda.svg`
+select im.createCardV(
+    :'token',
+    'Información de vivienda',
+    :'ficha',
+    'Datos de vivienda' );
+select im.activateCardV( :'token', 1 ); 
+
+\set ficha `cat plantillas/fichaSintesisPoblacion.svg`
+select im.createCardV(
+    :'token',
+    'Información de población',
+    :'ficha',
+    'Datos de población' );
+select im.activateCardV( :'token', 2 ); 

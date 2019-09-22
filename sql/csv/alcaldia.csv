@@ -1,0 +1,340 @@
+cod_ine,nombre,direccion,telf_alcaldia,telf_concejo,fax,email,web,latitud,longitud
+10101,Sucre,Plaza 25 de Mayo Nº 1,4-6451074 4-6440926,,,,,-19.04651959,-65.26016794
+10102,Yotala,Plaza 25 de Mayo Nº 1,4-6430590,,4-6430590,,,-19.16208501,-65.264379714
+10103,Poroma,Plaza 25 de Mayo ,,,,,,-18.537912393,-65.425041422
+10201,Villa Azurduy,Calle Alberto Salinas s/n esq. Plaza 14 de Marzo,46939104,,46939104,,,-20.105651642,-64.413586386
+10202,Tarvita,Calle Manuel Asencio Padilla s/n,46939843,,46939843,,,-19.926034706,-64.483608488
+10301,Villa Zudañez,Plaza 6 de Agosto s/n,46936116,,46936116,,,-19.119781885,-64.698895727
+10302,Presto,Plaza 14 de Enero Nº 1,,,,,,-18.930181628,-64.936970297
+10303,Villa Mojocoya,Plaza 2 de Agosto s/n,,,,,,-18.763363538,-64.617900413
+10304,Icla,Plaza Principal 10 de diciembre,,,,,,-19.363430097,-64.793112491
+10401,Padilla,Plaza Manuel Ascencio Padilla s/n,4-6936007,,4-6936007,,,-19.307310645,-64.301972793
+10402,Tomina,Av. San Pablo esq. Avaroa Nº 1,4-6936098,,4-6936098,,,-19.185425,-64.46060229
+10403,Sopachuy,Plaza Guillermo Cueto,4-6936052,,4-6936052,,,-19.48701914,-64.474730546
+10404,Villa Alcalá,Plaza 25 de Mayo s/n,46936042,,46936042,,,-19.366277875,-64.389300742
+10405,El Villar,Calle Avaroa esq. 14 de Septiembre,46932041,,46932041,,,-19.628835196,-64.309608576
+10501,Monteagudo,Calle Saúl Aldenur esq. Sucre s/n,46472224,,46472228,,,-19.79989265,-63.954767496
+10502,San Pablo de Huacareta,Plaza 21 de Septiembre s/n,46479212,,46479212,,,-20.366775718,-64.002738775
+10601,Tarabuco,Calle 1 ro de Mayo esq. Potosí,46936074,,,,,-19.181146374,-64.915421057
+10602,Yamparáez,Calle Sucre s/n,46936104,,46936104,,,-19.189121435,-65.1181038
+10701,Camargo,Calle Bolívar Nº 10,46292018,,46292017,,,-20.640628323,-65.210043707
+10702,San Lucas,Plaza Trigo Arce s/n,46937890,,46937890,,,-20.101980489,-65.133564078
+10703,Incahuasi,Calle Junín Plaza del Inca s/n,46937724,,46937724,,,-20.78370037,-64.867332924
+10704,Villa Charcas,"Plaza Julio Andia, Calle otoestraus s/n",4-6937689,,,,,,
+10801,Villa Serrano,Calle Potosí esq. 6 de Agosto,46936033,,46936033,,,-19.123214169,-64.323262336
+10901,Camataqui (Villa Abecia),"Plaza 25 de Mayo, Calle Avaroa s/n",46937677,,46937677,,,-20.973967501,-65.231008307
+10902,Culpina,Plaza 10 de Diciembre s/n,46937615,,4-6937615,,,-20.823511845,-64.943382416
+10903,Las Carreras,Plaza 15 de febrero s/n,46937650,,46937650,,,-21.211126018,-65.207187058
+11001,Villa Vaca Guzmán (Muyupampa),Plaza 6 de Agosto s/n,46479234,,46479233,,,-19.893232546,-63.748670185
+11002,Huacaya,Calle Comercio s/n,46933509,,,,,-20.743663068,-63.664651378
+11003,Macharetí,Calle 25 de Mayo s/n esq. 16 de Julio,46937660,,46937660,,,-20.814572643,-63.361192406
+20101,La Paz,Calle Mercado y Colón Nº 1298,2202000 2650000,,,,,-16.493610095,-68.134691025
+20102,Palca,Plaza Pedro Domingo Murillo,2-2700122 2700142,,,,,-16.560943127,-67.952814701
+20103,Mecapaca,Plaza Simona Manzaneda s/n,2-2749042,,,,,-16.665694465,-68.027661065
+20104,Achocalla,,2-2890084 2890099,,,,,-16.574501002,-68.166733074
+20105,El Alto,"Av. 6 de Marzo, Calle 11 antes de la Aduana",2-2829198 2829272,,2-2829434,,,-16.494680203,-68.173394956
+20201,Achacachi,Plaza Mariscal Santa Cruz s/n,2136503,,2-2136503,,,-16.043286928,-68.685281851
+20202,Ancoraimes,Pla. 6 de Agosto,2-2136528,,,,,-15.897132624,-68.906967212
+20203,Chua Cocani,,,,,,,,
+20204,Huarina,Plaza Principal de Huarina s/n,2-2139767,,,,,-16.19121,-68.60027
+20205,Santiago de Huata,Plaza Pirncipal esq. bajada hacia el Lago,2-2895211,,,,,,
+20206,Huatajata,,,,,,,,
+20301,Coro Coro,Plaza 15 de Agosto s/n,,,2-2134365,,,-17.178161419,-68.453093217
+20302,Caquiaviri,Plaza Melchor León de la Barra s/n,2-2227542,,,,,-17.023274381,-68.607004945
+20303,Calacoto,Plaza 15 de Agosto s/n,,,,,,-17.283191215,-68.636370162
+20304,Comanche,Plaza 15 de Agosto s/n,,,,,,-16.956760353,-68.427649489
+20305,Charaña,Plaza 6 de Agosto s/n,,,2-2135554,,,-17.593935446,-69.446114189
+20306,Waldo Ballivián,Plaza Principal,,,,,,-17.082819407,-68.186255757
+20307,Nazacara de Pacajes,Plaza 24 de Septiembre s/n,,,,,,-16.937332764,-68.764397242
+20308,Santiago de Callapa,Plaza Principal s/n,,,,,,-17.479588741,-68.355644448
+20401,Puerto Acosta,Plaza 5 de Noviembre s/n,,,,,,-15.53298067,-69.252206166
+20402,Mocomoco,Plaza Central Mocomoco s/n,,,,,,-15.455732364,-68.996394358
+20403,Puerto Carabuco,Plaza 3 de Mayo s/n,,,,,,-15.758208895,-69.063874647
+20404,Humanata,Plaza Francisco s/n,2-2227542,,,,,,
+20405,Escoma,Plaza 30 de abril s/n,2-2133023,,,,,,
+20501,Chuma,Plaza Principal de Chuma,,,,,,-15.479623439,-68.898518824
+20502,Ayata,,,,,,,-15.459248947,-68.834701053
+20503,Aucapata,Plaza Idelfonzo de las Muñecas s/n,,,,,,-15.479417991,-68.718922022
+20601,Sorata,Plaza principal Gral. Enrique Peñaranda s/n,,,,,,-15.773249234,-68.649387874
+20602,Guanay,Plaza Gualberto Villarroel Nº 1,2-2136282,,2-2136205,,,-15.495946836,-67.882632174
+20603,Tacacoma,Plaza 21 de Noviembre s/n,,,,,,-15.58939688,-68.645240112
+20604,Quiabaya,Plaza Quiabaya s/n,,,,,,-15.632848152,-68.703181577
+20605,Combaya,Plaza 14 de septiembre Nº100,,,,,,-15.80527169,-68.754760669
+20606,Tipuani,Plaza El Minero Nº1,,,2-2136264,,,-15.565076743,-68.020798456
+20607,Mapiri,Plaza 16 de Julio s/n.,,,,,,-15.310308397,-68.226818614
+20608,Teoponte,Plaza Principal.,2-2896260,,2-2896260,,,-15.495700549,-67.817525133
+20701,Apolo,Plaza Bolivar Nº 45,2-33199 2134290,,2-2333199,,,-14.717410525,-68.418039292
+20702,Pelechuco,Plaza 25 de Julio s/n,,,,,,-14.820212719,-69.070213666
+20801,Viacha,Plaza Principal José Ballivian s/n,2-2800006 2800105,,2-2800130,,,-16.653688867,-68.301563133
+20802,Guaqui,"Puerto de Guaqui s/n, final calle Ballivián",2-2136606,,,,,-16.598438106,-68.836605317
+20803,Tiahuanacu,Plaza 14 de Septiembre s/n,2-2895102,,2-2895102,,,-16.552943297,-68.681141313
+20804,Desaguadero,"Plaza 9 de Noviembre, Av. 16 de Julio",2-2136568,,2-2136568,,,-16.566492574,-69.035322201
+20805,San Andrés de Machaca,Plaza Principal,,,,,,-16.953401714,-68.968603523
+20806,Jesús de Machaca,"Ex Colegio, frente al Cemento",,,,,,-16.744249189,-68.807240086
+20807,Taraco,Plaza Principal,2-2895300,,,,,,
+20901,Luribay,Plaza José Manuel Pando s/n,,,,,,-17.062512069,-67.661242261
+20902,Sapahaqui,Plaza Sapahaqui s/n,,,,,,-16.888535134,-67.949628417
+20903,Yaco,Plaza de Armas s/n,,,,,,-17.157969176,-67.410692811
+20904,Malla,Plaza Murillo Nº 21,,,,,,-17.040112167,-67.450582926
+20905,Cairoma,Plaza 16 de Julio s/n/,,,,,,-16.903466416,-67.53998815
+21001,Inquisivi,Plaza Murillo s/n,,,,,,-16.907745409,-67.138330951
+21002,Quime,Plaza 6 de Agosto s/n,2-2135644,,2-2136645,,,-16.981410277,-67.217917242
+21003,Cajuata,Plaza Principal de Cajuata s/n.,,,,,,-16.699016339,-67.172648141
+21004,Colquiri,Zona Huayrapata s/n,,,2-2136889,,,-17.387683307,-67.128681428
+21005,Ichoca,Plaza 14 de Septiembre s/n,,,,,,-17.139833294,-67.187476809
+21006,Licoma Pampa,Av. Bush s/n,,,,,,-16.805689274,-67.202088823
+21101,Chulumani,Plaza Libertad esq. Calle Pando s/n,2-2136120,,2-2136221,,,-16.409357987,-67.525732119
+21102,Irupana,Plaza Victorio Lanza s/n,2-2896113 2896112,,2-2896113,,,-16.465799008,-67.454647301
+21103,Yanacachi,Plaza Libertad s/n,2-2896083 2148836,,,,,-16.390542048,-67.735261203
+21104,Palos Blancos,Plaza de Armas 20 de Junio s/n,,,,,,-15.584800367,-67.24798401
+21105,La Asunta,Plaza 24 de Septiembre s/n,,,,,,-16.12433636,-67.194624238
+21201,Pucarani,Plaza Franz Tamayo s/n,2-2895164,,,,,-16.399271323,-68.477478299
+21202,Laja,Plaza Alonzo de Mendoza s/n,,,,,,-16.536533689,-68.385518225
+21203,Batallas,Plaza René Barrientos s/n,2-2895743,,2-2895143,,,-16.299578561,-68.531634767
+21204,Puerto Pérez,Plaza Juán José Pérez s/n,,,,,,-16.284857613,-68.601039517
+21301,Sica Sica,"Plaza 14 de Noviembre, acera este s/n",2-2136663,,,,,-17.333670631,-67.740906351
+21302,Umala,Plaza 16 de Julio s/n,2-2486770,,2-2486770,,,-17.373317414,-68.021433069
+21303,Ayo Ayo,Plaza Tupac Katari s/n,,,,,,-17.091386781,-68.003628455
+21304,Calamarca,Av. 6 de agosto s/n esq. Bolívar,,,82323449 8232226,,,-16.909779388,-68.11903749
+21305,Patacamaya,Plaza de Armas 15 de Agosto Nº 1,2-8392422 8392638,,2-8392422,,,-17.240942768,-67.928109855
+21306,Colquencha,Plaza 15 de Agosto s/n,,,,,,-16.931291405,-68.248754248
+21307,Collana,Plaza Gualberto Villarroel s/n,2-2136534,,,,,-16.904683652,-68.284232087
+21401,Coroico,Plaza Manuel Victorio Lanza s/n,2-2136228,,2-2895514,,,-16.18818248,-67.727536308
+21402,Coripata,Calle Julio Gutiérrez Vera s/n,2-2896150,,2-2896150,,,-16.314489397,-67.606880748
+21501,Ixiamas,Plaza Principal s/n,2-8257106,,2-8257106,,,-13.767800375,-68.125135626
+21502,San Buenaventura,Plaza Pedro Domingo Murillo s/n,3-8922437,,,,,-14.438159693,-67.536588289
+21601,Gral. Juan José Perez (Charazani),Plaza 16 de Julio s/n.,,,,,,-15.177296618,-68.994643808
+21602,Curva,Plaza 2 de Febrero s/n.,,,2-2137424,,,-15.131127902,-68.999245388
+21701,Copacabana,Plaza 2 de Febrero s/n,2-8622624 8622002 8622123,,,,,-16.165466368,-69.086934031
+21702,San Pedro de Tiquina,Calle 4 de Octubre,,,2-2380632,,,-16.221504027,-68.853940155
+21703,Tito Yupanqui,Zona Campamento s/n,,,,,,-16.188882685,-68.954706308
+21801,San Pedro de Curahuara,,Plaza Principal,,,,,-17.654491486,-68.050046788
+21802,Papel Pampa,Plaza Papel Pampa s/n,,,,,,-17.81934913,-67.769663192
+21803,Chacarilla,Plaza Principal s/n,,,2-2137430,,,-17.583826248,-68.21591069
+21901,Santiago de Machaca,Plaza Principal,,,,,,-17.066647167,-69.193280275
+21902,Catacora,Plaza Principal s/n.,,,,,,-17.161011835,-69.483259846
+22001,Caranavi,Plaza Libertador s/n.,2-8232297 8232226 8232349,,2-8232233 8232226,,,-15.833387338,-67.566327221
+22002,Alto Beni,Localidad Villa Unificada,2-2137358,,,,,-15.5452427895,-67.4497107863
+30101,Cochabamba,"Plaza Principal 14 de Septiembre, acera oeste Nº 210","4258030, 4258038, 4425530",,,,,-17.381460432,-66.158775354
+30201,Aiquile,Calle Sucre s/n,4-4343303 4343302,,4-4343301,,,-18.201710589,-65.18007821
+30202,Pasorapa,Plaza 5 de Mayo s/n,4-4137044 4982525,,4-4137044,,,-18.321609892,-64.674900612
+30203,Omereque,Plaza 7 de Octubre esq. Calle Bolívar,4-4136519,,4-4136519,,,-18.108284741,-64.908382199
+30301,Independencia,"Plaza 6 de Agosto, acera sur",4-4136192 4400615,,4-4136192,,,-17.08393807,-66.817675617
+30302,Morochata,Calle Final Costantino Merelle s/n,4-4364786,,4-4364716,,,-17.234620429,-66.531899311
+30303,Cocapata,Localidad de Cocapata,4-368962 4693584,,4368962,,,,
+30401,Tarata,Plaza Aroma Nº 9,4-4578082,,4-4578026,,,-17.613014347,-66.024189911
+30402,Anzaldo,Plaza 20 de Octubre s/n,4-4136516 44136585,,4-4136516,,,-17.78342623,-65.935700084
+30403,Arbieto,,,,,,,-17.58174234,-66.015304142
+30404,Sacabamba,"Plaza 25 de Abril, acera norte s/n",4-4139295,,,,,-17.811744602,-65.776497445
+30501,Arani,"Plaza 24 de Noviembre, acera norte s/n",4-4576251 4576251,,4-4576251,,,-17.572768619,-65.770402912
+30502,Vacas,Plaza 4 de Diciembre s/n,4-4511819 4136486,,4-4136486,,,-17.575328507,-65.580254493
+30601,Arque,Plaza 6 de Agosto s/n Calle La Paz,4-4138006 4138007,,4-4410340,,,-17.821320738,-66.401752818
+30602,Tacopaya,Carretera La Paz Km 101 entrando al sud 30 km.,4-4410261,,4-4410261,,,-17.837402923,-66.534660024
+30701,Capinota,"Plaza 1 de Octubre, acera norte Nº 1",4-4388329 4389014,,4-4389007 4389005,,,-17.7160085,-66.263040062
+30702,Santivañez,Plaza Bartolomé Guzmán,4-4780071 4780177,,4-4780071,,,-17.550364513,-66.248010855
+30703,Sicaya,Plaza 27 de Agosto s/n,4-4321530,,4-4321530,,,-17.800568105,-66.333813437
+30801,Cliza,"Plaza 21 de Septiembre, acera este s/n",44575448/4575029,,4-4575028 ,,,-17.591631993,-65.93401616
+30802,Toco,Plaza 3 de Abril s/n,4-4574179,,4-4574521,,,-17.625428554,-65.929061635
+30803,Tolata,"Plaza Principal, acera oeste s/n",4-4575510 4575509,,4-4575682,,,-17.53390908,-65.962602867
+30901,Quillacollo,"Plaza 6 de Agosto, acera este S/N",4-4260095 4260097,,4-4260096,,,-17.395482717,-66.279788287
+30902,Sipe Sipe,"Plaza 30 de Abril, acera sur Nº 78",4-4381932,,4-4381932,,,-17.45419465,-66.354225584
+30903,Tiquipaya,"Plaza 23 de Septiembre, acera norte s/n",4-4317185 4315363,,4-4315363 4317010,,,-17.33812628,-66.219582259
+30904,Vinto,"Av. Albina Patiño Km. 17 1/2, acera sud s/n",4-4260150,,4-4263706,,,-17.382402467,-66.316449672
+30905,Colcapirhua,"Plaza 15 de Abril s/n, Av. Blanco Galindo, Km. 9",4-4269985 4371098 4269983,,4-4269984,,,-17.38956588,-66.241266669
+31001,Sacaba,"Plaza 6 de Agosto, acera este s/n",4-4702301 4708076,,4-470826,,,-17.402120382,-66.039123997
+31002,Colomi,,4340640,,4340640,,,-17.33783026,-65.867575858
+31003,Villa Tunari,"Plaza El Colonizador, acera sud s/n",4-4136521,,4-4136525,,,-16.973047659,-65.419600769
+31101,Tapacarí,Plaza Tapacarí s/n,4376711 44135679,,4-4376711 44135679,,,-17.521161394,-66.616445411
+31201,Totora,"Plaza Ladislao Cabrera, acera oeste",4-4341002,,44136525,,,-17.736503821,-65.191164957
+31202,Pojo,"Plaza 27 de Mayo, acera noroeste s/n",4-4139551 4504631,,4-4139551,,,-17.757581795,-64.865646758
+31203,Pocona,Plaza el Quigueñal s/n,4-4136319,,4-4136319,,,-17.675209531,-65.419950295
+31204,Chimoré,Plaza 14 de Septiembre s/n,4-4136218 4136244,,4-4136218,,,-16.994429017,-65.150916159
+31205,Puerto Villarroel,Plaza 2 de Agosto s/n (Ivirgarzama),4-4136281,,4-4136281,,,-16.83879181,-64.793330341
+31206,Entre Ríos (Bulo Bulo),"Plaza 24 de Septiembre, acera oeste, s/n",44136175,,4136482,,,-17.260000431,-64.348377861
+31301,Mizque,"Plaza Héroes de la Independencia, acera oeste s/n",4-4342041 4342042,,4-4342041 4342040,,,-17.943033096,-65.342837445
+31302,Vila Vila,Plaza Principal s/n,,,,,,-17.981653636,-65.631775076
+31303,Alalay,Plaza 21 de Febrero s/n,4-450562,,4-4224646,,,-17.701445174,-65.699215536
+31401,Punata,"Plaza 18 de Mayo, acera norte s/n",4-4572685 4572088,,4-4577934,,,-17.546135629,-65.838481968
+31402,Villa Rivero,Plaza Gualberto Villarroel s/n,4-4570608,,4-4570609,,,-17.616305025,-65.812841277
+31403,San Benito,Plaza Benito Moxos s/n,4-4579146 4579260,,4-4579147,,,-17.522698686,-65.894407819
+31404,Tacachi,Sede Sindical de Huanacota,4-4256852 4570721,,4-4256852,,,-17.641932223,-65.801244669
+31405,Cuchumuela (Villa Gualberto Villarroel),Plazuela 11 de Diciembre s/n,4-4570544 4570573,,4-4570544,,,-17.665837189,-65.795717219
+31501,Bolívar,Plaza 6 de Agosto s/n,4-4448384,,4-4411734,,,-17.97007432,-66.537037997
+31601,Tiraque,Plaza Principal 10 de Octubre,4-4570026,,4-4570027,,,-17.427383542,-65.723629714
+31602,Shinahota,"Plaza Chimore, acera este",4-4136409,,,,,,
+40101,Oruro,"Plaza 10 de Febrero, acera Sur s/n",2-5250025 5250022,,2-5252666,,,-17.967758518,-67.11207277
+40102,Caracollo,Plaza 14 de septiembre,2-5290001 5290002,,2-5290001,,,-17.643245196,-67.21271
+40103,El Choro,Plaza Simón Bolivar s/n,,,,,,-18.357338601,-67.115623154
+40104,Soracachi (Paria),Plaza 19 de Marzo,,,,,,-17.817316986,-67.021719651
+40201,Challapata,Calle Bolivar y Ejército Nº 613,2-5572080 5572250,,,,,-18.900820326,-66.774692844
+40202,Santuario de Quillacas,Plaza 14 de septiembre,,,,,,-19.233169864,-66.942413405
+40301,Corque,Plaza 24 de Junio,2-5136150,,,,,-18.351017001,-67.681877198
+40302,Choquecota,Plaza 8 de Diciembre s/n,2-5136096,,,,,-18.09837456,-67.895525717
+40401,Curahuara de Carangas,"Plaza 6 de Agosto s/n, German Busch",,,,,,-17.842346726,-68.410051913
+40402,Turco,"Plaza 29 de Junio, Av. Martín Quispe s/n",,,,,,-18.180721256,-68.193562411
+40501,Huachacalla,Plaza 25 de Julio s/n,,,,,,-18.793456524,-68.262261158
+40502,Escara,Plaza 16 de Septiembre s/n,,,,,,-18.859576353,-68.170462579
+40503,Cruz de Machacamarca,Plaza 29 de Junio s/n,,,,,,-18.77148168,-68.311774138
+40504,Yunguyo del Litoral,Plaza 25 de Julio s/n,,,,,,-18.853423028,-68.320750836
+40505,Esmeralda,Plaza 14 de Junio s/n,,,,,,-18.843587325,-68.281273996
+40601,Villa Poopó,Plaza 6 de Agosto,,,,,,-18.380395304,-66.968523953
+40602,Pazña,Plaza 6 de Enero s/n,,,,,,-18.599318793,-66.921484755
+40603,Antequera,"Plaza Antequera, Calle Comercio s/n",,,,,,-18.471122587,-66.825837455
+40701,Villa Huanuni,Plaza del Estudiante,2-5520585 25520041,,,,,-18.287804771,-66.839949825
+40702,Machacamarca,Bolívar y Ladislao Cabrera,2-5136100,,,,,-18.172473989,-67.02113688
+40801,Salinas de Garci Mendoza,Plaza 6 de Agosto s/n,,,,,,-19.638428267,-67.676341162
+40802,Pampa Aullagas,Plaza 29 de Septiembre s/n,,,,,,-19.197091762,-67.062074508
+40901,Sabaya,Plaza 6 de Agosto s/n,,,,,,-19.015705862,-68.37267311
+40902,Coipasa,Plaza 1ro. de Mayo s/n,2-5265155,,,,,-19.277662279,-68.277711808
+40903,Chipaya,Plaza 6 de Agosto s/n,,,,,,-19.041870389,-68.088908645
+41001,Toledo,Plaza Principal Sucre y San Francisco,,,,,,-18.18180215,-67.406997148
+41101,Eucaliptus,,,,,,,-17.596838398,-67.508493965
+41201,Andamarca,"Plaza 25 de Julio s/n calle Estudiante, Bolivia",,,,,,,
+41202,Belén de Andamarca,Plaza 16 de Diciembre s/n,2-5137080,,,,,,
+41301,Totora,Plaza 10 de Noviembre,,,,,,-17.793673205,-68.146077053
+41401,Santiago de Huari,Plaza 10 de Febrero,2-5136048,,,,,-19.012181094,-66.777012163
+41501,La Rivera,Plaza 24 de Junio s/n,,,,,,-19.004913049,-68.639980159
+41502,Todos Santos,Plaza 8 de Septiembre,,,,,,-19.014883602,-68.720562194
+41503,Carangas,Plaza 15 de Agosto Nº 22,,,,,,-18.939204526,-68.624299465
+41601,Santiago de Huayllamarca,Calle 25 s/n,,,,,,-17.840994146,-67.94584111
+50101,Potosí,Plaza 10 de Noviembre,,,2-6223142,,,-19.580585521,-65.754228533
+50102,Tinguipaya,Plaza Principal,2-6136235 6136812,,,,,-19.22197519,-65.820652095
+50103,Villa de Yocalla,Plaza 6 de Agosto s/n,2-6136459,,2-6136459,,,-19.39134156,-65.905500417
+50104,Belén de Urmiri,Localidad de Belen,2-6134778,,,,,-19.385653644,-66.064283074
+50201,Uncía,Plaza 6 de Agosto s/n,2-5820616,,02 5820616 5822362,,,-18.466473105,-66.568392265
+50202,Chayanta,Plaza 10 de Noviembre s/n,,,,,,-18.461201496,-66.442173656
+50203,Llallagua,Av. 10 de Noviembre s/n,2-5820158 5822587,,,,,-18.423079421,-66.583476499
+50204,Chuquihuta Ayllu Jucumani,Localidad de Chuquiuta,,,,,,,
+50301,Betanzos,Plaza Cornelio Saavedra s/n,2-6279032 6134108,,2-6279064 6279032,,,-19.552889678,-65.452863169
+50302,Chaquí,Plaza Lavadenz s/n,2-6136465,,2-6136465,,,-19.588312022,-65.561109802
+50303,Tacobamba,Plaza Jaime Buezo s/n,,,,,,-19.207011674,-65.556472377
+50401,Colquechaca,Calle Sucre Nº 20,,,,,,-18.697066878,-66.002171473
+50402,Ravelo,Calle 10 de Noviembre Nº 10,,,,,,-18.806560176,-65.511604096
+50403,Pocoata,Plaza 10 de Noviembre s/n,2-61377334,,2-6132016,,,-18.699707237,-66.161700009
+50404,Ocurí,Plaza Loa s/n,,,,,,-18.841711138,-65.795708746
+50501,San Pedro de Buena Vista,"Plaza 6 de Agosto s/n, Zona Central",,,2-6137714 6137713,,,-18.270111595,-65.98013832
+50502,Toro Toro,Calle Charcas s/n,,,4-4135736,,,-18.13356265,-65.76132637
+50601,Cotagaita,Av. Chichas s/n,2-6949155,,2-6949155,,,-20.815550983,-65.658489203
+50602,Vitichi,Calle Bolívar s/n,2-6136238,,,,,-20.207604881,-65.4928956
+50701,Sacaca,Plaza Principal 25 de Agosto,,,,,,-18.068274301,-66.383602363
+50702,Caripuyo,Plaza Simón Bolivar s/n,,,,,,-18.23222475,-66.472904465
+50801,Tupiza,Plaza Independencia Nº 387,2-6942305 6137309 6942304,,,,,-21.441336748,-65.720021927
+50802,Atocha,Av. Busch Nº 120,2-6949108,,2-6949108,,,-20.932225156,-66.219396861
+50901,"Colcha ""K""",Correo Central Uyuni,2-6132597,,2-6933598,,,-20.740225437,-67.660146403
+50902,San Pedro de Quemes,Plaza 29 de Junio s/n,,,,,,-20.746502579,-68.048770686
+51001,San Pablo de Lipez,Plaza 10 de Noviembre s/n,,,2-6137289,,,-21.686036539,-66.615951002
+51002,Mojinete,Plaza 10 de Octubre s/n,26943440,,,,,-21.76525211,-66.24113895
+51003,San Antonio de Esmoruco,Plaza 20 de Septiembre s/n,,,2-6137288,,,-21.948068338,-66.516829202
+51101,Puna,Plaza 10 de Julio s/n,2-6136212,,2-6136212,,,-19.795408873,-65.506435754
+51102,"Caiza ""D""",Plaza 10 de Noviembre s/n,,,,,,-20.007279265,-65.654428321
+51103,Ckochas,Plaza 15 de agosto s/n,,,,,,,
+51201,Uyuni,"Av. Arce, esq. Av. Potosí Nº 1",2-6932060 67947660,,,,,-20.460392478,-66.823412927
+51202,Tomave,Plaza Narciso Campero Nº 1,2-6137092,,,,,-20.065033932,-66.53147247
+51203,Porco,Plaza de La Libertad s/n,2-6137119,,,,,-19.798197412,-65.988762115
+51301,Arampampa,Plaza 10 de Noviembre s/n,,,,,,-17.874902647,-66.079600879
+51302,Acasio,Plaza Alonzo de Ibañez s/n,,,,,,-18.024063403,-66.057413663
+51401,Llica,Calle Comercio s/n,,,,,,-19.851908839,-68.248137729
+51402,Tahua,Calle Sucre S/N,,,2-6320179,,,-19.889769325,-67.692963785
+51501,Villazón,Plaza 6 de Agosto esq. Tarija s/n,2- 5972119 5972120 5965573 5972120,,2-5972120 5965573,,,-22.090180531,-65.596530559
+51601,San Agustín,Plaza 28 de Agosto s/n,,,,,,-21.154864785,-67.678318271
+60101,Tarija,"Plaza Luís de Fuentes, Calle 15 de Abril Nº 389",466-43217 466-43207,,4-6643207 6663924,,,-21.531615912,-64.732905189
+60201,Padcaya,Plaza Aniceto Arce s/n,4-6545008,,4-6545009,,,-21.882231203,-64.70914246
+60202,Bermejo,Av. Barrientos Ortuño esq. Tarija s/n,4-6961095 6961403,,4-6963774 6961403,,,-22.733068751,-64.342461457
+60301,Yacuiba,Calle San Pedro esq. Santa Cruz,46822021 46822020,,4-6822020,,,-22.012815413,-63.677477185
+60302,Caraparí,Calle Gral. Pando esq. Comercio,4-6136032,,4-6136032,,,-21.82782357,-63.742386126
+60303,Villamontes,Av. Gualberto Villarroel esq. Calle La Paz,46722352 46722347,,46722347,,,-21.260200965,-63.474853264
+60401,Uriondo (Concepción),Plaza Uriondo s/n,4-6651052 6118010,,4-6651052 6118010,,,-21.697224205,-64.663200434
+60402,Yunchará,Plaza 27 de Mayo s/n,466-47464,,,,,-21.821599217,-65.229560518
+60501,San Lorenzo,Plaza Eustaquio Méndez s/n,4-6641019 6641018,,4-6665920,,,-21.415304859,-64.748856722
+60502,El Puente,Av. 29 de Septiembre s/n,4-6133690 6133689,,4-6133689,,,-21.231387921,-65.206054931
+60601,Entre Ríos,Calle Avaroa esq. Sucre s/n,4-6544063,,4-6544063,,,-21.526584848,-64.171421356
+70101,Santa Cruz de la Sierra,Calle 24 de Septiembre esq. Bolívar,354-7981 359-7616,,371-5207,,,-17.784283228,-63.178916786
+70102,Cotoca,Plaza principal de Cotoca,388-2547,,388-2547,,,-17.754163607,-62.996336719
+70103,Porongo (Ayacucho),Plaza Principal de Porongo s/n,3-3841001 3841006,,3-3841001 3841006,,,-17.852028472,-63.308601267
+70104,La Guardia,Plaza Principal de la Guardia,3-3840019 3840020,,3-3840334,,,-17.893316435,-63.329445356
+70105,El Torno,Carretera antigua a Cbba km 33 frente plaza 25 de Julio,3-3822061 3822132,,3-3822061 3822164,,,-17.992166664,-63.381733855
+70201,Warnes,Plaza Ignacio Warnes,3-9232081 9232455,,3-9232081,,,-17.509079731,-63.164389115
+70202,Okinawa,Plaza Principal de  Okinawa,3-9237153,,3-9237229 9237153,,,-17.218295025,-62.891874005
+70301,San Ignacio,"Plaza 31 de Julio, acera sur s/n",3-9622056 9622341,,3-9622056,,,-16.375375247,-60.961938933
+70302,San Miguel,Plaza 29 de Septiembre,3-9624222 9624226,,3-9624222,,,-16.697679473,-60.967068771
+70303,San Rafael,Plaza 24 de Octubre,3-9624022,,3-9624022,,,-16.786975276,-60.674529933
+70401,Buena Vista,Calle Celso Sandóval esq. Juan Moreno s/n,3-9322032 9322106,,3-9322032,,,-17.459306311,-63.659922901
+70402,San Carlos,Plaza Principal de San Carlos,3-9352019,,3230445,,,-17.405582992,-63.731562627
+70403,Yapacaní,Plaza Integración s/n,3-9336111,,3-9336111,,,-17.401446044,-63.883595186
+70404,San Juan,Plaza Alciviades Velarde colonia japonesa,3-9347105,,3-9347105,,,-17.291374746,-63.849336932
+70501,San José,Calle Velazco esq. Linares frente plaza Felipe Suarez,3-9722084,,3-9722084,,,-17.845450579,-60.741215068
+70502,Pailón,Plaza 13 de Mayo s/n,3-3882620 3882671,,3-3882620,,,-17.660111276,-62.717297836
+70503,Roboré,"Calle Guillermo Sánchez Nº 1, Plaza Ángel Sandoval",3-9742276 9742188,,3-9742188,,,-18.33234845,-59.756885304
+70601,Portachuelo,Plaza Principal de Portachuelo,3-9242124 9242055,,924-2055,,,-17.353105969,-63.394316415
+70602,Santa Rosa del Sara,Plaza 30 de Agosto Calle Sara s/n,3-3231259 3237297,,3230400,,,-17.108944411,-63.598710294
+70603,Colpa Bélgica,Av. Principal Colpa Belgica s/n,3-9236020-6195,,3-9236195,,,-17.567176218,-63.226500751
+70701,Lagunillas,Calle Boliviar esq. Monteagudo,,,,,,-19.65038397,-63.674342035
+70702,Charagua,Plaza 21 de Abril s/n,3-9542072 9542000,,3-9542072,,,-19.790933415,-63.198103376
+70703,Cabezas,Av. Beningno Vaca Esq. Calle José Drangenville,3-3135537 3136333,,3-3133175 3135537,,,-18.78945873,-63.300093245
+70704,Cuevo,Calle Comercio esq. Ayacucho s/n,,,,,,-20.454203291,-63.519657731
+70705,Gutiérrez,Calle Santiestevan diagonal plaza principal,3-9546026 9546064,,3 39546064,,,-19.422656373,-63.529610227
+70706,Camiri,"Plaza 12 de Julio, acera este s/n",3-9522330 9522331,,3-9522331,,,-20.040155292,-63.521578245
+70707,Boyuibe,Av. Rafael Pabón esq. Héroes del Chaco s/n,3-6477126,,3-6477126,,,-20.445308969,-63.280654253
+70801,Vallegrande,Plaza 26 de Enero Nº 10,3-9422149,,3-9422149,,,-18.488668866,-64.105652231
+70802,El Trigal,Frente a la Plaza Principal 20 de Junio,3-3136339,,3-3136339,,,-18.30516727,-64.149495144
+70803,Moro Moro,Plaza 25 de Julio s/n,,,,,,-18.366175752,-64.32351163
+70804,Postrervalle,Plaza 16 de Julio s/n,,,,,,-18.492669288,-63.841323268
+70805,Pucará,Calle Comercio s/n,,,,,,-18.715039713,-64.185992102
+70901,Samaipata,Calle Ruben terrazas esq. Sucre,3-9446067 9446318,,3-9446147,,,-18.179048165,-63.877089949
+70902,Pampa Grande,Calle Sucre s/n,3-3136040,,3-3136040,,,-18.091074757,-64.111167955
+70903,Mairana,"Plaza 24 de Septiembre Nº 28, acera este",948-2041/2381,,948-2041,,,-18.12140989,-63.958735389
+70904,Quirusillas,Plaza 8 de Diciembre s/n acera este,,,,,,-18.334813559,-63.947651552
+71001,Montero,Calle Angel Mariano Cuéllar Nº 255,3-9220022,,3-9220202,,,-17.341230606,-63.256757774
+71002,Gral. Saavedra,Plaza Principal Saavedra s/n,3-9246191 9249380,,3-9246191,,,-17.226378438,-63.213224282
+71003,Mineros,Calle velasco esq. Linares,3-9246434 9246322,,3-246045 9246133,,,-17.118754814,-63.231328153
+71004,Puerto Fernández Alonso,Plaza Principal Av. 16 de Agosto s/n,3-9253231,,3-9253231,,,-17.006202517,-63.231390317
+71005,San Pedro,Calle 6 de Agosto frente a la plaza principal,3-9255627,,3-9255627,,,-16.826296824,-63.480973925
+71101,Concepción,Calle Sargento Bustillos/Martin Smith,3-9643057 9643061,,3-9643008 9643057,,,-16.13451598,-62.02463996
+71102,San Javier,Plaza 24 de septiembre,3-9635001 9635149,,3-9635001 9635148,,,-16.274156426,-62.504377866
+71103,San Ramón,"Plaza de Armas, Av. Santa Cruz s/n",3-9656049 9656020,,3-9656049,,,,
+71104,San Julián,Av. Santa Cruz esq. Calle Obrera de la Cruz s/n,3-9658013 9658002,,3-9658002,,,,
+71105,San Antonio de Lomerío,Plaza Principal Av. 8 de Diciembre s/n,3-9802064,,,,,,
+71106,Cuatro Cañadas,Plaza Principal,3-9656381,,3-39656381,,,-17.266746219,-62.557224988
+71201,San Matías,"Plaza Germán Busch, acera este s/n",3-9792478 3-9792298,,,,,-16.361482432,-58.401065542
+71301,Comarapa,Calle Santa Cruz frente a Plaza Principal,3-9462021 9462081,,3-9462021,,,-17.91548912,-64.526923325
+71302,Saipina,Plaza 16 de Agosto s/n,3-3135515,,3-3135515,,,-18.0939352,-64.583878373
+71401,Puerto Suárez,Av. Bolivar Santa Cruz,3-9762156 9762200 9762149,,3-9762149 9762156,,,-18.964559482,-57.797625072
+71402,Puerto Quijarro,Plaza Principal Calle Santa Cruz Nª 47,3-9782078,,3-9784145 9782078,,,-19.00568668,-57.716280818
+71403,Carmen Rivero Torres,"Plaza Principal s/n, acera norte",713-42286,,713-42286,,,-18.828262582,-58.62399686
+71501,Ascención de Guarayos, Plaza Gregorio Salvatierra s/n,3-9667029,,3-9667029 9667035,,,-15.891755873,-63.189964666
+71502,Urubichá,,,,,,,-15.628366037,-63.083725291
+71503,El Puente,Plaza Principal de Urubichá s/n,3-3137045 9667840,,3-9667035,,,-16.328627098,-62.910874687
+80101,Trinidad,Calle Pedro de la Rocha esq. La Paz s/n,3-4627770 3-4622812,,34652019,,,-14.835786125,-64.901848861
+80102,San Javier,Av. 6 de Agosto (Lado FONVIS) s/n,3-4627565 3-4623418,,3-4628675,,,-14.599988942,-64.880946183
+80201,Riberalta,Av. Nicolás Suárez Nº 237,3-8522674 3-8522417,,,,,-11.001756148,-66.071500397
+80202,Guayaramerín,Plaza Germán Busch s/n,3-8553626,,3-8553626,,,-10.816499325,-65.354652243
+80301,Reyes,Plaza José Ballivian Nº 0611,3-8252339 3-8252098,,3-8252339,,,-14.296328595,-67.336181284
+80302,San Borja,Plaza 10 de Octubre s/n,3-8953328 3-8953324,,3-8953324,,,-14.858181741,-66.747107903
+80303,Santa Rosa,Plaza 30 de Agosto s/n,3-8259506 3-8259111,,3-8259111,,,-14.079259296,-66.791835232
+80304,Rurrenabaque,Plaza 2 de Febrero s/n,3-8922200,,,,,-14.441736009,-67.528438078
+80401,Santa Ana,"Plaza Fray Baltazar Espinoza Nº 5, acera Sur",3-4842062 3-4842201,,3-4842063 4842337,,,-13.744247909,-65.427348433
+80402,Exaltación,Plaza Frai Garriga s/n,,,,,,-13.32007639,-65.250402768
+80501,San Ignacio,Calle Montes s/n,3-4822056 3-4822154,,3-4822154,,,-14.996354217,-65.637567675
+80601,Loreto,Plaza Pedro Marbán s/n,3-4634017 3-4620594,,3-4653013,,,-15.193694835,-64.76025524
+80602,San Andrés,Plaza 30 de Noviembre s/n,3-4627656,,,,,-15.022868897,-64.666184143
+80701,San Joaquín,Plaza 6 de Agosto Nº 01,3-4655805,,3-4655805,,,-13.041123106,-64.667857015
+80702,San Ramón,,,,,,,-13.265577554,-64.616823383
+80703,Puerto Siles,Plaza Principal s/n,3-4655804,,,,,-12.799330436,-65.002255694
+80801,Magdalena,"Plaza 22 de Julio, acera oeste s/n",3-8862221 3-8862218,,3-8862221 3-8862218,,,-13.262423277,-64.054507944
+80802,Baures,Plaza 8 de Diciembre s/n,,,,,,-13.655431655,-63.695851558
+80803,Huacaraje,"Calle 6 de Agosto, acera norte s/n",,,,,,-13.592809309,-63.880200186
+90101,Cobija,"Plaza Germán Busch, Av. Teniente Cnl. Cornejo Nº 40",,,,,,-11.024812857,-68.761126578
+90102,Porvenir,Plaza de Armas s/n,,,,,,-11.237474864,-68.687711353
+90103,Bolpebra,Plaza Principal de Bolpebra s/n,3-8424952,,,,,-10.944687815,-69.56731265
+90104,Bella Flor,Calle San Francisco Nº 059,3-8424057 8421249,,,,,-11.124078671,-67.791537872
+90201,Puerto Rico,"Calle 18 de Mayo, entre Manuripi y Alberto Saenz",3-8422757,,,,,-11.104635956,-67.556200075
+90202,San Pedro,Población de Loma Velarde,3-8523939 8524496,,,,,-10.825058912,-66.184520814
+90203,Filadelfia,Plaza Principal de Filadelfia,3-8422638,,3-8422809,,,-11.347234486,-68.762557235
+90301,Puerto Gonzalo Moreno,Av. Alberto Saenz Klinski s/n,,,,,,-11.086630608,-66.167043917
+90302,Blanca Flor (San Lorenzo),Localidad de Blanca Flor,3-8423188,,,,,-11.888292596,-66.979220256
+90303,El Sena,"Plaza 1º de Septiembre, Av. Integración s/n",3-8429338 38423188,,,,,-11.482950489,-67.245792142
+90401,Santa Rosa del Abuná,Plaza Central Santa Rosa del Abuná,3-8424951,,3-8423584,,,-10.61987592,-67.447612466
+90402,Humaita (Ingavi),Comunidad de Humaita,3-8424683,,,,,-10.816280491,-66.449197291
+90501,Nueva Esperanza,Av. Principal s/n,3-8424199,,,,,-10.059199683,-65.338572209
+90502,Villa Nueva (Loma Alta),Localidad de Villa Nueva,3-4822672 8523934,,,,,-10.788185999,-65.965148893
+90503,Santos Mercado (Reserva),Localidad de Reserva,3-3522646,,3-3522646,,,-10.49455873,-66.212237539

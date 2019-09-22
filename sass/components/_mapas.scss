@@ -1,0 +1,58 @@
+body.sistema {
+    .mapa {
+        max-height: 400px;
+        path {
+            cursor: pointer;
+        }    
+    }
+    .provinciaActual {
+        stroke: #fff;
+        stroke-width: 4px;
+    }
+}
+
+body.ficha {
+    .mapa {
+        stroke: #fff;
+        stroke-width: 3px;
+    }
+    path.actual {
+        fill: #fff;
+    }
+}
+
+@each $color_name, $color in $colors {
+    @each $color_type, $color_value in $color {
+        @if $color_type == "base" {
+            g.#{$color_name}, path.#{$color_name} {
+                fill: $color_value !important;
+            }
+            path.#{$color_name}:hover {
+                fill: lighten($color_value, 15%) !important;
+            }
+        }
+        @else if $color_name != "shades" {
+            g.#{$color_name}.#{$color_type}, path.#{$color_name}.#{$color_type} {
+                fill: $color_value !important;
+            } 
+            path.#{$color_name}.#{$color_type}:hover {
+                fill: lighten($color_value, 15%) !important;
+            }
+        }
+    }
+}
+
+.collection-item.depto {
+    font-size: 1.2em !important;
+    
+}
+
+.collection-item.prov {
+    font-size: 1.1em !important;
+    padding-left: 2em !important;
+}
+
+.collection-item.mun {
+    padding-left: 4em !important;
+}
+

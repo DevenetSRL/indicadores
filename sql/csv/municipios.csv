@@ -1,0 +1,340 @@
+cod_ine,nombre,otros_nombres,seccion,circunscripcion,departamento,provincia,mancomunidad,region,amdes,creacion,norma,cantones,fronterizo,altitud,superficie,perimetro,distancia,clima,temperatura
+51302,Acasio,,Segunda,40,Potosí,Gral. B. Bilbao,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Cuenca del Caine""]",Norte,AMDEPO,1938-11-10,,2,FALSE,3000,345319797,102723,595,Subhúmedo a húmedo,14
+20201,Achacachi,,Primera,18,La Paz,Omasuyos,"[""Mancomunidad Cuenca Lechera"",""Mancomunidad del Lago""]",,AMDEPAZ,1990-12-05,,14,FALSE,4000,1077787752,231859,85,Frío,8
+20104,Achocalla,,Tercera,14,La Paz,Murillo,"[""Mancomunidad Cuenca Lechera""]",,AMDEPAZ,1947-10-24,"[{""tit"":""Ley de 24 de octubre de 1947"",""id"":""BO-L-19471024""}]",3,FALSE,3600,194751788,84674,13,Frío,10
+30201,Aiquile,,Primera,29,Cochabamba,Campero,"[""Cono Sur"",""Mancomunidad de Municipios Integración""]",Cono Sur,AMDECO,1912-11-15,,3,FALSE,2300,2730738758,308720,217,Templado y árido,19
+31303,Alalay,,Tercera,,Cochabamba,Mizque,"[""Cono Sur""]",Cono Sur,AMDECO,1989-02-21,"[{""tit"":""Ley Nº 1090 21 de febrero de 1989"",""id"":""BO-L-1090""}]",2,FALSE,0,423582252,101671,,,
+22002,Alto Beni,,Segunda,19,La Paz,Caranavi,,,AMDEPAZ,2009-12-23,,,FALSE,500,1037000000,,180,Cálido húmedo,25
+20202,Ancoraimes,,Segunda,18,La Paz,Omasuyos,"[""Mancomunidad del Lago""]",,AMDEPAZ,1985-01-31,"[{""tit"":""Ley Nº 515 30 de abril de 1980"",""id"":""BO-L-515""}]",6,FALSE,3900,326294585,88994,122,Frío,9
+41201,Andamarca,Santiago de Andamarca,Primera,35,Oruro,Sur Carangas,"[""Thumivida""]",,AMDEOR,1980-03-31,"[{""tit"":""Ley Nº 299 15 de enero de 1964"",""id"":""BO-L-299""}]",,FALSE,3800,2297000000,,124,Frío,9
+40603,Antequera,,Tercera,,Oruro,Poopo,"[""Minera""]",,AMDEOR,1982-10-06,,3,FALSE,0,283211991,108130,,,
+30402,Anzaldo,,Segunda,30,Cochabamba,Esteban Arce,"[""Mancomunidad Cuenca del Caine""]",Valles,AMDECO,1914-11-24,"[{""tit"":""Ley de 20 de octubre de 1906"",""id"":""BO-L-19061020""}]",3,FALSE,3200,646809290,139058,43,Templado,16.5
+20701,Apolo,,Primera,19,La Paz,Franz Tamayo,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,1967-11-20,,5,FALSE,1400,13862459245,767208,329,clima extremo,22
+51301,Arampampa,,Primera,40,Potosí,Gral. B. Bilbao,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Cuenca del Caine""]",Norte,AMDEPO,1938-11-10,,8,FALSE,3000,424587262,133754,507,Variado Subhúmedo a húmedo,14
+30501,Arani,,Primera,29,Cochabamba,Arani,,Valles,AMDECO,1914-11-24,,3,FALSE,2700,216452814,64076,56,Variado,16.5
+30403,Arbieto,,Tercera,30,Cochabamba,Esteban Arce,"[""Mancomunidad Cuenca del Caine""]",Valles,AMDECO,1983-09-20,"[{""tit"":""Ley Nº 563 20 de septiembre de 1983"",""id"":""BO-L-563""}]",3,FALSE,2600,147145632,75427,32,Templado,18
+30601,Arque,,Primera,31,Cochabamba,Arque,"[""Andina""]",Andina,AMDECO,1908-10-01,,2,FALSE,2700,516091620,124665,106,Humeda a semiárida,16
+71501,Ascención de Guarayos,,Primera,57,Santa Cruz,Guarayos,"[""Mancomunidad Guarayos""]",,AMDECRUZ,1990-03-06,"[{""tit"":""Ley Nº 641 27 de septiembre de 1984"",""id"":""BO-L-641""}]",3,FALSE,250,8749565858,924727,307,Cálido,24
+50802,Atocha,,Segunda,44,Potosí,Sur Chichas,"[""Mancomunidad Chichas"",""Mancomunidad Vedespo""]",Sud,AMDEPO,1963-09-21,,9,FALSE,4000,2107394759,218733,295,Seco y Frío,12
+20503,Aucapata,,Tercera,18,La Paz,Muñecas,,,AMDEPAZ,1993-02-11,"[{""tit"":""Ley Nº 1427 11 de febrero de 1993"",""id"":""BO-L-1427""},{""tit"":""Ley de 14 de septiembre de 1957"",""id"":""BO-L-19570914-2""},{""tit"":""Ley de 1 de diciembre de 1893"",""id"":""BO-L-18931201""}]",2,FALSE,2500,240866629,68668,300,Variado de acuerdo a topografía,15
+20502,Ayata,,Segunda,18,La Paz,Muñecas,,,AMDEPAZ,1969-12-31,"[{""tit"":""Ley de 14 de septiembre de 1957"",""id"":""BO-L-19570914-2""},{""tit"":""Ley Nº 854 29 de abril de 1986"",""id"":""BO-L-854""},{""tit"":""Ley de 1 de diciembre de 1893"",""id"":""BO-L-18931201""}]",2,FALSE,4000,665236089,171673,305,Templado,12
+21303,Ayo Ayo,,Tercera,21,La Paz,Aroma,,,AMDEPAZ,1961-10-30,,5,FALSE,3800,488266850,120872,90,Frío,9
+21203,Batallas,,Tercera,,La Paz,Los Andes,"[""Mancomunidad Cuenca Lechera"",""Mancomunidad del Lago""]",,AMDEPAZ,1984-10-18,,8,FALSE,0,985784784,157808,,,
+80802,Baures,,Segunda,65,Beni,Itenez,,,AMDEBENI,1969-12-31,,2,FALSE,130,17807896615,891187,370,Cálido y húmedo,26.5
+41202,Belén de Andamarca,,Segunda,35,Oruro,Sur Carangas,"[""Aymara sin Fronteras"",""Thumivida"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEOR,1991-02-13,"[{""tit"":""Ley Nº 1236 13 de febrero de 1991"",""id"":""BO-L-1236""}]",,FALSE,3800,1068000000,,160,Frío,9
+50104,Belén de Urmiri,,Tercera,38,Potosí,Tomas Frias,"[""Mancomunidad Tomas Frias""]",Centro,AMDEPO,1993-11-10,"[{""tit"":""Ley Nº 1512 10 de noviembre de 1993"",""id"":""BO-L-1512""}]",2,FALSE,4000,1303242941,163648,50,Frío y seco,9
+90104,Bella Flor,,Tercera,67,Pando,Nicolas Suarez,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1938-09-24,,2,FALSE,200,5754579995,678699,138,Tropical húmedo y Cálido,25
+60202,Bermejo,,Segunda,47,Tarija,Arce,"[""Mancomunidad Del Sur""]",,AMT,1956-12-07,"[{""tit"":""Ley de 7 de diciembre de 1956"",""id"":""BO-L-19561207-1""}]",4,FALSE,400,383004419,128647,160,Templado,23
+50301,Betanzos,,Primera,42,Potosí,Cornelio Saavedra,,Centro,AMDEPO,1992-03-17,,10,FALSE,3500,1913873316,260771,35,Templado,12
+90302,Blanca Flor,San Lorenzo,Segunda,68,Pando,Madre de Dios,"[""Mancomunidad Madre de Dios""]",,AMDEPANDO,1938-09-24,,3,FALSE,150,3162148518,524222,,Tropical húmedo y Cálido,26
+31501,Bolívar,,Primera,31,Cochabamba,Bolivar,"[""Andina""]",Andina,AMDECO,1985-01-31,,9,FALSE,4000,722514763,151944,79,Templado,10
+90103,Bolpebra,,Segunda,66,Pando,Nicolas Suarez,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1938-09-24,,2,FALSE,250,2562754867,284372,58,Tropical húmedo y Cálido,25
+70707,Boyuibe,,Séptima,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL"",""Mancomunidad Servicios Básicos del Chaco Boliviano""]",,AMDECRUZ,1991-09-30,,2,FALSE,900,1675443277,223451,319,Templado,23
+70401,Buena Vista,,Primera,69,Santa Cruz,Ichilo,"[""Mancomunidad Sara e Ichilo""]",,AMDECRUZ,1926-04-08,,4,FALSE,350,2267335595,312707,102,Sub tropical,24
+70703,Cabezas,,Tercera,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad Cuenca Baja del Rio Grande"",""Mancomunidad MANCHABOL""]",,AMDECRUZ,1906-11-28,"[{""tit"":""Ley de 28 de noviembre de 1906"",""id"":""BO-L-19061128-3""}]",6,FALSE,450,5104261003,438685,120,Cálido y húmedo,23
+20905,Cairoma,,Quinta,21,La Paz,Loayza,"[""Mancomunidad De La Provincia Loayza"",""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1988-11-17,"[{""tit"":""Ley Nº 1029 17 de noviembre de 1988"",""id"":""BO-L-1029""}]",5,FALSE,4000,540921215,120492,320,Templado y cálido,11
+51102,"Caiza ""D""",,Segunda,42,Potosí,Jose Maria Linares,"[""Mancomunidad Centro de Potosí""]",Centro,AMDEPO,1984-11-01,"[{""tit"":""Ley Nº 666 1 de noviembre de 1984"",""id"":""BO-L-666""}]",5,FALSE,3800,1377527288,198665,60,Templado,11
+21003,Cajuata,,Tercera,20,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1945-11-03,"[{""tit"":""Ley de 3 de noviembre de 1945"",""id"":""BO-L-19451103-3""}]",4,FALSE,1400,966863557,173606,204,Templado a Cálido,18
+20303,Calacoto,,Tercera,22,La Paz,Pacajes,"[""Mancomunidad Jach'a Suyo Pacajes"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEPAZ,1980-04-07,"[{""tit"":""Ley Nº 104 20 de octubre de 1961"",""id"":""BO-L-104""}]",13,FALSE,3900,3921510926,444424,275,Seco y frío,8
+21304,Calamarca,,Cuarta,21,La Paz,Aroma,"[""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,1992-10-15,"[{""tit"":""Ley de 21 de diciembre de 1948"",""id"":""BO-L-19481221-9""}]",7,FALSE,3800,492089966,98974,50,Templado a frío,9
+10701,Camargo,,Primera,6,Chuquisaca,Nor Cinti,"[""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 5 de noviembre de 1886"",""id"":""BO-L-18861105""}]",3,FALSE,2700,1995534962,233074,351,Templado a Cálido,21
+10901,Camataqui,Villa Abecia,Primera,6,Chuquisaca,Sud Cinti,"[""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1944-03-23,,2,FALSE,2500,708920467,145818,327,Templado a subhúmedo y seco,18
+70706,Camiri,,Sexta,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL"",""Mancomunidad Servicios Básicos del Chaco Boliviano""]",,AMDECRUZ,1940-10-29,,2,FALSE,900,1044438956,184511,300,Sub húmedo seco,23
+30701,Capinota,,Primera,30,Cochabamba,Capinota,"[""Mancomunidad Cuenca del Caine""]",Valles,AMDECO,1908-10-01,,4,FALSE,2600,542511545,114372,66,Templado,17.5
+20302,Caquiaviri,,Segunda,22,La Paz,Pacajes,"[""Mancomunidad Jach'a Suyo Pacajes"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEPAZ,1959-12-14,"[{""tit"":""Ley de 14 de diciembre de 1959"",""id"":""BO-L-19591214-2""}]",11,FALSE,4000,1570890176,314033,148,Seco y frío,8
+40102,Caracollo,,Primera,35,Oruro,Cercado (Oruro),"[""Desaguadero""]",,AMDEOR,1964-09-07,,7,FALSE,3700,2353651303,354012,40,Frígido,11
+22001,Caranavi,,Primera,19,La Paz,Caranavi,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,1962-12-13,,22,FALSE,500,3065536959,350557,153,Cálido húmedo,25
+41503,Carangas,,Tercera,,Oruro,Mejillones,"[""Mancomunidad de Municipios de la Frontera con Chile""]",,AMDEOR,1989-02-21,,1,FALSE,0,255469453,85502,,,
+60302,Caraparí,,Segunda,48,Tarija,Gran Chaco,"[""Mancomunidad de Municipios del Chaco Boliviano"",""Mancomunidad Del Sur"",""Mancomunidad MANCHABOL""]",,AMT,1914-11-20,,4,FALSE,700,3147221238,445531,232,Templado y cálido,22
+50702,Caripuyo,,Segunda,40,Potosí,Alonzo de Ibañez,"[""Mancomunidad Norte de Potosí""]",Norte,AMDEPO,1938-11-10,"[{""tit"":""Ley de 10 de noviembre de 1938"",""id"":""BO-L-19381110-1""}]",8,FALSE,3500,517136733,119226,226,Templados y fríos,9
+71403,Carmen Rivero Torres,,Tercera,58,Santa Cruz,German Busch,,,AMDECRUZ,1999-09-23,"[{""tit"":""Ley Nº 2015 23 de septiembre de 1999"",""id"":""BO-L-2015""}]",,FALSE,150,11285832753,470021,645,Cálido,26
+21902,Catacora,,Segunda,22,La Paz,Gral. J. Manuel Pando,"[""Mancomunidad Héroes del Pacifico""]",,AMDEPAZ,1986-04-29,,4,FALSE,4000,556673423,122540,184,Frío y seco,7.5
+21803,Chacarilla,,Tercera,,La Paz,Gualberto Villarroel,"[""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,2009-08-25,,3,FALSE,0,367280904,104758,,,
+40201,Challapata,,Primera,36,Oruro,Abaroa,"[""Mancomunidad de Municipios AZANAQUE"",""Mancomunidad Marepa"",""Minera""]",,AMDEOR,1914-11-20,,4,FALSE,3700,2581148890,400703,124,Seco y frígido,10
+50302,Chaquí,,Segunda,42,Potosí,Cornelio Saavedra,"[""Mancomunidad Centro de Potosí""]",Centro,AMDEPO,1929-01-04,"[{""tit"":""Ley de 4 de enero de 1929"",""id"":""BO-L-19290104-1""}]",2,FALSE,3700,454754127,120873,37,Templado. seco y benigno,12
+70702,Charagua,,Segunda,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL""]",,AMDECRUZ,1969-12-31,,4,FALSE,900,72404030970,1451974,340,Templado,23
+20305,Charaña,,Quinta,22,La Paz,Pacajes,"[""Mancomunidad Jach'a Suyo Pacajes"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEPAZ,1986-04-03,"[{""tit"":""Ley Nº 822 3 de abril de 1986"",""id"":""BO-L-822""}]",6,FALSE,4100,2894604550,319302,250,Altiplanico - Seco y Frío,8
+50202,Chayanta,,Segunda,39,Potosí,Rafael Bustillo,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Nucleo Uncia""]",Norte,AMDEPO,1992-11-09,,9,FALSE,4000,613773840,150282,220,Frío,9
+31204,Chimoré,,Cuarta,,Cochabamba,Carrasco,"[""Cono Sur"",""Mancomunidad Trópico""]",Trópico,AMDECO,1984-09-13,,1,FALSE,0,2749907100,707046,,,
+40903,Chipaya,,Tercera,35,Oruro,Sabaya,,,AMDEOR,1983-09-16,"[{""tit"":""Ley Nº 560 16 de septiembre de 1983"",""id"":""BO-L-560""}]",3,FALSE,3700,297803703,142672,180,Frígido,8
+40302,Choquecota,,Segunda,35,Oruro,Carangas,"[""Aymara sin Fronteras"",""Mancomunidad Productores de Camélidos""]",,AMDEOR,1986-02-28,,2,FALSE,3800,844448217,155132,119,Seco y semiseco,9
+20203,Chua Cocani,,Tercera,,La Paz,Omasuyos,,,AMDEPAZ,2010-08-08,,,FALSE,0,0,,,,
+21101,Chulumani,,Primera,20,La Paz,Sur Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1943-11-24,,5,FALSE,1800,285118249,89476,123,Templado,20.5
+20501,Chuma,,Primera,18,La Paz,Muñecas,,,AMDEPAZ,1963-12-20,"[{""tit"":""Ley de 24 de noviembre de 1900"",""id"":""BO-L-19001124-3""},{""tit"":""Ley de 1 de diciembre de 1893"",""id"":""BO-L-18931201""}]",6,FALSE,2500,593957145,149219,350,Templado,14
+50204,Chuquihuta Ayllu Jucumani,,Cuarta ,39,Potosí,Rafael Bustillo,,Norte,AMDEPO,2009-06-17,,,FALSE,4000,0,,269,Frío,9
+51103,Ckochas,,Tercera,42,Potosí,Jose Maria Linares,,Centro,AMDEPO,2006-04-15,,,FALSE,3400,2080000,,68,Templado,12
+30801,Cliza,,Primera,30,Cochabamba,German Jordan,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1914-11-24,,4,FALSE,2600,54351847,42799,37,Templado,17
+90101,Cobija,,Sección capital,66,Pando,Nicolas Suarez,,,AMDEPANDO,1938-09-24,,1,FALSE,250,446532618,129986,0,Cálido y húmedo,25
+30303,Cocapata,,Tercera,31,Cochabamba,Ayopaya,,Andina,AMDECO,2009-02-06,,,FALSE,3500,7001000000,,95,Cálido subtropical,11
+30101,Cochabamba,,Sección capital,"12, 23, 24, 25",Cochabamba,Cercado (Cochabamba),,Metropolitana,AMDECO,1969-12-31,,1,FALSE,2600,289125492,92594,0,Templado,18
+40902,Coipasa,,Segunda,35,Oruro,Sabaya,"[""Mancomunidad de Municipios de la Frontera con Chile"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEOR,1968-10-08,,1,FALSE,3800,190542494,76811,213,Frígido,8
+30905,Colcapirhua,,Quinta,,Cochabamba,Quillacollo,,Metropolitana,AMDECO,1985-04-15,,2,FALSE,0,28783917,27180,,,
+50901,"Colcha ""K""",,Primera,43,Potosí,Nor Lipez,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Nor Lipez"",""Mancomunidad Productores de la Quinua Real""]",Sudoeste,AMDEPO,1949-12-26,,13,FALSE,4000,15838157556,1029523,291,Variable,7
+21307,Collana,,Séptima,,La Paz,Aroma,"[""AROPAC III""]",,AMDEPAZ,1986-04-03,"[{""tit"":""Ley Nº 823 3 de abril de 1986"",""id"":""BO-L-823""}]",3,FALSE,0,124611166,78370,,,
+31002,Colomi,,Segunda,28,Cochabamba,Chapare,"[""Cono Sur""]",Trópico,AMDECO,1945-11-13,"[{""tit"":""Ley de 13 de noviembre de 1945"",""id"":""BO-L-19451113-8""}]",5,FALSE,3600,559865922,133380,48,Templado,16
+70603,Colpa Bélgica,,Tercera,69,Santa Cruz,Sara,,,AMDECRUZ,2002-02-01,"[{""tit"":""Ley Nº 2325 1 de febrero de 2002"",""id"":""BO-L-2325""}]",,FALSE,300,294185170,83970,26,Húmedo sub tropical,24.5
+50401,Colquechaca,,Primera,41,Potosí,Chayanta,"[""Mancomunidad Chayanta"",""Mancomunidad Norte de Potosí""]",Norte,AMDEPO,1969-12-31,,5,FALSE,4000,1642195364,306909,113,Frío,11
+21306,Colquencha,,Sexta,,La Paz,Aroma,"[""AROPAC III""]",,AMDEPAZ,1990-12-14,,5,FALSE,0,303003732,95682,,,
+21004,Colquiri,,Cuarta,,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1945-11-03,,8,FALSE,0,1056810857,173359,,,
+20304,Comanche,,Cuarta,22,La Paz,Pacajes,"[""Mancomunidad Altiplano y Valle Central"",""Mancomunidad Jach'a Suyo Pacajes"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEPAZ,1983-03-02,"[{""tit"":""Ley Nº 539 2 de marzo de 1983"",""id"":""BO-L-539""}]",4,FALSE,4000,433304277,130089,70,Frío y seco,8
+71301,Comarapa,,Primera,60,Santa Cruz,Caballero,"[""Vallegrande"",""Valles Cruceños""]",,AMDECRUZ,1960-11-04,,8,FALSE,2000,2915531184,324453,241,Cálido,19
+20605,Combaya,,Quinta,,La Paz,Larecaja,"[""Mancomunidad Larecaja""]",,AMDEPAZ,1989-02-21,"[{""tit"":""Ley Nº 1089 21 de febrero de 1989"",""id"":""BO-L-1089""}]",2,FALSE,0,98584674,42113,,,
+71101,Concepción,,Primera,57,Santa Cruz,Ñuflo de Chavez,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1915-09-16,"[{""tit"":""Ley de 16 de septiembre de 1915"",""id"":""BO-L-19150916""}]",3,FALSE,500,35568885668,1234603,300,Cálido,24.5
+21701,Copacabana,,Primera,17,La Paz,Manco Kapac,"[""Mancomunidad del Lago"",""Mancomunidad Francisco Tito Yupanqui""]",,AMDEPAZ,1951-06-06,,3,FALSE,3850,67739,1070,155,Frío,10
+21402,Coripata,,Segunda,20,La Paz,Nor Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1969-12-31,,3,FALSE,1500,344281972,102264,116,Templado,18.5
+20301,Coro Coro,,Primera,22,La Paz,Pacajes,"[""Mancomunidad Altiplano y Valle Central"",""Mancomunidad Jach'a Suyo Pacajes""]",,AMDEPAZ,1904-12-01,,10,FALSE,4000,1136035703,266192,140,Frío,8
+21401,Coroico,,Primera,20,La Paz,Nor Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1969-12-31,,3,FALSE,1400,946334982,163508,101,Semicálido,18.5
+40301,Corque,,Primera,35,Oruro,Carangas,"[""Aymara sin Fronteras"",""Mancomunidad Productores de Camélidos""]",,AMDEOR,1980-05-08,,13,FALSE,3800,3360081334,316438,90,Temperaturas Bajas,9
+50601,Cotagaita,,Primera,43,Potosí,Nor Chichas,"[""Mancomunidad Chichas"",""Mancomunidad Ruta de los Libertadores""]",Sud,AMDEPO,1969-12-31,,19,FALSE,3000,6439573069,484086,180,Templado,14
+70102,Cotoca,,Primera,53,Santa Cruz,Andres Ibañez,"[""Metropolitana""]",,AMDECRUZ,1993-12-13,"[{""tit"":""Ley Nº 1522 13 de diciembre de 1993"",""id"":""BO-L-1522""}]",2,FALSE,400,625948223,105137,17,Cálido,24.5
+40503,Cruz de Machacamarca,,Tercera,,Oruro,Litoral,,,AMDEOR,1980-03-27,,3,FALSE,0,520438797,114554,,,
+71106,Cuatro Cañadas,,Sexta,57,Santa Cruz,Ñuflo de Chavez,,,AMDECRUZ,2002-01-28,"[{""tit"":""Ley Nº 2322 28 de enero de 2002"",""id"":""BO-L-2322""}]",,FALSE,0,4543164437,385887,106,Cálido,24
+31405,Cuchumuela,Villa Gualberto Villarroel,Quinta,,Cochabamba,Punata,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1986-12-11,,1,FALSE,0,63642440,55523,,,
+70704,Cuevo,,Cuarta,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL""]",,AMDECRUZ,1926-09-27,"[{""tit"":""Ley de 27 de septiembre de 1926"",""id"":""BO-L-19260927-2""}]",1,FALSE,1000,879513858,148090,332,Cálido,23
+10902,Culpina,,Segunda,6,Chuquisaca,Sud Cinti,"[""Incahuasi Culpina"",""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1960-12-20,"[{""tit"":""Ley Nº 61 20 de diciembre de 1960"",""id"":""BO-L-61""},{""tit"":""Ley de 5 de noviembre de 1886"",""id"":""BO-L-18861105""}]",8,FALSE,2800,3927807484,452436,407,Seco,16
+40401,Curahuara de Carangas,,Primera,35,Oruro,Sajama,"[""Aymara sin Fronteras"",""Mancomunidad Nor Occidente""]",,AMDEOR,1986-02-28,,4,FALSE,3800,2840472567,321502,160,Propio del altiplano,9
+21602,Curva,,Segunda,18,La Paz,Bautista Saavedra,"[""Mancomunidad Apolobamba""]",,AMDEPAZ,1983-05-13,"[{""tit"":""Ley Nº 546 13 de mayo de 1983"",""id"":""BO-L-546""}]",8,FALSE,3500,595125121,157750,56,Templado,12
+20804,Desaguadero,,Cuarta,22,La Paz,Ingavi,"[""Mambit"",""Mancomunidad del Lago""]",,AMDEPAZ,1961-11-09,,2,FALSE,3850,90389979,48289,115,Altiplanico - Seco y Frío,8.5
+20105,El Alto,,Cuarta,"13, 14, 15, 16",La Paz,Murillo,,,AMDEPAZ,1985-03-06,"[{""tit"":""Ley Nº 728 6 de marzo de 1985"",""id"":""BO-L-728""}]",1,FALSE,4000,348680179,125712,12,Seco y frío,9
+40103,El Choro,,Segunda,34,Oruro,Cercado (Oruro),"[""Desaguadero""]",,AMDEOR,1983-10-20,"[{""tit"":""Ley Nº 576 20 de octubre de 1983"",""id"":""BO-L-576""}]",5,FALSE,3700,1114431595,239574,40,Frígido y seco,9
+60502,El Puente,,Segunda,49,Tarija,Mendez,"[""Mancomunidad Heroes de la Independencia""]",,AMT,1945-10-25,,9,FALSE,2500,2063014017,315717,130,Variedad de Climas,18
+71503,El Puente,,Tercera,57,Santa Cruz,Guarayos,"[""Mancomunidad Guarayos""]",,AMDECRUZ,1990-03-06,,2,FALSE,300,6800560129,643896,248,Cálido,23.5
+90303,El Sena,,Tercera,68,Pando,Madre de Dios,"[""Mancomunidad Madre de Dios""]",,AMDEPANDO,1938-09-24,,2,FALSE,150,7597404465,411052,246,Tropical húmedo y Cálido,26
+70105,El Torno,,Cuarta,60,Santa Cruz,Andres Ibañez,"[""Metropolitana""]",,AMDECRUZ,1993-12-13,,4,FALSE,900,967634135,179550,32,Templado a Cálido,23
+70802,El Trigal,,Segunda,60,Santa Cruz,Vallegrande,"[""Vallegrande""]",,AMDECRUZ,1984-10-18,,4,FALSE,1900,400990771,109966,376,Templado,17
+10405,El Villar,,Quinta,4,Chuquisaca,Tomina,"[""Juana Azurduy de Padilla"",""Mancomunidad Chuquisaca Centro""]",Centro,AGAMDECH,1948-12-30,"[{""tit"":""Ley Nº 204 26 de noviembre de 1962"",""id"":""BO-L-204""}]",2,FALSE,2000,900573242,150846,203,Templado a Cálido,18.5
+31206,Entre Ríos,Bulo Bulo,Sexta,,Cochabamba,Carrasco,,Trópico,AMDECO,2000-09-25,"[{""tit"":""Ley Nº 2126 25 de septiembre de 2000"",""id"":""BO-L-2126""}]",,FALSE,0,2112004627,391099,,,
+60601,Entre Ríos,,Primera,47,Tarija,Burnet O' Connor,"[""Mancomunidad Del Sur"",""Mancomunidad MANCHABOL""]",,AMT,1969-12-31,,11,FALSE,1400,5063273984,480896,92,Templado y cálido,21
+40502,Escara,,Segunda,,Oruro,Litoral,,,AMDEOR,1963-09-26,"[{""tit"":""Ley Nº 248 26 de septiembre de 1963"",""id"":""BO-L-248""}]",2,FALSE,0,1158032454,211581,,,
+20405,Escoma,,Quinta,17,La Paz,Camacho,,,AMDEPAZ,2009-02-06,,,FALSE,4000,118000000,,132,Altiplanico - Seco y Frío,10
+40505,Esmeralda,,Quinta,,Oruro,Litoral,,,AMDEOR,1968-11-20,"[{""tit"":""Ley Nº 435 20 de noviembre de 1968"",""id"":""BO-L-435""}]",4,FALSE,0,601968671,162818,,,
+41101,Eucaliptus,,Primera,35,Oruro,Tomas Barron,"[""Desaguadero""]",,AMDEOR,1980-03-07,"[{""tit"":""Ley Nº 400 27 de marzo de 1968"",""id"":""BO-L-400""}]",1,FALSE,3700,332200647,87362,63,Frío,10
+80402,Exaltación,,Segunda,63,Beni,Yacuma,,,AMDEBENI,1969-12-31,,1,FALSE,130,24993035774,795078,258,Tropical,26.5
+90203,Filadelfia,,Tercera,67,Pando,Manuripi,"[""Mancomunidad Manuripi""]",,AMDEPANDO,1938-09-24,,3,FALSE,250,11779815697,650579,40,Tropical y húmedo,25.5
+21601,Gral. Juan José Perez,Charazani,Primera,18,La Paz,Bautista Saavedra,"[""Mancomunidad Apolobamba""]",,AMDEPAZ,1926-10-28,,7,FALSE,3500,2567244145,305796,315,Templado,12
+71002,Gral. Saavedra,,Segunda,56,Santa Cruz,Obispo Santiestevan,"[""Mancomunidad Obispo Santiestevan""]",,AMDECRUZ,1941-12-02,,1,FALSE,300,534425509,120432,65,Cálido,24.5
+20602,Guanay,,Segunda,19,La Paz,Larecaja,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,1947-11-02,"[{""tit"":""Ley de 2 de noviembre de 1947"",""id"":""BO-L-19471102-2""}]",9,FALSE,500,3938030100,484755,246,Cálido. templado a frío,25
+20802,Guaqui,,Segunda,22,La Paz,Ingavi,"[""Mambit"",""Mancomunidad del Lago""]",,AMDEPAZ,1995-10-31,,1,FALSE,3900,189764769,81988,93,Frío,8
+80202,Guayaramerín,,Segunda,63,Beni,Vaca Diez,,,AMDEBENI,1969-12-31,"[{""tit"":""Ley de 7 de diciembre de 1942"",""id"":""BO-L-19421207-4""}]",4,FALSE,130,6515307194,667256,1115,Cálido,26.5
+70705,Gutiérrez,,Quinta,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL""]",,AMDECRUZ,1940-10-29,"[{""tit"":""Ley de 6 de noviembre de 1940"",""id"":""BO-L-19401106-1""}]",2,FALSE,1000,2894279902,359709,228,Cálido,23
+80803,Huacaraje,,Tercera,65,Beni,Itenez,"[""Mancomunidad Todo Santos""]",,AMDEBENI,1912-10-17,,2,FALSE,130,4496646897,366933,264,Tropical y húmedo,26.5
+11002,Huacaya,,Segunda,5,Chuquisaca,Luis Calvo,"[""Mancomunidad del Chaco Chuquisaqueño"",""Mancomunidad MANCHABOL""]",Chaco,AGAMDECH,1950-01-04,"[{""tit"":""Ley de 14 de noviembre de 1947"",""id"":""BO-L-19471114-12""}]",3,FALSE,1000,1195486279,185355,585,Cálido seco,22
+40501,Huachacalla,,Primera,35,Oruro,Litoral,,,AMDEOR,1950-11-11,,1,FALSE,4000,20669798,21903,145,Frío y seco,8
+20204,Huarina,,Cuarta ,18,La Paz,Omasuyos,,,AMDEPAZ,2005-07-15,,,FALSE,4000,176000000,,133,Frío,8
+20206,Huatajata,,Sexta,,La Paz,Omasuyos,,,AMDEPAZ,2010-08-08,,,FALSE,0,0,,,,
+90402,Humaita,Ingavi,Segunda,67,Pando,Abuna,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1938-09-24,,2,FALSE,150,5415384741,438539,,Cálido,26
+20404,Humanata,,Cuarta ,17,La Paz,Camacho,,,AMDEPAZ,2009-02-06,,,FALSE,4000,304000000,,132,Altiplanico - Seco y Frío,10
+21005,Ichoca,,Quinta,,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1985-03-30,"[{""tit"":""Ley Nº 620 30 de marzo de 1984"",""id"":""BO-L-620""}]",7,FALSE,0,848577069,154713,,,
+10304,Icla,,Cuarta,4,Chuquisaca,Zudañez,"[""Chuquisaca Norte""]",Norte,AGAMDECH,1969-12-31,,1,FALSE,2500,849752319,148699,105,Húmedo. sub húmedo y semiarido,17
+10703,Incahuasi,,Tercera,6,Chuquisaca,Nor Cinti,"[""Incahuasi Culpina"",""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1984-10-03,,4,FALSE,3000,1883848549,281974,426,Templado a frío,17
+30301,Independencia,,Primera,31,Cochabamba,Ayopaya,,Andina,AMDECO,1969-12-31,,3,FALSE,2800,1509570882,224952,220,Templado. lluvioso y fresco,12
+21001,Inquisivi,,Primera,20,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1945-11-03,"[{""tit"":""Ley de 22 de noviembre de 1919"",""id"":""BO-L-19191122-7""}]",8,FALSE,2800,3266103079,363842,204,Valle sub andino,16
+21102,Irupana,,Segunda,20,La Paz,Sur Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1943-11-24,,6,FALSE,1800,1381751428,223733,202,Templado,18.5
+21501,Ixiamas,,Primera,19,La Paz,Abel Iturralde,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,1963-12-14,"[{""tit"":""Ley de 30 de diciembre de 1944"",""id"":""BO-L-19441230-1""}]",1,FALSE,300,37190089831,1205072,392,Tropical húmedo,25
+20806,Jesús de Machaca,,Sexta,,La Paz,Ingavi,,,AMDEPAZ,2002-05-07,,,FALSE,0,961068472,186378,,,
+21105,La Asunta,,Quinta,,La Paz,Sur Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1984-10-17,"[{""tit"":""Ley Nº 1010 20 de septiembre de 1988"",""id"":""BO-L-1010""}]",13,FALSE,0,2821409475,267009,,,
+70104,La Guardia,,Tercera,59,Santa Cruz,Andres Ibañez,"[""Metropolitana""]",,AMDECRUZ,1993-12-13,,6,FALSE,450,962033468,232565,22,Templado a Cálido,24.5
+20101,La Paz,,Sección capital,"7, 8, 9, 10, 11",La Paz,Murillo,,,AMDEPAZ,1995-10-31,,2,FALSE,3600,1987470758,309213,0,Variado de acuerdo a topografía,10
+41501,La Rivera,,Primera,35,Oruro,Mejillones,"[""Mancomunidad de Municipios de la Frontera con Chile""]",,AMDEOR,1993-02-18,,1,FALSE,4000,196506111,77251,208,Frío,8
+70701,Lagunillas,,Primera,59,Santa Cruz,Cordillera,"[""Cordillera"",""Mancomunidad MANCHABOL"",""Mancomunidad Servicios Básicos del Chaco Boliviano""]",,AMDECRUZ,1969-12-31,,2,FALSE,900,1131051942,227351,275,Templado,22
+21202,Laja,,Segunda,17,La Paz,Los Andes,"[""Mancomunidad Cuenca Lechera""]",,AMDEPAZ,1960-12-07,"[{""tit"":""Ley Nº 43 13 de diciembre de 1960"",""id"":""BO-L-43""}]",6,FALSE,3900,684704470,144210,35,Frío,7.5
+10903,Las Carreras,,Tercera,6,Chuquisaca,Sud Cinti,"[""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1993-02-15,,8,FALSE,2500,996754684,177597,424,Templado,18
+21006,Licoma Pampa,,Sexta,,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1989-02-21,"[{""tit"":""Ley Nº 1088 21 de febrero de 1989"",""id"":""BO-L-1088""}]",2,FALSE,0,149521038,68854,,,
+50203,Llallagua,,Tercera,39,Potosí,Rafael Bustillo,"[""Mancomunidad Norte de Potosí""]",Norte,AMDEPO,1957-12-22,"[{""tit"":""Ley de 22 de diciembre de 1957"",""id"":""BO-L-19571222""}]",2,FALSE,4000,534954133,120466,260,Frío,9
+51401,Llica,,Primera,43,Potosí,Daniel Campos,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Incahuasi""]",Sudoeste,AMDEPO,1949-12-26,,7,FALSE,4000,5748396382,651981,405,Frío,7
+80601,Loreto,,Primera,62,Beni,Marban,"[""Mancomunidad Salud Trinidad""]",,AMDEBENI,1969-12-31,,4,FALSE,130,5385361335,497142,57,Cálido,26
+20901,Luribay,,Primera,21,La Paz,Loayza,"[""Mancomunidad Altiplano y Valle Central"",""Mancomunidad De La Provincia Loayza""]",,AMDEPAZ,1986-03-04,,6,FALSE,3000,506164420,153152,190,Templado,12
+40702,Machacamarca,,Segunda,36,Oruro,Pantaleon Dalence,"[""Minera""]",,AMDEOR,1990-11-19,"[{""tit"":""Ley Nº 1206 19 de noviembre de 1990"",""id"":""BO-L-1206""}]",2,FALSE,3700,305803189,86453,30,Frío y seco,10
+11003,Macharetí,,Tercera,5,Chuquisaca,Luis Calvo,"[""Mancomunidad del Chaco Chuquisaqueño"",""Mancomunidad MANCHABOL""]",Chaco,AGAMDECH,1950-01-04,"[{""tit"":""Ley de 4 de enero de 1950"",""id"":""BO-L-19500104-27""}]",6,FALSE,1000,7958897246,445635,589,Cálido,23
+80801,Magdalena,,Primera,65,Beni,Itenez,,,AMDEBENI,1914-11-20,,3,FALSE,130,13746375896,610946,300,Cálido Tropical,26.5
+70903,Mairana,,Tercera,60,Santa Cruz,Florida,"[""Vallegrande"",""Valles Cruceños"",""Mancomunidad de Municipios Integración""]",,AMDECRUZ,1938-05-12,,1,FALSE,1400,928552842,217323,137,Templado,21
+20904,Malla,,Cuarta,21,La Paz,Loayza,"[""Mancomunidad De La Provincia Loayza""]",,AMDEPAZ,1938-02-18,"[{""tit"":""Ley Nº 461 24 de enero de 1969"",""id"":""BO-L-461""}]",3,FALSE,3500,328160441,97101,88,Templado,12
+20607,Mapiri,,Séptima,,La Paz,Larecaja,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,2001-11-27,"[{""tit"":""Ley de 2 de noviembre de 1947"",""id"":""BO-L-19471102-2""},{""tit"":""Ley Nº 2281 27 de noviembre de 2001"",""id"":""BO-L-2281""}]",,FALSE,0,1370055906,260327,,,
+20103,Mecapaca,,Segunda,9,La Paz,Murillo,,,AMDEPAZ,1947-10-24,"[{""tit"":""Ley de 24 de octubre de 1947"",""id"":""BO-L-19471024""}]",3,FALSE,3000,529558192,124311,30,Diferencias estacionales marcadas,11
+71003,Mineros,,Tercera,56,Santa Cruz,Obispo Santiestevan,"[""Mancomunidad Obispo Santiestevan""]",,AMDECRUZ,1983-10-27,"[{""tit"":""Ley Nº 577 27 de octubre de 1983"",""id"":""BO-L-577""}]",1,FALSE,250,423948654,140518,78,Cálido,24.5
+31301,Mizque,,Primera,29,Cochabamba,Mizque,"[""Cono Sur""]",Cono Sur,AMDECO,1914-11-20,,6,FALSE,2000,1898818101,243306,170,Templado,17
+20402,Mocomoco,,Segunda,17,La Paz,Camacho,,,AMDEPAZ,1986-10-14,"[{""tit"":""Ley de 6 de noviembre de 1911"",""id"":""BO-L-19111106-4""},{""tit"":""Ley Nº 2648 1 de abril de 2004"",""id"":""BO-L-2648""}]",5,FALSE,3500,526136475,172387,310,Frío,11
+51002,Mojinete,,Segunda,44,Potosí,Sur Lipez,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Sud Lipez""]",Sudoeste,AMDEPO,1991-10-10,,5,FALSE,4000,406718244,113478,374,Seca y fría,9
+10501,Monteagudo,,Primera,5,Chuquisaca,Hernando Siles,"[""Mancomunidad del Chaco Chuquisaqueño"",""Serrania del Iñao"",""Mancomunidad MANCHABOL"",""Mancomunidad Servicios Básicos del Chaco Boliviano""]",Chaco,AGAMDECH,1969-12-31,,2,FALSE,1500,3407812535,451448,315,Cálido,19
+71001,Montero,,Primera,56,Santa Cruz,Obispo Santiestevan,"[""Mancomunidad Obispo Santiestevan""]",,AMDECRUZ,1941-12-02,"[{""tit"":""Ley de 2 de diciembre de 1941"",""id"":""BO-L-19411202-1""}]",1,FALSE,300,317958808,91549,50,Cálido,24.5
+70803,Moro Moro,,Tercera,60,Santa Cruz,Vallegrande,"[""Vallegrande""]",,AMDECRUZ,1984-10-18,,5,FALSE,2500,677577019,160152,400,Templado,17
+30302,Morochata,,Segunda,31,Cochabamba,Ayopaya,,Andina,AMDECO,1914-11-20,,8,FALSE,3500,7388067534,557049,89,Cálido subtropical,11
+20307,Nazacara de Pacajes,,Séptima,,La Paz,Pacajes,"[""Mancomunidad Jach'a Suyo Pacajes""]",,AMDEPAZ,1994-03-17,"[{""tit"":""Ley Nº 1540 17 de marzo de 1994"",""id"":""BO-L-1540""},{""tit"":""Ley de 14 de diciembre de 1959"",""id"":""BO-L-19591214-1""}]",1,FALSE,0,19021090,20009,,,
+90501,Nueva Esperanza,,Primera,67,Pando,Gral. Federico Roman,"[""Mancomunidad Manuripi""]",,AMDEPANDO,1963-10-19,,2,FALSE,120,3656954459,310623,,Tropical húmedo y Cálido,26
+50404,Ocurí,,Cuarta,41,Potosí,Chayanta,"[""Mancomunidad Chayanta"",""Mancomunidad Norte de Potosí""]",Norte,AMDEPO,1963-11-16,"[{""tit"":""Ley Nº 257 16 de noviembre de 1963"",""id"":""BO-L-257""}]",4,FALSE,4000,942355601,196043,77,Templado y frío,12
+70202,Okinawa,,Segunda,57,Santa Cruz,Warnes,"[""Mancomunidad Cuenca Baja del Rio Grande""]",,AMDECRUZ,1998-04-06,,,FALSE,0,1053365416,184696,97,Cálido,23
+30203,Omereque,,Tercera,29,Cochabamba,Campero,"[""Cono Sur"",""Mancomunidad de Municipios Integración""]",Cono Sur,AMDECO,1980-05-09,"[{""tit"":""Ley Nº 520 9 de mayo de 1980"",""id"":""BO-L-520""}]",6,FALSE,2000,762108369,164909,233,Cálido a Templado,19
+40101,Oruro,,Sección capital,"32, 33, 34",Oruro,Cercado (Oruro),,,AMDEOR,1986-10-14,,8,FALSE,3700,275208184,82052,0,Altiplanico - Seco y Frío,11
+60201,Padcaya,,Primera,47,Tarija,Arce,"[""Mancomunidad Del Sur"",""Mancomunidad Guadalquivir""]",,AMT,1914-11-20,"[{""tit"":""Ley de 2 de noviembre de 1886"",""id"":""BO-L-18861102-3""}]",12,FALSE,2000,4451910134,446432,50,Diversidad de Microclimas,18
+10401,Padilla,,Primera,4,Chuquisaca,Tomina,"[""Mancomunidad Chuquisaca Centro"",""Serrania del Iñao""]",Centro,AGAMDECH,1969-12-31,,1,FALSE,2200,1629510893,246768,187,Benigno,18
+70502,Pailón,,Segunda,58,Santa Cruz,Chiquitos,"[""Mancomunidad Chiquitania"",""Mancomunidad Cuenca Baja del Rio Grande""]",,AMDECRUZ,1993-11-24,"[{""tit"":""Ley Nº 1518 24 de noviembre de 1993"",""id"":""BO-L-1518""}]",5,FALSE,250,13914844929,597399,51,Cálido,24.5
+20102,Palca,,Primera,9,La Paz,Murillo,,,AMDEPAZ,1969-12-31,,3,FALSE,3800,739139604,157036,10,Marcadas variaciones climáticas,10
+21104,Palos Blancos,,Cuarta,,La Paz,Sur Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1986-02-07,"[{""tit"":""Ley Nº 786 7 de febrero de 1986"",""id"":""BO-L-786""}]",1,FALSE,0,3589759686,438716,,,
+40802,Pampa Aullagas,,Segunda,,Oruro,Ladislao Cabrera,"[""Mancomunidad de Municipios AZANAQUE""]",,AMDEOR,1983-02-16,"[{""tit"":""Ley Nº 534 16 de febrero de 1983"",""id"":""BO-L-534""}]",3,FALSE,0,1058105769,171591,,,
+70902,Pampa Grande,,Segunda,60,Santa Cruz,Florida,"[""Vallegrande"",""Valles Cruceños""]",,AMDECRUZ,1924-12-15,,2,FALSE,1500,1437955933,274868,173,Templado,21
+21802,Papel Pampa,,Segunda,21,La Paz,Gualberto Villarroel,"[""Desaguadero""]",,AMDEPAZ,1962-12-31,,9,FALSE,3900,908948086,170928,272,Semiárido,9
+30202,Pasorapa,,Segunda,29,Cochabamba,Campero,"[""Cono Sur"",""Mancomunidad de Municipios Integración""]",Cono Sur,AMDECO,1926-10-28,"[{""tit"":""Ley de 28 de octubre de 1926"",""id"":""BO-L-19261028-1""}]",1,FALSE,2500,2400367607,281275,330,Semidesertico,19
+21305,Patacamaya,,Quinta,21,La Paz,Aroma,"[""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,1962-01-15,"[{""tit"":""Ley Nº 167 15 de enero de 1962"",""id"":""BO-L-167""}]",12,FALSE,3800,567269843,133317,109,Frío,9
+40602,Pazña,,Segunda,36,Oruro,Poopo,"[""Mancomunidad de Municipios AZANAQUE"",""Mancomunidad Marepa"",""Minera""]",,AMDEOR,1912-10-12,"[{""tit"":""Ley Nº 90 6 de enero de 1961"",""id"":""BO-L-90""}]",5,FALSE,3700,737825490,167506,85,Frío,10
+20702,Pelechuco,,Segunda,19,La Paz,Franz Tamayo,"[""Mancomunidad Apolobamba""]",,AMDEPAZ,1969-12-31,,4,FALSE,3800,2521818045,305234,401,Frígido. templado y cálido,12
+50403,Pocoata,,Tercera,41,Potosí,Chayanta,"[""Mancomunidad Chayanta"",""Mancomunidad Norte de Potosí"",""Mancomunidad Nucleo Uncia""]",Norte,AMDEPO,1927-02-14,,9,FALSE,4000,1191340688,224658,170,Frío,11
+31203,Pocona,,Tercera,,Cochabamba,Carrasco,"[""Cono Sur""]",Cono Sur,AMDECO,1947-11-17,"[{""tit"":""Ley de 23 de noviembre de 1898"",""id"":""BO-L-18981123-3""}]",5,FALSE,0,840368261,191278,,,
+31202,Pojo,,Segunda,,Cochabamba,Carrasco,"[""Cono Sur"",""Mancomunidad Trópico""]",Cono Sur,AMDECO,1947-11-17,,9,FALSE,0,2400873158,280499,,,
+51203,Porco,,Tercera,43,Potosí,Antonio Quijarro,"[""Mancomunidad Centro de Potosí""]",Sudoeste,AMDEPO,1986-02-28,"[{""tit"":""Ley Nº 322 27 de enero de 1967"",""id"":""BO-L-322""}]",5,FALSE,4000,1149330904,160346,91,Frío y seco,9
+10103,Poroma,,Segunda,3,Chuquisaca,Oropeza,"[""Chuquisaca Norte"",""Mancomunidad Oropeza""]",Norte,AGAMDECH,1914-11-20,"[{""tit"":""Ley Nº 1502 25 de octubre de 1993"",""id"":""BO-L-1502""}]",6,FALSE,2500,1397551663,251802,132,Sub húmedo seco a semiarido,15.5
+70103,Porongo,Ayacucho,Segunda,60,Santa Cruz,Andres Ibañez,"[""Metropolitana""]",,AMDECRUZ,1993-12-13,,2,FALSE,450,951852166,160956,18,Templado,24.5
+70601,Portachuelo,,Primera,69,Santa Cruz,Sara,"[""Mancomunidad Sara e Ichilo""]",,AMDECRUZ,1926-04-08,,3,FALSE,300,1085511460,190913,70,Tropical,24.5
+90102,Porvenir,,Primera,67,Pando,Nicolas Suarez,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1938-09-24,,2,FALSE,250,1064225171,241763,33,Cálido y húmedo,25
+70804,Postrervalle,,Cuarta,60,Santa Cruz,Vallegrande,"[""Vallegrande""]",,AMDECRUZ,1984-10-18,,3,FALSE,2500,1165417612,245935,521,Templado,21
+50101,Potosí,,Sección capital,37,Potosí,Tomas Frias,,Centro,AMDEPO,1995-10-31,,4,FALSE,4000,1234295717,244372,0,Frío,9
+10302,Presto,,Segunda,4,Chuquisaca,Zudañez,"[""Chuquisaca Norte""]",Norte,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 28 de octubre de 1926"",""id"":""BO-L-19261028-4""}]",3,FALSE,3000,1334159312,194661,98,Templado y seco,16
+70805,Pucará,,Quinta,60,Santa Cruz,Vallegrande,"[""Vallegrande""]",,AMDECRUZ,1984-10-18,,2,FALSE,2500,686440728,152561,382,Templado. seco a semiseco,17
+21201,Pucarani,,Primera,17,La Paz,Los Andes,"[""Mancomunidad Cuenca Lechera"",""Mancomunidad del Lago""]",,AMDEPAZ,1917-11-24,,12,FALSE,3900,933125861,217153,48,Altiplanico - Seco y Frío,7.5
+20401,Puerto Acosta,,Primera,17,La Paz,Camacho,"[""Mancomunidad del Lago""]",,AMDEPAZ,1987-02-11,"[{""tit"":""Ley de 6 de noviembre de 1911"",""id"":""BO-L-19111106-4""}]",9,FALSE,4000,838076801,192447,202,Frío,10
+20403,Puerto Carabuco,,Tercera,17,La Paz,Camacho,"[""Mancomunidad del Lago""]",,AMDEPAZ,1993-01-29,"[{""tit"":""Ley Nº 1669 30 de octubre de 1995"",""id"":""BO-L-1669""}]",4,FALSE,3900,410744723,153660,100,Altiplanico - Seco y Frío,10
+71004,Puerto Fernández Alonso,,Cuarta,56,Santa Cruz,Obispo Santiestevan,,,AMDECRUZ,2002-01-28,"[{""tit"":""Ley Nº 2320 28 de enero de 2002"",""id"":""BO-L-2320""}]",,FALSE,250,767326768,140309,93,Cálido,24.5
+90301,Puerto Gonzalo Moreno,,Primera,68,Pando,Madre de Dios,"[""Mancomunidad Madre de Dios""]",,AMDEPANDO,1938-09-24,,2,FALSE,150,1291554556,281321,452,Tropical húmedo y Cálido,26
+21204,Puerto Pérez,,Cuarta,,La Paz,Los Andes,"[""Mambit"",""Mancomunidad del Lago""]",,AMDEPAZ,1984-10-05,"[{""tit"":""Ley Nº 647 5 de octubre de 1984"",""id"":""BO-L-647""}]",4,FALSE,0,118226608,107649,,,
+71402,Puerto Quijarro,,Segunda,58,Santa Cruz,German Busch,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1991-09-30,"[{""tit"":""Ley Nº 1263 30 de septiembre de 1991"",""id"":""BO-L-1263""}]",1,FALSE,150,1492581820,311668,660,Cálido,26
+90201,Puerto Rico,,Primera,68,Pando,Manuripi,"[""Mancomunidad Manuripi""]",,AMDEPANDO,1938-09-24,,3,FALSE,170,5290757341,539586,214,Tropical húmedo y Cálido,26
+80703,Puerto Siles,,Tercera,65,Beni,Mamore,"[""Mancomunidad MAMORE""]",,AMDEBENI,1945-12-03,,3,FALSE,130,2078558827,297642,293,Tropical con variaciones isotermicas,26.5
+71401,Puerto Suárez,,Primera,58,Santa Cruz,German Busch,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1947-02-26,,3,FALSE,150,13317192202,756922,648,Cálido,26
+31205,Puerto Villarroel,,Quinta,,Cochabamba,Carrasco,"[""Cono Sur"",""Mancomunidad Trópico""]",Trópico,AMDECO,1982-10-06,,4,FALSE,0,2249297269,369414,,,
+51101,Puna,,Primera,42,Potosí,Jose Maria Linares,,Centro,AMDEPO,1910-12-13,,12,FALSE,3400,3468792689,512943,70,Templado,12
+31401,Punata,,Primera,30,Cochabamba,Punata,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1969-12-31,,1,FALSE,3600,85974442,52975,52,Templado,17
+20604,Quiabaya,,Cuarta,,La Paz,Larecaja,"[""Mancomunidad Larecaja""]",,AMDEPAZ,1985-04-15,"[{""tit"":""Ley Nº 736 15 de abril de 1985"",""id"":""BO-L-736""}]",1,FALSE,0,132404186,53654,,,
+30901,Quillacollo,,Primera,26,Cochabamba,Quillacollo,,Metropolitana,AMDECO,1905-09-14,,2,FALSE,2600,564730439,144201,7,Templado,18
+21002,Quime,,Segunda,20,La Paz,Inquisivi,"[""Mancomunidad Valles Interandinos""]",,AMDEPAZ,1945-11-03,,4,FALSE,3500,874587408,166145,250,Templado,15
+70904,Quirusillas,,Cuarta,60,Santa Cruz,Florida,"[""Vallegrande"",""Valles Cruceños""]",,AMDECRUZ,1943-09-24,"[{""tit"":""Ley de 24 de septiembre de 1943"",""id"":""BO-L-19430924-1""}]",1,FALSE,1500,288541749,97606,161,Templado,21
+50402,Ravelo,,Segunda,41,Potosí,Chayanta,"[""Mancomunidad Chayanta"",""Mancomunidad Norte de Potosí""]",Norte,AMDEPO,1911-01-23,,6,FALSE,3200,1243043938,177012,43,Frío,13
+80301,Reyes,,Primera,63,Beni,Gral. J. Ballivian,"[""MANRIBE""]",,AMDEBENI,1969-12-31,"[{""tit"":""Ley de 27 de noviembre de 1941"",""id"":""BO-L-19411127-12""}]",2,FALSE,220,12595896778,1309629,320,Cálido,26
+80201,Riberalta,,Primera,64,Beni,Vaca Diez,,,AMDEBENI,1914-11-20,"[{""tit"":""Ley de 19 de enero de 1900"",""id"":""BO-L-19000119-3""}]",4,FALSE,130,9727678283,765445,1025,Cálido,26.5
+70503,Roboré,,Tercera,58,Santa Cruz,Chiquitos,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1947-11-26,"[{""tit"":""Ley de 26 de noviembre de 1947"",""id"":""BO-L-19471126-1""}]",2,FALSE,270,7511540846,471996,412,Tropical,26
+80304,Rurrenabaque,,Cuarta,62,Beni,Gral. J. Ballivian,"[""MANRIBE""]",,AMDEBENI,1995-10-31,,1,FALSE,250,2517360151,297861,355,Húmedo y cálido,25.5
+40901,Sabaya,,Primera,35,Oruro,Sabaya,"[""Mancomunidad de Municipios de la Frontera con Chile"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEOR,1959-12-26,,17,FALSE,4000,3348054926,578484,195,Frígido,8
+31001,Sacaba,,Primera,28,Cochabamba,Chapare,,Metropolitana,AMDECO,1969-12-31,,5,FALSE,2700,701778299,151515,14,Templado,18
+30404,Sacabamba,,Cuarta,,Cochabamba,Esteban Arce,"[""Mancomunidad Cuenca del Caine""]",Valles,AMDECO,1990-11-01,"[{""tit"":""Ley Nº 1195 1 de noviembre de 1990"",""id"":""BO-L-1195""}]",5,FALSE,0,185865510,68490,,,
+50701,Sacaca,,Primera,40,Potosí,Alonzo de Ibañez,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Nucleo Uncia""]",Norte,AMDEPO,1938-11-10,,3,FALSE,4000,891519032,188904,340,Frío a templado,9
+71302,Saipina,,Segunda,60,Santa Cruz,Caballero,"[""Vallegrande"",""Valles Cruceños"",""Mancomunidad de Municipios Integración""]",,AMDECRUZ,1960-11-04,"[{""tit"":""Ley Nº 23 4 de noviembre de 1960"",""id"":""BO-L-23""}]",3,FALSE,1500,491751365,130311,254,Semiárido,19
+40801,Salinas de Garci Mendoza,,Primera,35,Oruro,Ladislao Cabrera,"[""Mancomunidad de Municipios AZANAQUE"",""Thumivida""]",,AMDEOR,1967-01-27,,8,FALSE,3800,4875778436,675610,254,Frío,8
+70901,Samaipata,,Primera,60,Santa Cruz,Florida,"[""Vallegrande"",""Valles Cruceños""]",,AMDECRUZ,1924-12-15,"[{""tit"":""Ley de 15 de diciembre de 1924"",""id"":""BO-L-19241215""}]",2,FALSE,1800,2204390561,348794,478,Templado húmedo - Frío y Seco,21
+51601,San Agustín,,Primera,44,Potosí,Enrique Baldiviezo,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Productores de la Quinua Real""]",Sudoeste,AMDEPO,1985-02-06,,4,FALSE,4000,2106210305,246727,316,Variable,7
+80602,San Andrés,,Segunda,62,Beni,Marban,"[""Mancomunidad Salud Trinidad""]",,AMDEBENI,1937-05-19,,3,FALSE,130,9414943983,656655,38,Cálido,26
+20805,San Andrés de Machaca,,Quinta,,La Paz,Ingavi,,,AMDEPAZ,2002-05-07,,,FALSE,0,1512589018,191891,,,
+51003,San Antonio de Esmoruco,,Tercera,,Potosí,Sur Lipez,"[""Mancomunidad Gran Tierra de Los Lipez"", ""Mancomunidad Sud Lipez""]",Sudoeste,AMDEPO,1984-09-20,,2,FALSE,0,2507061815,281019,,,
+71105,San Antonio de Lomerío,,Quinta,57,Santa Cruz,Ñuflo de Chavez,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1999-03-24,,,FALSE,0,2485000000,,281,Cálido,28
+31403,San Benito,,Tercera,,Cochabamba,Punata,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1948-10-29,"[{""tit"":""Ley de 29 de octubre de 1948"",""id"":""BO-L-19481029-3""}]",3,FALSE,0,141747599,57957,,,
+80302,San Borja,,Segunda,62,Beni,Gral. J. Ballivian,"[""MANRIBE""]",,AMDEBENI,1969-12-31,,1,FALSE,200,13448913665,591075,232,Cálido,26
+21502,San Buenaventura,,Segunda,19,La Paz,Abel Iturralde,,,AMDEPAZ,1939-04-03,,3,FALSE,250,2822024954,343153,385,Cálido subtropical,25.5
+70402,San Carlos,,Segunda,69,Santa Cruz,Ichilo,"[""Mancomunidad Sara e Ichilo""]",,AMDECRUZ,1991-11-11,,1,FALSE,350,1221444653,253303,132,Húmedo sub tropical,24
+70301,San Ignacio,San Ignacio de Velasco,Primera,58,Santa Cruz,Velasco,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1969-12-31,,3,FALSE,450,49955933115,1380644,96,Cálido tropical,24
+80501,San Ignacio,,Primera,62,Beni,Moxos,"[""Mancomunidad Salud Trinidad""]",,AMDEBENI,1941-11-27,,3,FALSE,160,20037660612,1256944,93,Cálido,25
+71102,San Javier,,Segunda,57,Santa Cruz,Ñuflo de Chavez,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1960-09-16,,2,FALSE,700,3421196056,317642,230,Cálido,23
+80102,San Javier,,Primera,61,Beni,Cercado (Beni),"[""Mancomunidad Salud Trinidad"",""Mancomunidad Todo Santos""]",,AMDEBENI,1969-12-31,,2,FALSE,130,8216159667,477214,27,Cálido,26.5
+80701,San Joaquín,,Primera,65,Beni,Mamore,"[""Mancomunidad MAMORE""]",,AMDEBENI,1941-11-27,,2,FALSE,140,8727401642,956100,238,Cálido,26.5
+70501,San José,,Primera,58,Santa Cruz,Chiquitos,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1969-12-31,,2,FALSE,280,19481689805,712626,266,Cálido,25
+70404,San Juan,,Cuarta,69,Santa Cruz,Ichilo,,,AMDECRUZ,2001-07-26,"[{""tit"":""Ley Nº 2233 26 de julio de 2001"",""id"":""BO-L-2233""}]",,FALSE,350,1588677164,496160,158,Cálido,24
+71104,San Julián,,Cuarta,57,Santa Cruz,Ñuflo de Chavez,"[""Mancomunidad Chiquitania"",""Mancomunidad Cuenca Baja del Rio Grande"",""Mancomunidad Guarayos""]",,AMDECRUZ,1999-01-28,"[{""tit"":""Ley Nº 1091 21 de febrero de 1989"",""id"":""BO-L-1091""}]",,FALSE,0,5687000000,,150,Templado,24.3
+60501,San Lorenzo,,Primera,49,Tarija,Mendez,"[""Mancomunidad Guadalquivir"",""Mancomunidad Heroes de la Independencia""]",,AMT,1945-10-25,,13,FALSE,2000,1977691722,294725,20,Semiárido. fresco. mesotermal. sobandino. cabecera de valle. valle y subtrópico,18.5
+10702,San Lucas,,Segunda,6,Chuquisaca,Nor Cinti,"[""Mancomunidad de la Integración San Lucas - Tarvita"",""Mancomunidad de los Cintis""]",Cintis,AGAMDECH,1928-09-24,"[{""tit"":""Ley de 24 de septiembre de 1928""""id"":""BO-L-19280924-1""},{""tit"":""Ley de 5 de noviembre de 1886"",""id"":""BO-L-18861105""}]",8,FALSE,3500,3885621906,396514,206,Templado,21
+71201,San Matías,,Primera,58,Santa Cruz,Angel Sandoval,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1948-12-16,,4,FALSE,150,27745817247,852054,765,Cálido y lluvioso,24.5
+70302,San Miguel,,Segunda,58,Santa Cruz,Velasco,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1927-10-27,,1,FALSE,450,9697867562,556925,448,Cálido tropical,24
+10502,San Pablo de Huacareta,,Segunda,5,Chuquisaca,Hernando Siles,"[""Mancomunidad del Chaco Chuquisaqueño"",""Mancomunidad MANCHABOL""]",Chaco,AGAMDECH,1957-12-24,"[{""tit"":""Ley de 24 de diciembre de 1957"",""id"":""BO-L-19571224-3""}]",3,FALSE,1500,2981054841,326576,394,Templado,21
+51001,San Pablo de Lipez,,Primera,44,Potosí,Sur Lipez,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Sud Lipez""]",Sudoeste,AMDEPO,1969-12-31,,3,FALSE,4200,15259355697,716502,410,Templado a frío,9
+71005,San Pedro,,Quinta,56,Santa Cruz,Obispo Santiestevan,,,AMDECRUZ,2002-01-28,"[{""tit"":""Ley Nº 2321 28 de enero de 2002"",""id"":""BO-L-2321""}]",,FALSE,250,3106218433,550288,222,Cálido,24.5
+90202,San Pedro,,Segunda,68,Pando,Manuripi,"[""Mancomunidad Manuripi""]",,AMDEPANDO,1938-09-24,,2,FALSE,150,2630452410,534405,305,Tropical húmedo y Cálido,26
+50501,San Pedro de Buena Vista,,Primera,40,Potosí,Charcas,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Cuenca del Caine""]",Norte,AMDEPO,1969-12-31,,6,FALSE,3500,2170464001,262391,231,Templado y frío,12
+21801,San Pedro de Curahuara,,Primera,21,La Paz,Gualberto Villarroel,"[""Mancomunidad Altiplano y Valle Central"",""Mancomunidad Aymaras sin Fronteras""]",,AMDEPAZ,1984-03-30,"[{""tit"":""Ley Nº 235 31 de diciembre de 1962"",""id"":""BO-L-235""}]",11,FALSE,4000,728475384,155213,248,Frío,9
+50902,San Pedro de Quemes,,Segunda,43,Potosí,Nor Lipez,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Nor Lipez"",""Mancomunidad Productores de la Quinua Real""]",Sudoeste,AMDEPO,1949-12-26,,5,FALSE,4000,4372681975,379716,362,Variable,7
+21702,San Pedro de Tiquina,,Segunda,17,La Paz,Manco Kapac,"[""Mancomunidad del Lago"",""Mancomunidad Francisco Tito Yupanqui""]",,AMDEPAZ,1961-11-18,,5,FALSE,3850,46324011,39093,117,Frío húmedo,10
+70303,San Rafael,,Tercera,58,Santa Cruz,Velasco,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1994-02-07,"[{""tit"":""Ley Nº 1531 7 de febrero de 1994"",""id"":""BO-L-1531""}]",4,FALSE,400,9925801959,449655,408,Cálido tropical,24
+71103,San Ramón,,Tercera,57,Santa Cruz,Ñuflo de Chavez,"[""Mancomunidad Chiquitania""]",,AMDECRUZ,1989-02-21,,,FALSE,250,489000000,,189,Templado,24
+80702,San Ramón,,Segunda,65,Beni,Mamore,"[""Mancomunidad MAMORE""]",,AMDEBENI,1941-11-27,,2,FALSE,130,10129754477,780724,220,Cálido,26.5
+80401,Santa Ana,,Primera,65,Beni,Yacuma,,,AMDEBENI,1969-12-31,,2,FALSE,150,20107305356,1065942,185,Cálido,26.5
+70101,Santa Cruz de la Sierra,,Sección capital,"50, 51, 52, 53, 54, 55, 70",Santa Cruz,Andres Ibañez,"[""Metropolitana"",""Mancomunidad de Municipios Integración""]",,AMDECRUZ,1995-10-31,,4,FALSE,400,1282288064,266614,0,Cálido,24.5
+80303,Santa Rosa,,Tercera,63,Beni,Gral. J. Ballivian,,,AMDEBENI,1911-08-16,,1,FALSE,210,12078708060,1244284,402,Cálido,26.5
+90401,Santa Rosa del Abuná,,Primera,67,Pando,Abuna,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1938-09-24,,2,FALSE,150,3872797107,397644,,Cálido,26
+70602,Santa Rosa del Sara,,Segunda,69,Santa Cruz,Sara,"[""Mancomunidad Sara e Ichilo""]",,AMDECRUZ,1926-04-08,,2,FALSE,300,4143930716,780794,118,Húmedo sub tropical,24.5
+20308,Santiago de Callapa,,Octava,,La Paz,Pacajes,"[""Mancomunidad Jach'a Suyo Pacajes"", ""Aymara sin Fronteras""]",,AMDEPAZ,1994-04-26,"[{""tit"":""Ley Nº 1555 26 de abril de 1994"",""id"":""BO-L-1555""}]",5,FALSE,0,1226138536,185690,,,
+41401,Santiago de Huari,,Primera,36,Oruro,Sebastian Pagador,"[""Mancomunidad de Municipios AZANAQUE""]",,AMDEOR,1984-03-16,,11,FALSE,3700,2402740481,275873,154,Seco y frío,10
+20205,Santiago de Huata,,Quinta,18,La Paz,Omasuyos,,,AMDEPAZ,2009-02-06,,,FALSE,4000,92000000,,97,Frío,8
+41601,Santiago de Huayllamarca,,Primera,35,Oruro,Nor Carangas,"[""Aymara sin Fronteras"", ""Mancomunidad Nor Occidente""]",,AMDEOR,1990-09-26,,9,FALSE,4000,871356350,203535,106,Frío y seco,9
+21901,Santiago de Machaca,,Primera,22,La Paz,Gral. J. Manuel Pando,"[""Mancomunidad Héroes del Pacifico""]",,AMDEPAZ,1986-04-29,,6,FALSE,3900,1262495620,221320,165,Frío,7.5
+30702,Santivañez,,Segunda,30,Cochabamba,Capinota,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1914-11-20,,7,FALSE,2600,307066122,80171,45,Templado,17.5
+90503,Santos Mercado,Reserva,Tercera,67,Pando,Gral. Federico Roman,"[""Mancomunidad Tahuamanu""]",,AMDEPANDO,1963-10-19,,2,FALSE,120,6619925790,413024,,Tropical húmedo y Cálido,26
+40202,Santuario de Quillacas,,Segunda,36,Oruro,Abaroa,"[""Thumivida"", ""Mancomunidad de Municipios AZANAQUE""]",,AMDEOR,1962-01-12,,3,FALSE,3700,919281363,174438,150,Frío,9
+20902,Sapahaqui,,Segunda,21,La Paz,Loayza,"[""Mancomunidad De La Provincia Loayza"", ""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,1915-11-25,"[{""tit"":""Ley de 25 de noviembre de 1915"",""id"":""BO-L-19151125-1""}]",3,FALSE,2500,841605698,164189,80,Templado,12
+31602,Shinahota,,Segunda,,Cochabamba,Tiraque,,Trópico,AMDECO,2009-07-04,,,FALSE,0,0,,,,
+21301,Sica Sica,,Primera,21,La Paz,Aroma,,,AMDEPAZ,1984-09-16,,11,FALSE,3800,1732952038,227180,107,Altiplanico - Seco y Frío,9
+30703,Sicaya,,Tercera,30,Cochabamba,Capinota,"[""Andina""]",Andina,AMDECO,1984-08-31,"[{""tit"":""Ley Nº 631 31 de agosto de 1984"",""id"":""BO-L-631""}]",2,FALSE,2600,132591838,58261,130,Mesotermico con invierno seco y una temperatura media,16
+30902,Sipe Sipe,,Segunda,31,Cochabamba,Quillacollo,,Metropolitana,AMDECO,1905-09-14,,2,FALSE,2600,479868600,172516,24,Templado,18
+10403,Sopachuy,,Tercera,4,Chuquisaca,Tomina,"[""Juana Azurduy de Padilla"",""Mancomunidad Chuquisaca Centro""]",Centro,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 1 de abril de 1932"",""id"":""BO-L-19320401-9""}]",1,FALSE,2500,623337897,142350,197,Húmedo seco. sub húmedo a húmedo,18.5
+40104,Soracachi,Paria,Tercera,34,Oruro,Cercado (Oruro),,,AMDEOR,2002-02-04,"[{""tit"":""Ley Nº 2329 4 de febrero de 2002"",""id"":""BO-L-2329""}]",,FALSE,0,1368934474,224888,23,Altiplanico - Seco y Frío,11
+20601,Sorata,,Primera,19,La Paz,Larecaja,"[""Mancomunidad del Norte Paceño Tropical"",""Mancomunidad Larecaja""]",,AMDEPAZ,1929-12-09,"[{""tit"":""Ley de 16 de enero de 1900"",""id"":""BO-L-19000116-5""}]",7,FALSE,2600,2069319971,310818,170,Cálido. templado a frío,17
+10101,Sucre,"Ciudad Blanca, La Plata, Charcas",Sección capital,"1, 2, 3",Chuquisaca,Oropeza,"[""Chuquisaca Norte"",""Mancomunidad Oropeza"",""Mancomunidad de Municipios Integración""]",Norte,AGAMDECH,1914-11-20,,14,FALSE,2700,1824788874,304594,0,Cálido y seco,15.5
+31404,Tacachi,,Cuarta,,Cochabamba,Punata,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1983-02-04,,1,FALSE,0,12354887,16553,,,
+20603,Tacacoma,,Tercera,,La Paz,Larecaja,"[""Mancomunidad Larecaja""]",,AMDEPAZ,1984-10-17,"[{""tit"":""Ley Nº 652 17 de octubre de 1984"",""id"":""BO-L-652""},{""tit"":""Ley Nº 736 15 de abril de 1985"",""id"":""BO-L-736""}]",5,FALSE,0,819801814,200656,,,
+50303,Tacobamba,,Tercera,42,Potosí,Cornelio Saavedra,,Centro,AMDEPO,1948-12-08,"[{""tit"":""Ley de 8 de diciembre de 1948"",""id"":""BO-L-19481208-9""}]",6,FALSE,3500,835103795,160367,84,Frío,12
+30602,Tacopaya,,Segunda,31,Cochabamba,Arque,"[""Andina""]",Andina,AMDECO,1941-09-30,"[{""tit"":""Ley de 30 de septiembre de 1941"",""id"":""BO-L-19410930-2""}]",2,FALSE,3200,553695999,122593,97,Templado,16
+51402,Tahua,,Segunda,43,Potosí,Daniel Campos,"[""Mancomunidad Gran Tierra de Los Lipez"",""Mancomunidad Incahuasi""]",Sudoeste,AMDEPO,1961-12-13,"[{""tit"":""Ley Nº 129 13 de diciembre de 1961"",""id"":""BO-L-129""}]",6,FALSE,4000,227494203,137008,343,Frío,8
+31101,Tapacarí,,Primera,31,Cochabamba,Tapacari,"[""Andina""]",Andina,AMDECO,1905-09-14,,4,FALSE,3500,1647675053,262995,123,Diverso,14
+10601,Tarabuco,,Primera,3,Chuquisaca,Yamparaez,"[""Juana Azurduy de Padilla""]",Norte,AGAMDECH,1912-11-18,,2,FALSE,3500,1033069193,192925,64,Seco y semiarido,15.5
+20807,Taraco,,Séptima,,La Paz,Ingavi,,,AMDEPAZ,2003-07-16,"[{""tit"":""Ley Nº 2488 16 de julio de 2003"",""id"":""BO-L-2488""}]",,FALSE,0,0,,,,
+30401,Tarata,,Primera,30,Cochabamba,Esteban Arce,"[""Mancomunidad Cuenca del Caine""]",Valles,AMDECO,1914-11-20,,4,FALSE,2600,338374687,93208,29,Templado,18
+60101,Tarija,,Sección capital,45.46,Tarija,Cercado (Tarija),"[""Mancomunidad de pueblos productores de hidrocarburos"",""Mancomunidad Guadalquivir""]",,AMT,1969-12-31,,9,FALSE,1900,2141728436,354408,0,Variedad de Climas,18.5
+10202,Tarvita,,Segunda,5,Chuquisaca,Azurduy,"[""Juana Azurduy de Padilla"",""Mancomunidad Chuquisaca Centro"",""Mancomunidad de la Integración San Lucas - Tarvita""]",Centro,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 31 de octubre de 1945"",""id"":""BO-L-19451031-4""}]",3,FALSE,2500,1340194233,194377,354,Sub húmedo,17
+20608,Teoponte,,Octava,,La Paz,Larecaja,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,2001-12-11,"[{""tit"":""Ley Nº 2292 11 de diciembre de 2001"",""id"":""BO-L-2292""}]",,FALSE,0,1589880002,247277,,,
+20803,Tiahuanacu,,Tercera,22,La Paz,Ingavi,"[""Mambit"", ""Mancomunidad del Lago""]",,AMDEPAZ,1947-11-22,"[{""tit"":""Ley de 22 de noviembre de 1947"",""id"":""BO-L-19471122-1""}]",5,FALSE,3900,346925751,102817,71,Frío,8
+50102,Tinguipaya,,Primera,38,Potosí,Tomas Frias,"[""Mancomunidad Tomas Frias""]",Centro,AMDEPO,1992-11-09,,2,FALSE,4000,1464887656,204447,40,Templado y húmedo,9
+20606,Tipuani,,Sexta,,La Paz,Larecaja,"[""Mancomunidad del Norte Paceño Tropical"",""Norte Paceño""]",,AMDEPAZ,1986-04-03,"[{""tit"":""Ley de 2 de noviembre de 1947"",""id"":""BO-L-19471102-2""},{""tit"":""Ley Nº 831 3 de abril de 1986"",""id"":""BO-L-831""}]",4,FALSE,0,298763338,86070,,,
+30903,Tiquipaya,,Tercera,26,Cochabamba,Quillacollo,,Metropolitana,AMDECO,1957-09-23,"[{""tit"":""Ley de 23 de septiembre de 1957"",""id"":""BO-L-19570923""}]",1,FALSE,2700,344126966,120924,15,Templado,18
+31601,Tiraque,,Primera,28,Cochabamba,Tiraque,"[""Mancomunidad Trópico""]",Cono Sur,AMDECO,1986-10-15,,3,FALSE,3200,2768145746,305814,233,Variado,12
+21703,Tito Yupanqui,,Tercera,17,La Paz,Manco Kapac,"[""Mancomunidad del Lago"",""Mancomunidad Francisco Tito Yupanqui""]",,AMDEPAZ,1985-02-06,"[{""tit"":""Ley Nº 706 6 de febrero de 1985"",""id"":""BO-L-706""}]",1,FALSE,4000,14708217,20855,114,Templado,10
+30802,Toco,,Segunda,30,Cochabamba,German Jordan,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1956-04-03,,1,FALSE,2600,63808762,46772,43,Templado,17
+41502,Todos Santos,,Segunda,,Oruro,Mejillones,"[""Mancomunidad de Municipios de la Frontera con Chile""]",,AMDEOR,1989-02-21,"[{""tit"":""Ley Nº 825 3 de abril de 1986"",""id"":""BO-L-825""}]",1,FALSE,0,235996250,80893,,,
+30803,Tolata,,Tercera,30,Cochabamba,German Jordan,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1914-11-24,"[{""tit"":""Ley Nº 1492 16 de septiembre de 1993"",""id"":""BO-L-1492""}]",1,FALSE,2600,83949865,47685,34,Templado,17
+41001,Toledo,,Primera,35,Oruro,Saucari,"[""Mancomunidad Productores de Camélidos""]",,AMDEOR,1992-02-17,,11,FALSE,3700,2914106294,346093,42,Frío,9
+51202,Tomave,,Segunda,43,Potosí,Antonio Quijarro,"[""Mancomunidad Vedespo""]",Sudoeste,AMDEPO,1969-12-31,"[{""tit"":""Ley Nº 323 27 de enero de 1967"",""id"":""BO-L-323""}]",12,FALSE,4000,8228005586,545229,129,Frío y seco,9
+10402,Tomina,,Segunda,4,Chuquisaca,Tomina,"[""Mancomunidad Chuquisaca Centro""]",Centro,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 1 de abril de 1932"",""id"":""BO-L-19320401-9""}]",1,FALSE,2500,831049552,159714,153,Templado a Cálido,18
+50502,Toro Toro,,Segunda,40,Potosí,Charcas,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Cuenca del Caine""]",Norte,AMDEPO,1969-12-31,,6,FALSE,3000,1177656072,212323,408,Templado y frío,12
+31201,Totora,,Primera,29,Cochabamba,Carrasco,"[""Cono Sur""]",Cono Sur,AMDECO,1969-12-31,,4,FALSE,3000,2163198957,295416,142,Frío y falto de humedad,16
+41301,Totora,San Pedro de Totora,Primera,35,Oruro,S. Pedro de Totora,"[""Mancomunidad Nor Occidente"", ""Aymara sin Fronteras""]",,AMDEOR,1986-03-04,,7,FALSE,3800,1432528041,210997,180,Propio del altiplano,9
+80101,Trinidad,,Sección capital,61,Beni,Cercado (Beni),"[""Mancomunidad Salud Trinidad""]",,AMDEBENI,1995-10-31,,1,FALSE,130,2550975256,331810,0,Cálido,26.5
+50801,Tupiza,,Primera,44,Potosí,Sur Chichas,"[""Mancomunidad Chichas"",""Mancomunidad Ruta de los Libertadores"",""Mancomunidad Vedespo""]",Sud,AMDEPO,1969-12-31,,12,FALSE,2900,6208286628,516753,253,Seco y Frío,14
+40402,Turco,,Segunda,35,Oruro,Sajama,"[""Mancomunidad Productores de Camélidos""]",,AMDEOR,1957-02-20,,3,FALSE,4000,4771375954,387690,155,Propio del altiplano,9
+21302,Umala,,Segunda,21,La Paz,Aroma,"[""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,1992-12-10,"[{""tit"":""Ley de 18 de noviembre de 1912"",""id"":""BO-L-19121118-3""}]",99,FALSE,3800,854703806,141270,101,Frío,9
+50201,Uncía,,Primera,39,Potosí,Rafael Bustillo,"[""Mancomunidad Norte de Potosí"",""Mancomunidad Nucleo Uncia""]",Norte,AMDEPO,1986-02-28,"[{""tit"":""Ley de 8 de octubre de 1908"",""id"":""BO-L-19081008-1""}]",3,FALSE,4000,1147009043,173308,230,Frío,9
+60401,Uriondo,Concepción,Primera,49,Tarija,Avilez,"[""Mancomunidad Guadalquivir"",""Mancomunidad Heroes de la Independencia""]",,AMT,1913-11-19,,3,FALSE,2000,804886739,177661,25,Semiárido. fresco,18.5
+71502,Urubichá,,Segunda,57,Santa Cruz,Guarayos,,,AMDECRUZ,1990-03-06,"[{""tit"":""Ley Nº 1143 6 de marzo de 1990"",""id"":""BO-L-1143""}]",3,FALSE,200,10572866464,736645,343,Templado,24
+51201,Uyuni,,Primera,43,Potosí,Antonio Quijarro,"[""Mancomunidad Productores de la Quinua Real"",""Mancomunidad Vedespo""]",Sudoeste,AMDEPO,1969-12-31,,5,FALSE,3700,7764440698,830759,204,Seco y frío,8
+30502,Vacas,,Segunda,29,Cochabamba,Arani,,Cono Sur,AMDECO,1914-11-24,,1,FALSE,3800,361385640,107123,68,Seco y frío,15
+70801,Vallegrande,,Primera,60,Santa Cruz,Vallegrande,"[""Vallegrande""]",,AMDECRUZ,1984-10-18,,17,FALSE,2000,3210009752,476914,352,Sub tropical,17
+20801,Viacha,,Primera,22,La Paz,Ingavi,"[""Mancomunidad Cuenca Lechera""]",,AMDEPAZ,1983-11-23,,26,FALSE,3900,850634509,140492,36,Frío,8
+31302,Vila Vila,,Segunda,29,Cochabamba,Mizque,"[""Cono Sur""]",Cono Sur,AMDECO,1914-11-20,,2,FALSE,2300,602218287,124910,125,Templado,16
+10404,Villa Alcalá,,Cuarta,4,Chuquisaca,Tomina,"[""Juana Azurduy de Padilla"",""Mancomunidad Chuquisaca Centro""]",Centro,AGAMDECH,1957-09-20,"[{""tit"":""Ley de 20 de septiembre de 1957"",""id"":""BO-L-19570920-2""}]",1,FALSE,2500,314457850,91764,182,Templano y seco,18.5
+10201,Villa Azurduy,,Primera,5,Chuquisaca,Azurduy,"[""Juana Azurduy de Padilla"",""Mancomunidad Chuquisaca Centro""]",Centro,AGAMDECH,1941-11-29,,3,FALSE,2500,1708881068,239313,320,Templado,17
+10704,Villa Charcas,,Cuarta ,6,Chuquisaca,Nor Cinti,,Cintis,AGAMDECH,2009-12-04,,,FALSE,3000,688000000,,412,Templado a frío,17
+50103,Villa de Yocalla,,Segunda,38,Potosí,Tomas Frias,"[""Mancomunidad Tomas Frias""]",Centro,AMDEPO,1963-11-28,"[{""tit"":""Ley Nº 266 28 de noviembre de 1963"",""id"":""BO-L-266""}]",3,FALSE,3500,880902527,164742,43,Frío y seco,9
+40701,Villa Huanuni,,Primera,36,Oruro,Pantaleon Dalence,"[""Minera""]",,AMDEOR,1912-11-15,,6,FALSE,4000,551712693,169571,47,Frío. seco y árido,10
+10303,Villa Mojocoya,,Tercera,4,Chuquisaca,Zudañez,"[""Chuquisaca Norte""]",Norte,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 14 de enero de 1941"",""id"":""BO-L-19410114-1""}]",1,FALSE,2500,1252953883,181846,185,Templado y seco,12
+90502,Villa Nueva,Loma Alta,Segunda,67,Pando,Gral. Federico Roman,"[""Mancomunidad Manuripi""]",,AMDEPANDO,1963-10-19,,2,FALSE,150,2822363046,353407,,Tropical húmedo y Cálido,26
+40601,Villa Poopó,,Primera,36,Oruro,Poopo,"[""Minera""]",,AMDEOR,1903-10-16,,3,FALSE,3700,701981580,135385,80,Frío,10
+31402,Villa Rivero,,Segunda,30,Cochabamba,Punata,"[""Mancomunidad Valle Alto""]",Valles,AMDECO,1915-10-12,"[{""tit"":""Ley de 12 de octubre de 1915"",""id"":""BO-L-19151012-1""}]",1,FALSE,3600,103017876,49171,59,Templado,17
+10801,Villa Serrano,,Primera,4,Chuquisaca,Belisario Boeto,"[""Mancomunidad Chuquisaca Centro"",""Serrania del Iñao""]",Centro,AGAMDECH,1941-11-27,,3,FALSE,2400,1722822028,243825,187,Templado,18
+31003,Villa Tunari,,Tercera,,Cochabamba,Chapare,"[""Mancomunidad Trópico""]",Trópico,AMDECO,2003-03-12,,3,FALSE,0,14583634326,850006,,,
+11001,Villa Vaca Guzmán,Muyupampa,Primera,5,Chuquisaca,Luis Calvo,"[""Mancomunidad del Chaco Chuquisaqueño"",""Serrania del Iñao"",""Mancomunidad Servicios Básicos del Chaco Boliviano"", ""Mancomunidad MANCHABOL""]",Chaco,AGAMDECH,1947-11-14,,4,FALSE,1500,3820173211,565903,375,Cálido,21
+10301,Villa Zudañez,,Primera,4,Chuquisaca,Zudañez,"[""Chuquisaca Norte"",""Juana Azurduy de Padilla""]",Norte,AGAMDECH,1914-11-20,,1,FALSE,2500,704090223,132085,105,Templado y seco,16.5
+60303,Villamontes,,Tercera,48,Tarija,Gran Chaco,"[""Mancomunidad de Municipios del Chaco Boliviano"",""Mancomunidad Servicios Básicos del Chaco Boliviano"", ""Mancomunidad MANCHABOL""]",,AMT,1937-08-24,,1,FALSE,450,11898507579,662845,220,Semihárido. torrido. mesotermal,24
+51501,Villazón,,Primera,44,Potosí,Modesto Omiste,"[""Mancomunidad Ruta de los Libertadores""]",Sud,AMDEPO,1961-11-08,,13,FALSE,3800,2471939627,305184,347,Frío,10
+30904,Vinto,,Cuarta,,Cochabamba,Quillacollo,,Metropolitana,AMDECO,1950-12-23,"[{""tit"":""Ley Nº 59 23 de diciembre de 1960"",""id"":""BO-L-59""}]",5,FALSE,0,217672076,69655,,,
+50602,Vitichi,,Segunda,43,Potosí,Nor Chichas,"[""Mancomunidad Centro de Potosí"",""Mancomunidad Ruta de los Libertadores""]",Sud,AMDEPO,1969-12-31,"[{""tit"":""Ley de 16 de enero de 1911"",""id"":""BO-L-19110116""}]",4,FALSE,3500,1759571327,221623,91,Templado,13
+20306,Waldo Ballivián,Tumarapi,Sexta,22,La Paz,Pacajes,"[""AROPAC III"", ""Mancomunidad Altiplano y Valle Central""]",,AMDEPAZ,1989-02-21,"[{""tit"":""Ley Nº 1027 15 de noviembre de 1988"",""id"":""BO-L-1027""},{""tit"":""Ley Nº 1070 21 de febrero de 1989"",""id"":""BO-L-1070""}]",1,FALSE,4000,122629166,48832,85,Frío,8
+70201,Warnes,,Primera,69,Santa Cruz,Warnes,"[""Metropolitana""]",,AMDECRUZ,1941-12-02,,6,FALSE,400,1328303144,214028,30,Cálido,24.5
+20903,Yaco,,Tercera,21,La Paz,Loayza,"[""Mancomunidad De La Provincia Loayza""]",,AMDEPAZ,1986-04-04,,8,FALSE,3500,596336347,142322,89,Templado,12
+60301,Yacuiba,,Primera,48,Tarija,Gran Chaco,"[""Mancomunidad de Municipios del Chaco Boliviano"",""Mancomunidad Del Sur"",""Mancomunidad de pueblos productores de hidrocarburos"",""Mancomunidad MANCHABOL""]",,AMT,1969-12-31,,4,FALSE,600,3672216948,304214,311,Templado mesotermal,22.5
+10602,Yamparáez,,Segunda,3,Chuquisaca,Yamparaez,"[""Chuquisaca Norte"",""Juana Azurduy de Padilla""]",Norte,AGAMDECH,1969-12-31,"[{""tit"":""Ley de 19 de marzo de 1941"",""id"":""BO-L-19410319-3""}]",2,FALSE,3500,600653483,140248,29,Altiplanico - Seco y Frío,15.5
+21103,Yanacachi,,Tercera,,La Paz,Sur Yungas,"[""Mancomunidad de los Yungas""]",,AMDEPAZ,1986-04-03,"[{""tit"":""Ley Nº 821 3 de abril de 1986"",""id"":""BO-L-821""}]",2,FALSE,0,576286067,122691,,,
+70403,Yapacaní,,Tercera,69,Santa Cruz,Ichilo,"[""Mancomunidad Sara e Ichilo""]",,AMDECRUZ,1990-03-13,,1,FALSE,350,9566843741,975613,120,Húmedo,24
+10102,Yotala,,Primera,3,Chuquisaca,Oropeza,"[""Chuquisaca Norte"",""Mancomunidad Oropeza""]",Norte,AGAMDECH,1912-11-18,"[{""tit"":""Ley Nº 1669 30 de octubre de 1995"",""id"":""BO-L-1669""}]",4,FALSE,2500,453957455,105303,15,Templado y seco,15.5
+60402,Yunchará,,Segunda,49,Tarija,Avilez,,,AMT,1957-12-26,,12,FALSE,3000,1838986023,249484,100,Semiárido. fresco,15
+40504,Yunguyo del Litoral,,Cuarta,,Oruro,Litoral,,,AMDEOR,1967-11-10,,1,FALSE,0,0,0,,,

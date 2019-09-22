@@ -1,0 +1,562 @@
+<!--
+     @file index.html
+     
+     @brief HTML principal del sitio web
+     
+     @ingroup Frontend
+     
+     @author Alejandro Salamanca <alejandro@devenet.net>
+     @author Virginia Kama <virginia@devenet.net>
+     @author Josué Gutiérrez Quino <jquino@devenet.net>
+     @author Javier Ramiro Castillo Tarqui <rcastillo@devenet.net>
+
+     
+     This file is part of the indicadores-municipales distribution
+     (https://fam.egob.org or
+     https://github.com/DevenetSRL/indicadores).
+     Copyright (c) 2019 Devenet SRL.
+
+     This program is free software: you can redistribute it and/or modify  
+     it under the terms of the GNU General Public License as published by  
+     the Free Software Foundation, version 3.
+
+     This program is distributed in the hope that it will be useful, but 
+     WITHOUT ANY WARRANTY; without even the implied warranty of 
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+     General Public License for more details.
+
+     You should have received a copy of the GNU General Public License 
+     along with this program. If not, see <http://www.gnu.org/licenses/>.
+   -->
+<!--#set:title=Sistema de información municipal-->
+<!--#set:bodyClass=sistema-->
+<!--#set:userJavascript=js/p.min.js-->
+<!--#include:navegacion.inc-->
+
+<div class="container cuerpo semitransparente-blanco">  
+  <div id="portada">
+    <div class="banner">
+      <div class="section no-pad-bot" id="index-banner">
+        <h2 class="header center">Sistema de Información Municipal</h2>
+        <div class="row center">
+          <h5 class="header col s12 light">
+            Información de todos los municipios de Bolivia
+          </h5>
+        </div>
+        <div class="container">
+          <div class="card semitransparente-blanco">
+            <div class="input-field">
+              <i class="material-icons prefix">search</i>
+              <input id="autofichas" class="autocomplete" type="text">
+              <label for="autofichas" class="">Buscar municipio</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="carousel carousel-slider center" id="carruselIndicadores"></div>
+    
+    <div class="container">
+      <div class="card semitransparente-blanco">
+        <div class="input-field">
+          <i class="material-icons prefix">search</i>
+          <input id="autoagregado" class="autocomplete" type="text">
+          <label for="autoagregado" class="">
+            Departamento, Provincia, Amdes, Mancomunidad
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div id="logosAmdes" class="row center"></div>
+    
+  </div><!-- portada -->
+
+  
+  <div id="contenido"></div>
+
+</div>
+
+<!--#include:footer.inc-->
+
+<div style="display: none">
+  
+  <div id="tplCarruselItem" class="template">
+    <a href="#!" onclick="{{ funcionDatos }} ({{ cod_ine }})" class="carousel-item">
+      <div class="card horizontal col s6 m3 l2 z-depth-5 {{ color }}-lighten-3">
+        <div class="card-image">
+          <i class="material-icons large {{ color }}-text">{{ icono }} </i>
+        </div>
+        <div class="card-stacked">
+          <div class="card-content">
+            <span class="card-title {{ color }}-text text-darken-3">
+              {{ descripcion }}
+            </span>
+            <span class="cr-resultado {{ colorInverso }}-text text-lighten-2">
+              {{ resultado }}
+            </span>
+          </div>
+          <div class="card-action">
+            <span class="cr-municipio {{ color }}-text">{{ municipio }}</span>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div id="tplMejores" class="template">
+    <div class="row center">
+      <div class="col s12 m4 l12 xl4">
+        <i class="material-icons large {{ color }}-text">{{ icono }} </i>
+      </div>
+      <div class="col s12 m8 l12 xl8">
+        <span class="cr-resultado {{ colorInverso }}-text text-lighten-2">
+          {{ resultado }}
+        </span><br />
+        <span class="{{ color }}-text text-darken-3">{{ descripcion }}</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="tplAmdes" class="template">
+    <div class="col s12 m6 l4">
+      <div class="card-panel col-content">
+        <a class="" href="#!" onclick="mostrarAmdes( '{{ AMDES }}' )">
+          <img  class="responsive-img" src="" data="img/{{ amdes }}.svg" />
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div id="lblListaColeccion" class="template">
+    <a href="#!" onclick="return {{ funcion }}('{{ id }}')" class="collection-item">{{ lbl }}</a>
+  </div>
+  
+  <div id="lblListaColeccionFichas" class="template">
+    <a href="./ficha.html?codIne={{ cod_ine }}&ficha={{ id }}" 
+       onclick="return {{ funcion }} ({{ cod_ine }},{{ id }})" 
+       target="_blank" class="collection-item">{{ lbl }}</a>
+  </div>
+
+  <div id="lblListaColeccionSintesis" class="template">
+    <a href="./sintesis.html?idAgregado={{ id_autoagregado }}&idSintesis={{ id }}" 
+       onclick="return {{ funcion }}({{ id_autoagregado }},{{ id }})" 
+       target="_blank" class="collection-item">{{ lbl }}</a>
+  </div>
+
+  <div id="lblMostrarFicha" class="template">
+    <h2 class="header center">Municipio {{ municipio }}</h2>
+    <div class="row flex">
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-2 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">map</i>Ubicación</h5>
+          <div class="card-content {{ color1 }}-text">
+            <p>
+              <strong>Departamento:</strong>
+              <a href="#!" onclick="mostrarDepartamento( '{{ id_depto }}' )">
+                {{ departamento }}
+              </a>
+            </p>
+            <p>
+              <strong>Provincia:</strong>
+              <a href="#!" onclick="mostrarProvincia( '{{ provincia }}' )">
+                {{ provincia }}
+              </a>
+            </p>
+            <div id="lblMostrarFichamapaDepartamento" class="mapaCol"></div>
+            {{ mejores }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">
+              account_balance
+            </i>
+            Instituciones
+          </h5>
+          <div class="card-content grey-text text-darken-1">
+            <strong>Asociación municipal</strong>
+            <p class="center">
+              <a href="#!" class="align-center" onclick="mostrarAmdes( '{{ amdes }}' )">
+                <img src="" data="img/{{ amdesLogo }}.svg" width="50%"/><br/>
+              </a>
+            </p>
+            <strong>Mancomunidad(es)</strong>
+            {{ mancomunidad }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color2 }} lighten-4 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-3 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">business_center</i>
+            Fichas informativas
+          </h5>
+          <div class="card-content {{ color2 }}-text">{{ fichas }}</div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-4 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-3 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">business_center</i>
+            Municipios de la provincia {{ provincia }}
+          </h5>
+          <div class="card-content {{ color3 }}-text">{{ munProvincia }}</div>
+        </div>
+      </div>
+      <div class="col s12 m12 l8 xl8">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">terrain</i> 
+            Departamentos de Bolivia
+          </h5>
+          <div class="card-content {{ color2 }}-text">            
+            <div class="row">
+              <div class="col s12 m6">
+                {{ departamentos }}
+              </div>  
+              <div class="col s12 m6">
+                <div id="lblMostrarFichamapaBolivia" class="mapaCol"></div>                
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="lblMostrarNacional">
+    <h2 class="header center">Informes de todos los municipios</h2>
+    <div class="row flex">
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">terrain</i>Ubicación</h5>
+          <div class="card-content {{ color1 }}-text">
+            <div id="lblMostrarNacionalmapaBolivia" class="mapaCol"></div>                
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">sort</i>
+            Síntesis
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            {{ sintesis }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m4 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-2 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">group_work</i> 
+            Amdes
+          </h5>
+          <div class="card-content {{ color3 }}-text">
+            {{ amdes }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m8 l12 xl12">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">games</i> 
+            Indicadores
+          </h5>
+          <div class="card-content {{ color1 }}-text mejores-nacional">
+            {{ mejores }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="lblMostrarDepartamento">
+    <h2 class="header center">Departamento {{ departamento }}</h2>
+    <div class="row flex">
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">terrain</i>Ubicación</h5>
+          <div class="card-content {{ color1 }}-text">
+            <div id="lblMostrarDepartamentomapaDepartamento" class="mapaCol"></div>
+            <br/><div class="divider"></div><br/>
+            {{ mejores }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">sort</i> 
+            Síntesis
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            {{ sintesis }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-2 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">store</i> 
+            Provincias
+          </h5>
+          <div class="card-content {{ color3 }}-text">
+            {{ provincias }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">account_balance</i>
+            Instituciones
+          </h5>
+          <div class="card-content grey-text text-darken-1">
+            <strong>Asociación municipal</strong>
+            <p class="center">
+              <a href="#!" class="align-center" onclick="mostrarAmdes( '{{ amdes }}' )">
+                <img src="" data="img/{{ amdesLogo }}.svg" width="50%"/><br/>
+              </a>
+            </p>
+            <strong>Mancomunidad(es)</strong>
+            {{ mancomunidades }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m12 l8 xl8">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">store</i> 
+            Departamentos de Bolivia
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            
+            <div class="row">
+              <div class="col s12 m6">
+                {{ departamentos }}
+              </div>  
+              <div class="col s12 m6">
+                <div id="lblMostrarDepartamentomapaBolivia" class="mapaCol"></div>                
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="lblMostrarAmdes">
+
+    <h4>Amde {{ amdes }}</h4>
+    <div class="row flex">
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">map</i>Ubicación</h5>
+          <div class="card-content {{ color1 }}-text">
+            <div class="center">
+              <img src="" data="img/{{ amdesLogo }}.svg" width="60%"/>
+            </div>
+            <div class="center">
+              <strong>Departamento:</strong>
+              <a href="#!" onclick="mostrarDepartamento( '{{ id_depto }}' )">
+                {{ departamento }}
+              </a>
+            </div>
+            <div id="lblMostrarAmdesmapaDepartamento" class="mapaCol"></div>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">sort</i> 
+            Síntesis
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            {{ sintesis }}
+          </div>
+        </div>
+      </div>      
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-2 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">store</i> 
+            Provincias
+          </h5>
+          <div class="card-content {{ color3 }}-text">
+            {{ provincias }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">group_work</i> 
+            Mancomunidades
+          </h5>
+          <div class="card-content {{ color1 }}-text">
+            {{ mancomunidades }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m12 l8 xl8">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">store</i> 
+            Departamentos de Bolivia
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            
+            <div class="row">
+              <div class="col s12 m6">
+                {{ departamentos }}
+              </div>  
+              <div class="col s12 m6">
+                <div id="lblMostrarAmdesmapaBolivia" class="mapaCol"></div>                
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="lblMostrarProvincia">
+    <h4>Provincia {{ provincia }}</h4>
+    <div class="row flex">
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">terrain</i>Ubicación</h5>
+          <div class="card-content {{ color1 }}-text">
+            <p><strong>Departamento:</strong><a href="#!" onclick="mostrarDepartamento( '{{ id_depto }}' )"> {{ departamento }} </a></p>
+            <p><strong>Amde:</strong><a href="#!" onclick="mostrarAmdes( '{{ amdes }}' )"> {{ amdes }} </a></p>
+            <div id="lblMostrarProvinciamapaDepartamento" class="mapaCol"></div>
+            <br/><div class="divider"></div><br/>
+            {{ mejores }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">sort</i> 
+            Síntesis
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            {{ sintesis }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color3 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color3 }} darken-2 white-text">
+            <i class="material-icons small left {{ color3 }}-text text-darken-2 white circle">account_balance</i>
+            Instituciones
+          </h5>
+          <div class="card-content grey-text text-darken-1">
+            <strong>Asociación municipal</strong>
+            <p class="center">
+              <a href="#!" class="align-center" onclick="mostrarAmdes( '{{ amdes }}' )">
+                <img src="" data="img/{{ amdesLogo }}.svg" width="50%"/><br/>
+              </a>
+            </p>
+            <strong>Mancomunidad(es)</strong>
+            {{ mancomunidades }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 xl4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">location_city</i> 
+            Municipios de la provincia {{ provincia }}
+          </h5>
+          <div class="card-content {{ color1 }}-text">
+            {{ munProvincias }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m12 l8 xl8">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">store</i> 
+            Departamentos de Bolivia
+          </h5>
+          <div class="card-content {{ color2 }}-text">            
+            <div class="row">
+              <div class="col s12 m6">
+                {{ departamentos }}
+              </div>  
+              <div class="col s12 m6">
+                <div id="lblMostrarProvinciamapaBolivia" class="mapaCol"></div>                
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <div id="lblMostrarMancomunidad">
+    <h4>Mancomunidad - {{ mancomunidad }}</h4>
+    <div class="row flex">
+      <div class="col s12 m5 l4">
+        <div class="col-content card {{ color1 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color1 }} darken-2 white-text">
+            <i class="material-icons small left {{ color1 }}-text text-darken-2 white circle">sort</i> 
+            Síntesis
+          </h5>
+          <div class="card-content {{ color1 }}-text">
+            {{ sintesis }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m7 l8">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">group_work</i> 
+            Municipios de la mancomunidad
+          </h5>
+          <div class="card-content {{ color2 }}-text">
+            {{ armar }}
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m12">
+        <div class="col-content card {{ color2 }} lighten-5 hoverable">
+          <h5 class="datos-titulo {{ color2 }} darken-2 white-text">
+            <i class="material-icons small left {{ color2 }}-text text-darken-2 white circle">terrain</i> 
+            Departamentos de Bolivia
+          </h5>
+          <div class="card-content {{ color2 }}-text">            
+            <div class="row">
+              <div class="col s12 m6">
+                {{ departamentos }}
+              </div>  
+              <div class="col s12 m6">
+                <div id="lblMostrarMancomunidadmapaBolivia" class="mapaCol"></div>                
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+</div>
+
+

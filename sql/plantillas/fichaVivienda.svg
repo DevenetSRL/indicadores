@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="fichaVivienda.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3391"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#439ab2;stop-opacity:1;"
+         offset="0"
+         id="stop3389" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1607"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1605" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1599"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1597" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="550.72161 : 416.85589 : 1"
+       inkscape:vp_y="0 : 2944.7379 : 0"
+       inkscape:vp_z="763.8274 : 442.21569 : 1"
+       inkscape:persp3d-origin="445.94298 : 305.08904 : 1"
+       id="perspective191" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="128.05851 : 442.21569 : 1"
+       inkscape:vp_y="0 : 2944.7379 : 0"
+       inkscape:vp_z="763.8274 : 442.21569 : 1"
+       inkscape:persp3d-origin="445.94298 : 305.08904 : 1"
+       id="perspective161" />
+    <linearGradient
+       id="linearGradient6843"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6841" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6827"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6825" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5387"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5385" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="147.45133 : 123.46416 : 1"
+       inkscape:vp_y="0 : 779.12856 : 0"
+       inkscape:vp_z="202.096 : 117.0029 : 1"
+       inkscape:persp3d-origin="117.98908 : 80.721476 : 1"
+       id="perspective4230" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1599"
+       id="linearGradient1601"
+       x1="105.80106"
+       y1="163.49002"
+       x2="192.77965"
+       y2="163.49002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(19.314585,0.52916667)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1607"
+       id="linearGradient1601-6"
+       x1="105.80106"
+       y1="163.49002"
+       x2="192.77965"
+       y2="163.49002"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="158.50071"
+     inkscape:cy="350.54676"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="false"
+     objecttolerance="10000"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7677" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fondo"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/javier/indicadores/src/images/pieces/ficha-general.svg"
+       y="17.600006"
+       x="-1.110223e-16"
+       id="image5292"
+       xlink:href="http://10.0.0.200/~javier/indicadores/www/img/pieces/ficha-general.svg"
+       preserveAspectRatio="none"
+       height="279.39999"
+       width="215.89999"
+       transform="translate(0,-17.6)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)"
+     style="display:inline">
+    <path
+       d="m 193.99646,205.15029 h -9.35299 c -0.43227,0 -0.78027,0.34812 -0.78027,0.78027 v 0.10774 c 0,0.43224 0.34813,0.78024 0.78027,0.78024 h 9.35299 c 0.43228,0 0.78028,-0.34813 0.78028,-0.78024 v -0.10774 c 0,-0.43227 -0.34814,-0.78027 -0.78028,-0.78027 z m 14.30688,22.60182 -6.11918,-0.0215 c 0,0 -0.92969,-6.20217 -5.17484,-6.20217 -4.24514,0 -4.63609,3.42394 -7.72418,3.46255 -3.08809,0.0388 -6.27903,-3.38646 -8.10468,-3.38646 h -5.66951 v -7.03931 h 5.85973 c 2.90731,0 3.23427,-3.25466 3.23427,-5.55532 h 9.51259 v 2.77766 c 0,3.36664 5.29167,1.77205 8.71204,4.776 3.42032,3.00395 5.47376,7.03707 5.47376,11.18868 z m -34.44768,-14.77294 c -0.0258,0.56132 0.25163,1.71914 1.21949,1.71914 v 6.62483 c -0.96795,0 -1.2452,1.15727 -1.21949,1.71859 h -3.5696 v -10.06256 z m 26.02624,-15.41671 c 0,-1.85555 -1.62392,-3.60192 -3.47082,-3.0403 l -4.08964,1.02241 c -1.85417,-1.6042 -4.35011,-1.59747 -6.16136,0 l -3.95514,-1.02241 c -1.51169,-0.50837 -3.58258,1.25881 -3.57845,3.0403 0.005,1.78149 1.79175,3.44437 3.57845,2.98654 l 3.95514,-0.99553 c 0.46471,-0.13054 1.09724,0.43185 1.07622,0.86102 v 3.06719 h 3.9551 v -3.06719 c 0.1082,-0.63633 0.38001,-0.97377 1.13004,-0.86102 l 4.08964,0.99553 c 1.51656,0.23266 3.47082,-1.13095 3.47082,-2.98654 z m 8.42144,31.10284 h -6.08066 c -0.43227,0 -0.78027,0.34813 -0.78027,0.78028 v 0.10774 c 0,0.43223 0.34812,0.78024 0.78027,0.78024 h 6.08066 c 0.43228,0 0.78024,-0.34814 0.78024,-0.78024 v -0.10774 c 0,-0.43229 -0.34814,-0.78028 -0.78024,-0.78028 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffe28b;stroke-width:1.09906852;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path12520"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12437"
+       style="fill:none;stroke:#95ccf9;stroke-width:1.07494199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.10367,173.27078 h 4.39136 m -25.52944,-0.63265 c 3.95942,-1.09971 5.12266,0.91777 6.84755,0.89316 1.72488,-0.0246 2.76977,-2.98937 7.14526,-0.7443 m 16.33735,0.37214 c 3.95942,-1.0997 5.12267,0.91778 6.84755,0.89316 1.7249,-0.0246 2.76977,-2.98936 7.14527,-0.74429 m -13.95559,-4.76352 c 3.95942,-1.09971 5.12265,0.91778 6.84755,0.89316 1.72487,-0.0246 2.76977,-2.98936 7.14525,-0.74429 m -23.65772,-9.4712 c -0.5981,0.31898 -2.58594,0.61698 -2.06543,-0.7629 0.52051,-1.37988 1.65131,-0.3418 2.06543,0.7629 z m 20.43864,1.11644 c 0.59811,0.31899 2.58595,0.61699 2.06542,-0.76289 -0.52051,-1.37988 -1.65131,-0.3418 -2.06542,0.76289 z m -4.52161,-2.51201 c 1.95644,-0.55556 2.38124,-1.87641 1.41415,-2.30731 -0.9671,-0.43091 -1.85598,0.51414 -1.41415,2.30731 z m -24.63629,11.09005 c 3.95942,-1.0997 5.12266,0.91778 6.84754,0.89316 1.72489,-0.0246 2.76979,-2.98936 7.14527,-0.74429 m -26.72032,-0.37215 h 4.39136 m 23.14769,-14.58826 c 1.8956,1.4377 4.35859,4.49234 4.54022,7.66627 m -14.66269,-11.90877 c 2.85315,0.65746 6.56769,3.34444 8.33615,6.99641 m -9.37816,-5.58224 c 7.1548,3.65099 7.85653,7.11218 8.41057,10.56904 -1.57353,-0.84864 -3.54631,-2.93942 -3.42377,1.4886 -1.29857,-1.02619 -5.33575,-3.10771 -4.91237,2.90276 H 160.13725 M 178.447,146.51325 c 4.62289,0.55384 16.22272,3.26572 18.4586,14.51382 5.51026,-3.01543 5.19283,0.58171 3.4982,2.23289 4.29972,-0.61067 5.12796,0.41227 2.67948,2.9772 h 6.54983 m -38.02375,-17.14247 v 2.63149 m -4.92615,-2.63149 v 2.63149 m 2.41045,-11.04176 v 2.63149 m -5.31562,8.7892 h 10.5786 M 163.8833,140.73706 h 10.57861 m 3.99986,-1.84205 v 15.31529 h -2.52623 c -0.77924,0 -1.47363,-0.7109 -1.47363,-1.47364 v -11.9996 c 0,-0.96651 0.94139,-1.84205 1.68415,-1.84205 z m -18.73622,-0.84208 v 16.89419 h 2.52623 c 0.77924,0 1.47363,-0.7109 1.47363,-1.47364 v -13.5785 c 0,-0.9665 -0.94139,-1.84205 -1.68415,-1.84205 z" />
+    <path
+       id="path12599"
+       style="fill:none;stroke:#c9e3ab;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 199.81342,272.79329 6.01357,-3.34087 c 2.36147,-1.42196 4.78358,2.31399 2.2371,3.87477 0,0 -12.21527,7.36008 -14.18589,7.85613 -1.97062,0.49605 -10.90276,0 -10.90276,0 -1.95775,0 -3.88654,1.07725 -5.07812,2.30075 m -4.40995,-6.41447 4.81086,-4.27631 c 3.41019,-2.84029 7.89621,-1.1369 8.41899,-1.00226 1.18584,0.30539 2.00452,0.33409 2.00452,0.33409 h 5.21175 c 3.95979,0 4.08416,4.27631 0,4.27631 h -5.87993 m 13.89802,-8.28536 v -3.0736 l -10.49033,-9.05375 -10.25647,9.05375 v 3.27406 m -4.04245,-4.44336 4.04245,-3.51354 v -6.80975 h 3.37428 v 3.87697 l 6.88219,-5.98172 14.5996,12.42804"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text12319"
+       y="129.6167"
+       x="19.045973"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.46570441"
+         y="129.6167"
+         x="19.045973"
+         id="tspan12317">Información general</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.49416113px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+       x="135.56552"
+       y="64.106461"
+       id="text4604"><tspan
+         x="135.56552"
+         y="64.106461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.49416113px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+         id="tspan4602">Departamento:</tspan></text>
+    <text
+       id="text4608"
+       y="64.106461"
+       x="178.74973"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.94453335px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+       xml:space="preserve"><tspan
+         id="tspan4606"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.94453335px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+         y="64.106461"
+         x="178.74973"
+         field="municipios.departamento">Santa Cruz</tspan></text>
+    <text
+       id="text5678-6"
+       y="181.66949"
+       x="41.525326"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.49416113px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.56100535"
+       x="3.6540868"
+       y="64.213768"
+       id="text6366"><tspan
+         x="3.6540868"
+         y="64.213768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.49416113px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.56100535"
+         id="tspan6364">Ficha Municipal:</tspan></text>
+    <text
+       id="text6370"
+       y="64.213768"
+       x="49.91692"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.94453335px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.56100535"
+       xml:space="preserve"><tspan
+         id="tspan6368"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.94453335px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.56100535"
+         y="64.213768"
+         x="49.91692"
+         field="municipios.nombre">Padilla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.916101"
+       y="247.82242"
+       id="text3817"><tspan
+         sodipodi:role="line"
+         id="tspan3815"
+         x="21.916101"
+         y="257.18619"
+         style="stroke-width:0.26458332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5360"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5362"><rect
+           id="rect5364"
+           width="353.01721"
+           height="277.35001"
+           x="378"
+           y="490" /></flowRegion><flowPara
+         id="flowPara5366" /></flowRoot>    <g
+       id="g3852" />
+    <text
+       y="185.5845"
+       x="137.81593"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444444px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18203017;"
+       id="text7175-4-7">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444444px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:0.18203017;"
+         x="137.81593"
+         y="185.5845"
+         id="tspan7173-6-0">Tenencia</tspan>
+    </text>
+    <text
+       y="242.43985"
+       x="125.01667"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444439px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35219625;"
+       id="text7175-6-6"
+       transform="scale(0.99835164,1.0016511)">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444439px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;stroke-width:0.35219625;"
+         x="125.01667"
+         y="242.43985"
+         id="tspan7173-2-7-4">Tipos de acceso al agua</tspan>
+    </text>
+    <g
+       id="g9991"
+       transform="translate(0,2.8947184)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+         x="3.9148064"
+         y="231.36754"
+         id="text5804"><tspan
+           x="3.9148064"
+           y="231.36754"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+           id="tspan5802">Mancomunidades:</tspan></text>
+      <g
+         transform="translate(0,5.5290046)"
+         id="g579">
+        <text
+           id="text12389-9"
+           y="205.39217"
+           x="4.0834436"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           xml:space="preserve"><tspan
+             id="tspan12485-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             y="205.39217"
+             x="4.0834436">Sección:</tspan></text>
+        <path
+           style="fill:#cccccc;stroke:#aaccff;stroke-width:0.40692464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.40692462, 0.40692462;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 19.717051,205.2266 H 52.658174"
+           id="path5822"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           id="text6310"
+           y="205.5968"
+           x="54.49263"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           xml:space="preserve"><tspan
+             id="tspan6308"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             y="205.5968"
+             x="54.49263"
+             field="municipios.seccion">Quinta</tspan></text>
+      </g>
+      <g
+         transform="translate(0,5.698985)"
+         id="g586">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           x="4.0095463"
+           y="212.09689"
+           id="text6217"><tspan
+             x="4.0095463"
+             y="212.09689"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             id="tspan6215">Circunscripción:</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path5824"
+           d="M 32.386216,212.68984 H 52.89441"
+           style="fill:#cccccc;stroke:#aaccff;stroke-width:0.39059642;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3905964, 0.3905964;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           x="54.984512"
+           y="212.88513"
+           id="text6314"><tspan
+             field="municipios.circunscripcion"
+             x="54.984512"
+             y="212.88513"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             id="tspan6312">4</tspan></text>
+      </g>
+      <g
+         transform="translate(0,5.7896743)"
+         id="g572">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           x="3.9148064"
+           y="198.5217"
+           id="text6225"><tspan
+             x="3.9148064"
+             y="198.5217"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             id="tspan6223">Provincia:</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path5820"
+           d="M 21.900145,198.35614 H 53.46035"
+           style="fill:#cccccc;stroke:#aaccff;stroke-width:0.40692464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.40692462, 0.40692462;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <text
+           id="text6318"
+           y="198.51137"
+           x="54.392487"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           xml:space="preserve"><tspan
+             id="tspan6316"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             y="198.51137"
+             x="54.392487"
+             field="municipios.provincia">Tomina</tspan></text>
+      </g>
+      <g
+         transform="translate(0,1.619609)"
+         id="g550">
+        <text
+           id="text6439"
+           y="195.11667"
+           x="3.9148064"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           xml:space="preserve"><tspan
+             id="tspan6437"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             y="195.11667"
+             x="3.9148064">Departamento:</tspan></text>
+        <path
+           style="fill:#cccccc;stroke:#aaccff;stroke-width:0.40692464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.40692462, 0.40692462;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 30.390455,195.26219 H 52.964222"
+           id="path5818"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           x="54.524673"
+           y="195.11667"
+           id="text6443"><tspan
+             field="municipios.departamento"
+             x="54.524673"
+             y="195.11667"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             id="tspan6441">Santa Cruz</tspan></text>
+      </g>
+      <g
+         transform="translate(0,4.7461829)"
+         id="g593">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           x="4.1819735"
+           y="220.54039"
+           id="text5812"><tspan
+             x="4.1819735"
+             y="220.54039"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             id="tspan5810">AMDES:</tspan></text>
+        <path
+           style="fill:#cccccc;stroke:#aaccff;stroke-width:0.40692464;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.40692462, 0.40692462;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 19.717237,220.37482 H 52.934544"
+           id="path5834"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           id="text5816"
+           y="220.53006"
+           x="54.855595"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41205448"
+           xml:space="preserve"><tspan
+             id="tspan5814"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41205448"
+             y="220.53006"
+             x="54.855595"
+             field="municipios.amdes">AMDECRUZ</tspan></text>
+      </g>
+      <g
+         script="multimanco:municipios.mancomunidad"
+         transform="matrix(0.35254104,0,0,0.42768703,-26.510002,192.57542)"
+         id="multilinea-8"
+         style="display:inline">
+        <rect
+           ry="0"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           id="idMulti-9-0"
+           width="244.24368"
+           height="50"
+           x="97.292847"
+           y="94.264359" />
+        <circle
+           style="fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:0.12855001"
+           r="1.2855"
+           tipo="vineta"
+           cy="111.59876"
+           cx="99.420883"
+           id="mi vineta-9-4" />
+        <text
+           id="text1090"
+           y="106.6449"
+           x="98.605164"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.66572762px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05464063"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.08517551px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0190741;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.05464063"
+             y="106.6449"
+             x="98.605164"
+             id="tspan4635-7-7-9"
+             tipo="data"
+             sodipodi:role="line">Mancomunidad Servicios Básicos del Chaco Boliviano</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g472"
+       transform="translate(0,-0.52915797)">
+      <g
+         transform="translate(1.299401,-3.0818362)"
+         id="g6784">
+        <path
+           d="M 98.281405,72.640589 H 211.89384 v 9.558156 H 98.281405 Z"
+           style="fill:#d32f2f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4863-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <text
+           id="text12319-0-6"
+           y="78.949287"
+           x="154.90848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.46570441"
+             y="78.949287"
+             x="154.90848"
+             id="tspan12317-1-0">Datos generales de vivienda </tspan></text>
+      </g>
+      <g
+         transform="translate(-42.038421,-25.968277)"
+         id="g7375">
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 141.61759,107.40436 h 45.27409 v 8.88431 h -45.27409 z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4555"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 141.6176,116.92931 h 45.27408 v 8.88435 H 141.6176 Z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4625"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 141.6176,126.4543 h 45.27408 v 8.88436 H 141.6176 Z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4695"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 187.6551,107.40436 h 67.57493 v 8.88431 H 187.6551 Z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path7223"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 187.6551,116.92931 h 67.57493 v 8.88435 H 187.6551 Z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path7293"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           d="m 187.6551,126.4543 h 67.57493 v 8.88436 H 187.6551 Z"
+           style="fill:#ffcdd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path7363"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text12319-0-6-4"
+           y="113.40887"
+           x="143.74178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke-width:0.46570441"
+             y="113.40887"
+             x="143.74178"
+             id="tspan12317-1-0-2">Código INE </tspan></text>
+        <text
+           id="text12319-0-6-4-4"
+           y="122.91665"
+           x="143.65082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke-width:0.46570441"
+             y="122.91665"
+             x="143.65082"
+             id="tspan12317-1-0-2-9">Viviendas área rural</tspan></text>
+        <text
+           id="text12319-0-6-4-1"
+           y="132.42209"
+           x="143.65082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f44336;fill-opacity:1;stroke-width:0.46570441"
+             y="132.42209"
+             x="143.65082"
+             id="tspan12317-1-0-2-2">Viviendas área urbana</tspan></text>
+        <text
+           id="text12319-0-6-4-4-2"
+           y="113.45679"
+           x="189.35233"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#757575;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#757575;fill-opacity:1;stroke-width:0.46570441"
+             y="113.45679"
+             x="189.35233"
+             id="tspan12317-1-0-2-9-6"
+             field="municipios.cod_ine">99999</tspan></text>
+        <text
+           id="text12319-0-6-4-4-2-6"
+           y="122.97187"
+           x="189.43559"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#757575;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#757575;fill-opacity:1;stroke-width:0.46570441"
+             y="122.97187"
+             x="189.43559"
+             id="tspan12317-1-0-2-9-6-0"
+             field="vivienda:vivienda.rural">9999 viviendas</tspan></text>
+        <text
+           id="text12319-0-6-4-4-2-6-8"
+           y="132.51761"
+           x="189.39661"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#757575;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             y="132.51761"
+             x="189.39661"
+             field="vivienda:vivienda.urbana"
+             id="tspan7377"
+             sodipodi:role="line">9999 viviendas</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g494"
+       transform="translate(0,-0.64694361)">
+      <g
+         transform="translate(0,2.1895918)"
+         script="tablaTipoTenencia:vivienda.tipo_desague"
+         id="g3243">
+        <rect
+           style="fill:none;fill-opacity:1;stroke-width:0.38568261;stroke:none"
+           id="rect4649-2-1"
+           margin="1"
+           width="84.921104"
+           height="43.764996"
+           x="109.02754"
+           y="124.55553"
+           tipo="fondo" />
+        <rect
+           style="fill:#bbdefb;fill-opacity:0.86666667;stroke-width:0.15487114"
+           id="fondoCuerpo-6-2"
+           width="22.800003"
+           height="4.492691"
+           x="118.74549"
+           y="130.88556"
+           tipo="cuerpo" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;fill-opacity:1;stroke:none;stroke-width:0.04892631"
+           x="120.62701"
+           y="135.28093"
+           id="idTextDatos-4-9"><tspan
+             sodipodi:role="line"
+             tipo="data"
+             id="tspan4635-1-3"
+             x="120.62701"
+             y="135.28093"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;stroke-width:0.04892631">ALCANTARULLADO</tspan></text>
+        <rect
+           style="opacity:0.96499999;fill:#2196f3;fill-opacity:1;stroke-width:0.12588955"
+           id="col2-2-1"
+           width="17.388456"
+           height="5.534081"
+           x="158.25716"
+           y="124.6122"
+           tipo="encabezado"
+           col="2" />
+        <rect
+           style="fill:#2196f3;fill-opacity:1;stroke-width:0.11806783"
+           id="col3-2-7"
+           width="17.496937"
+           height="5.534081"
+           x="176.41968"
+           y="124.62092"
+           tipo="encabezado"
+           col="3" />
+        <rect
+           style="fill:#2196f3;fill-opacity:1;stroke-width:0.21707426"
+           id="col1-8-5"
+           width="48.75053"
+           height="5.5340776"
+           x="109.03698"
+           y="124.6122"
+           tipo="encabezado"
+           col="1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="135.33633"
+           y="128.16054"
+           id="idTextEncabezado-6-0"><tspan
+             campo="t"
+             sodipodi:role="line"
+             col="1"
+             id="tspan4635-8-8-3"
+             x="135.33633"
+             tipo="titulo"
+             y="128.16054"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.16484483">TIPO</tspan></text>
+        <path
+           d="m 178.47162,130.15195 v -1.23533 h 0.82352 v 1.23533 h 1.02945 v -1.64705 h 0.6176 l -2.05875,-1.85295 -2.05887,1.85295 h 0.61761 v 1.64705 z"
+           id="path2"
+           inkscape:connector-curvature="0"
+           style="fill:#bbdefb;fill-opacity:1;stroke-width:0.20588242;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 161.46928,128.15475 v -1.10526 l -0.59322,-0.55263 -0.5932,0.55263 v 0.36842 h -1.18644 v 2.57895 h 3.55929 v -1.84211 z m -1.58191,1.47368 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 1.18643,1.47368 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36842 h 0.39546 z m 1.18643,2.21052 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z"
+           id="path2-1"
+           style="fill:#bbdefb;fill-opacity:1;stroke-width:0.19085476;stroke:none" />
+        <text
+           campo="u"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.96499999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="174.07657"
+           y="128.14981"
+           id="text4637-6-8-9"><tspan
+             campo="u"
+             sodipodi:role="line"
+             id="tspan4635-2-89-4"
+             x="174.07657"
+             y="128.14981"
+             col="2"
+             tipo="titulo"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483">URBANA</tspan></text>
+        <text
+           campo="r"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="191.76941"
+           y="128.15852"
+           id="text4637-6-5-8-8"><tspan
+             campo="r"
+             sodipodi:role="line"
+             id="tspan4635-2-8-8-4"
+             col="3"
+             tipo="titulo"
+             x="191.76941"
+             y="128.15852"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483">RURAL</tspan></text>
+      </g>
+      <g
+         transform="translate(1.2778746,42.75312)"
+         id="g6784-9"
+         style="display:inline">
+        <path
+           d="M 98.281405,72.640589 H 211.89384 v 9.558156 H 98.281405 Z"
+           style="fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4863-3-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <text
+           id="text12319-0-6-2"
+           y="78.949287"
+           x="154.90848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.46570441"
+             y="78.949287"
+             x="154.90848"
+             id="tspan12317-1-0-7">Tipos de desagüe </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g516"
+       transform="translate(0,-0.32347227)"
+       style="stroke:none">
+      <g
+         transform="translate(0.17317038,103.89611)"
+         id="g6784-9-3-0"
+         style="display:inline;stroke:none">
+        <path
+           d="M 99.433283,72.640589 H 213.04572 v 9.558156 H 99.433283 Z"
+           style="fill:#ffa000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4863-3-1-1-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <text
+           id="text12319-0-6-2-4-8"
+           y="78.949287"
+           x="154.90848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.46570441;stroke:none"
+             y="78.949287"
+             x="154.90848"
+             id="tspan12317-1-0-7-5-5">Tipos de acceso al agua </tspan></text>
+      </g>
+      <g
+         script="tablaTipoTenencia:vivienda.acceso_agua"
+         id="g3243-2"
+         style="display:inline;stroke:none"
+         transform="translate(0.00281828,63.275903)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke-width:0.38568261;stroke:none"
+           id="rect4649-2-1-8"
+           margin="1"
+           width="84.865837"
+           height="38.042801"
+           x="109.08281"
+           y="124.66513"
+           tipo="fondo" />
+        <rect
+           style="fill:#ffecb3;fill-opacity:0.78039217;stroke-width:0.15487114;stroke:none"
+           id="fondoCuerpo-6-2-9"
+           width="22.800003"
+           height="4.492691"
+           x="118.74549"
+           y="130.88556"
+           tipo="cuerpo" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;fill-opacity:1;stroke:none;stroke-width:0.04892631"
+           x="120.62701"
+           y="135.28093"
+           id="idTextDatos-4-9-7"><tspan
+             sodipodi:role="line"
+             tipo="data"
+             id="tspan4635-1-3-3"
+             x="120.62701"
+             y="135.28093"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;stroke-width:0.04892631;stroke:none">ALCANTARULLADO</tspan></text>
+        <rect
+           style="opacity:0.96499999;fill:#ffc107;fill-opacity:1;stroke-width:0.12588955;stroke:none"
+           id="col2-2-1-6"
+           width="17.388456"
+           height="5.534081"
+           x="158.25716"
+           y="124.6122"
+           tipo="encabezado"
+           col="2" />
+        <rect
+           style="fill:#ffc107;fill-opacity:1;stroke-width:0.11806783;stroke:none"
+           id="col3-2-7-1"
+           width="17.496937"
+           height="5.534081"
+           x="176.41968"
+           y="124.62092"
+           tipo="encabezado"
+           col="3" />
+        <rect
+           style="fill:#ffc107;fill-opacity:1;stroke-width:0.21707426;stroke:none"
+           id="col1-8-5-2"
+           width="48.75053"
+           height="5.5340776"
+           x="109.03698"
+           y="124.6122"
+           tipo="encabezado"
+           col="1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="135.33633"
+           y="128.16054"
+           id="idTextEncabezado-6-0-9"><tspan
+             campo="t"
+             sodipodi:role="line"
+             col="1"
+             id="tspan4635-8-8-3-3"
+             x="135.33633"
+             tipo="titulo"
+             y="128.16054"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.16484483;stroke:none">TIPO</tspan></text>
+        <path
+           d="m 178.47162,130.15195 v -1.23533 h 0.82352 v 1.23533 h 1.02945 v -1.64705 h 0.6176 l -2.05875,-1.85295 -2.05887,1.85295 h 0.61761 v 1.64705 z"
+           id="path2-19"
+           inkscape:connector-curvature="0"
+           style="fill:#ffecb3;fill-opacity:1;stroke-width:0.20588242;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 161.46928,128.15475 v -1.10526 l -0.59322,-0.55263 -0.5932,0.55263 v 0.36842 h -1.18644 v 2.57895 h 3.55929 v -1.84211 z m -1.58191,1.47368 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 1.18643,1.47368 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36842 h 0.39546 z m 1.18643,2.21052 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z"
+           id="path2-1-4"
+           style="fill:#ffecb3;fill-opacity:1;stroke-width:0.19085476;stroke:none" />
+        <text
+           campo="u"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.96499999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="174.07657"
+           y="128.14981"
+           id="text4637-6-8-9-7"><tspan
+             campo="u"
+             sodipodi:role="line"
+             id="tspan4635-2-89-4-8"
+             x="174.07657"
+             y="128.14981"
+             col="2"
+             tipo="titulo"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483;stroke:none">URBANA</tspan></text>
+        <text
+           campo="r"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="191.76941"
+           y="128.15852"
+           id="text4637-6-5-8-8-4"><tspan
+             campo="r"
+             sodipodi:role="line"
+             id="tspan4635-2-8-8-4-5"
+             col="3"
+             tipo="titulo"
+             x="191.76941"
+             y="128.15852"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483;stroke:none">RURAL</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g538">
+      <g
+         transform="translate(1.3277588,159.36983)"
+         id="g6784-9-3"
+         style="display:inline">
+        <path
+           d="M 98.281405,72.640589 H 211.89384 v 9.558156 H 98.281405 Z"
+           style="fill:#689f38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+           id="path4863-3-1-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <text
+           id="text12319-0-6-2-4"
+           y="78.949287"
+           x="154.90848"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.46570441"
+             y="78.949287"
+             x="154.90848"
+             id="tspan12317-1-0-7-5">Tenencia </tspan></text>
+      </g>
+      <g
+         script="tablaTipoTenencia:vivienda.tipo_desague"
+         id="g3243-2-0"
+         style="display:inline"
+         transform="translate(0.00281828,118.92252)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke-width:0.38568261;stroke:none"
+           id="rect4649-2-1-8-3"
+           margin="1"
+           width="84.705147"
+           height="47.486897"
+           x="109.19905"
+           y="124.43929"
+           tipo="fondo" />
+        <rect
+           style="fill:#dcedc8;fill-opacity:0.86666667;stroke-width:0.15487114"
+           id="fondoCuerpo-6-2-9-6"
+           width="22.800003"
+           height="4.492691"
+           x="118.74549"
+           y="130.88556"
+           tipo="cuerpo" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;fill-opacity:1;stroke:none;stroke-width:0.04892631"
+           x="120.62701"
+           y="135.28093"
+           id="idTextDatos-4-9-7-1"><tspan
+             sodipodi:role="line"
+             tipo="data"
+             id="tspan4635-1-3-3-0"
+             x="120.62701"
+             y="135.28093"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.63751721px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0b2228;stroke-width:0.04892631">ALCANTARULLADO</tspan></text>
+        <rect
+           style="opacity:0.96499999;fill:#8bc34a;fill-opacity:1;stroke-width:0.12588955"
+           id="col2-2-1-6-6"
+           width="17.388456"
+           height="5.534081"
+           x="158.25716"
+           y="124.6122"
+           tipo="encabezado"
+           col="2" />
+        <rect
+           style="fill:#8bc34a;fill-opacity:1;stroke-width:0.11806783"
+           id="col3-2-7-1-3"
+           width="17.496937"
+           height="5.534081"
+           x="176.41968"
+           y="124.62092"
+           tipo="encabezado"
+           col="3" />
+        <rect
+           style="fill:#8bc34a;fill-opacity:1;stroke-width:0.21707426"
+           id="col1-8-5-2-2"
+           width="48.75053"
+           height="5.5340776"
+           x="109.03698"
+           y="124.6122"
+           tipo="encabezado"
+           col="1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="135.33633"
+           y="128.16054"
+           id="idTextEncabezado-6-0-9-0"><tspan
+             campo="t"
+             sodipodi:role="line"
+             col="1"
+             id="tspan4635-8-8-3-3-6"
+             x="135.33633"
+             tipo="titulo"
+             y="128.16054"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.16484483">TIPO</tspan></text>
+        <path
+           d="m 178.47162,130.15195 v -1.23533 h 0.82352 v 1.23533 h 1.02945 v -1.64705 h 0.6176 l -2.05875,-1.85295 -2.05887,1.85295 h 0.61761 v 1.64705 z"
+           id="path2-19-1"
+           inkscape:connector-curvature="0"
+           style="fill:#dcedc8;fill-opacity:1;stroke-width:0.20588242;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 161.46928,128.15475 v -1.10526 l -0.59322,-0.55263 -0.5932,0.55263 v 0.36842 h -1.18644 v 2.57895 h 3.55929 v -1.84211 z m -1.58191,1.47368 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z m 1.18643,1.47368 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36841 h 0.39546 z m 0,-0.73684 h -0.39546 v -0.36842 h 0.39546 z m 1.18643,2.21052 h -0.39547 v -0.36841 h 0.39547 z m 0,-0.73684 h -0.39547 v -0.36841 h 0.39547 z"
+           id="path2-1-4-5"
+           style="fill:#dcedc8;fill-opacity:1;stroke-width:0.19085476;stroke:none" />
+        <text
+           campo="u"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.96499999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="174.07657"
+           y="128.14981"
+           id="text4637-6-8-9-7-5"><tspan
+             campo="u"
+             sodipodi:role="line"
+             id="tspan4635-2-89-4-8-4"
+             x="174.07657"
+             y="128.14981"
+             col="2"
+             tipo="titulo"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793057px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483">URBANA</tspan></text>
+        <text
+           campo="r"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16484483"
+           x="191.76941"
+           y="128.15852"
+           id="text4637-6-5-8-8-4-7"><tspan
+             campo="r"
+             sodipodi:role="line"
+             id="tspan4635-2-8-8-4-5-6"
+             col="3"
+             tipo="titulo"
+             x="191.76941"
+             y="128.15852"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.19793105px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.16484483">RURAL</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.65719795px;line-height:1.10000002;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#497d7d;fill-opacity:1;stroke:none;stroke-width:0.57427418;stroke-opacity:1"
+       x="130.37354"
+       y="43.166065"
+       id="text4604-9"><tspan
+         sodipodi:role="line"
+         id="tspan11031"
+         x="130.37354"
+         y="43.166065"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.65719795px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#497d7d;fill-opacity:1;stroke:none;stroke-width:0.57427418">Información de</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11033"
+         x="130.37354"
+         y="51.588982"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:7.65719795px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#497d7d;fill-opacity:1;stroke:none;stroke-width:0.57427418">vivienda</tspan></text>
+    <g
+       id="g8201"
+       transform="translate(0.30121799,2.1166667)">
+      <g
+         script="fuentes:"
+         transform="matrix(0.35020451,0,0,0.42485244,-32.55909,229.1793)"
+         id="fuentes"
+         style="display:inline">
+        <rect
+           ry="0"
+           style="opacity:0.95;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           id="idMulti-9-0-8"
+           width="245"
+           height="60"
+           x="97.292847"
+           y="94.264359" />
+        <circle
+           style="fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:0.12855001"
+           r="1.2855"
+           tipo="vineta"
+           cy="111.59876"
+           cx="99.420883"
+           id="mi vineta-9-4-0" />
+        <text
+           id="text1090-2"
+           y="106.6449"
+           x="98.605164"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.31663275px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05464063"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.31663275px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0190741;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.05464063"
+             y="106.6449"
+             x="98.605164"
+             tipo="data"
+             sodipodi:role="line"
+             id="tspan15907">Descripción : datos de la alcaldia municipal</tspan></text>
+      </g>
+      <text
+         id="text12319-0-6-4-1-7-7-7"
+         y="268.8111"
+         x="1.9239905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f1f7fb;fill-opacity:1;stroke:none;stroke-width:0.46570441"
+         xml:space="preserve"><tspan
+           id="tspan15823"
+           sodipodi:role="line"
+           x="1.9239905"
+           y="268.8111"
+           style="stroke-width:0.46570441">Notas:</tspan></text>
+    </g>
+    <path
+       d="m 107.72662,123.15934 h -0.97541 m 5.67058,-0.14052 c -0.87945,-0.24426 -1.13783,0.20387 -1.52096,0.1984 -0.38314,-0.005 -0.61523,-0.664 -1.58711,-0.16533 m -3.62883,0.0826 c -0.87948,-0.24426 -1.13786,0.20385 -1.52099,0.1984 -0.38313,-0.005 -0.61521,-0.664 -1.5871,-0.16533 m 3.09981,-1.05807 c -0.87946,-0.24426 -1.13784,0.20386 -1.52097,0.19839 -0.38313,-0.005 -0.61523,-0.664 -1.58711,-0.16532 m 5.25485,-2.10374 c 0.13291,0.0709 0.57439,0.13704 0.45877,-0.16946 -0.11562,-0.3065 -0.3668,-0.076 -0.45877,0.16946 z m -4.53982,0.24798 c -0.13291,0.0709 -0.57439,0.13703 -0.45877,-0.16945 0.11562,-0.3065 0.36678,-0.076 0.45877,0.16945 z m 1.00434,-0.55796 c -0.43457,-0.12339 -0.52892,-0.41679 -0.31411,-0.5125 0.21481,-0.0956 0.41225,0.11419 0.31411,0.5125 z m 5.47219,2.46331 c -0.87946,-0.24426 -1.13784,0.20387 -1.52097,0.19839 -0.38313,-0.005 -0.61523,-0.664 -1.5871,-0.16532 m 5.9351,-0.0826 h -0.97541 m -5.14154,-3.24033 c -0.42106,0.31933 -0.96814,0.99782 -1.00848,1.70282 m 3.25687,-2.64516 c -0.63374,0.14607 -1.45881,0.74285 -1.85162,1.55403 m 2.08306,-1.23993 c -1.58921,0.81096 -1.74508,1.57976 -1.86814,2.3476 0.34951,-0.1885 0.78771,-0.65291 0.76049,0.33064 0.28843,-0.22793 1.18516,-0.69028 1.09113,0.64476 h 4.11656 m -4.06697,-4.38107 c -1.02683,0.12307 -3.60338,0.72539 -4.10001,3.2238 -1.22394,-0.66977 -1.15342,0.12926 -0.77702,0.49598 -0.95504,-0.1356 -1.13902,0.0915 -0.59516,0.66129 h -1.45485 m 8.44582,-3.80768 v 0.58451 m 1.09419,-0.58451 v 0.58451 m -0.53541,-2.45259 v 0.58451 m 1.18071,1.95225 h -2.34972 m 2.32634,-2.52507 h -2.34972 m -0.88845,-0.40916 v 3.40183 h 0.56113 c 0.17308,0 0.32732,-0.15797 0.32732,-0.32732 v -2.66535 c 0,-0.21469 -0.2091,-0.40916 -0.37408,-0.40916 z m 4.1617,-0.18704 v 3.75253 h -0.56114 c -0.17308,0 -0.32732,-0.15797 -0.32732,-0.32732 v -3.01605 c 0,-0.21468 0.2091,-0.40916 0.37407,-0.40916 z"
+       style="fill:none;stroke:#ffffff;stroke-width:0.23876557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12455"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12502"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.25509173;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 104.82317,179.37489 h 2.17081 c 0.10033,0 0.1811,0.0808 0.1811,0.1811 v 0.025 c 0,0.10032 -0.0808,0.18109 -0.1811,0.18109 h -2.17081 c -0.10033,0 -0.1811,-0.0808 -0.1811,-0.18109 v -0.025 c 0,-0.10033 0.0808,-0.1811 0.1811,-0.1811 z m -3.3206,5.24584 1.42025,-0.005 c 0,0 0.21578,-1.43951 1.20107,-1.43951 0.98529,0 1.07603,0.79469 1.79277,0.80365 0.71674,0.009 1.45735,-0.78599 1.88108,-0.78599 h 1.31588 v -1.63381 h -1.36003 c -0.67478,0 -0.75067,-0.7554 -0.75067,-1.28938 h -2.20785 v 0.64469 c 0,0.78139 -1.22819,0.41129 -2.02205,1.1085 -0.79385,0.69721 -1.27045,1.63329 -1.27045,2.59687 z m 7.99524,-3.42877 c 0.006,0.13028 -0.0584,0.39901 -0.28304,0.39901 v 1.53761 c 0.22466,0 0.28901,0.2686 0.28304,0.39888 h 0.8285 v -2.3355 z m -6.04064,-3.57819 c 0,-0.43067 0.37691,-0.836 0.80557,-0.70565 l 0.9492,0.2373 c 0.43035,-0.37233 1.00965,-0.37077 1.43004,0 l 0.91798,-0.2373 c 0.35086,-0.11799 0.83151,0.29217 0.83055,0.70565 -0.001,0.41348 -0.41586,0.79943 -0.83055,0.69317 l -0.91798,-0.23106 c -0.10786,-0.0303 -0.25467,0.10023 -0.24979,0.19984 v 0.71189 h -0.91797 v -0.71189 c -0.0251,-0.14769 -0.0882,-0.22601 -0.26228,-0.19984 l -0.9492,0.23106 c -0.35199,0.054 -0.80557,-0.26249 -0.80557,-0.69317 z m -1.9546,7.21891 h 1.41131 c 0.10033,0 0.1811,0.0808 0.1811,0.1811 v 0.025 c 0,0.10032 -0.0808,0.18109 -0.1811,0.18109 h -1.41131 c -0.10033,0 -0.18108,-0.0808 -0.18108,-0.18109 v -0.025 c 0,-0.10033 0.0808,-0.1811 0.18108,-0.1811 z" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 102.66905,238.27017 -1.56751,-0.87083 c -0.61554,-0.37065 -1.246888,0.60317 -0.58313,1.01001 0,0 3.18406,1.91848 3.69773,2.04778 0.51366,0.1293 2.84192,0 2.84192,0 0.51031,0 1.01307,0.2808 1.32367,0.59972 m 1.14951,-1.67201 -1.25402,-1.11467 c -0.8889,-0.74035 -2.05822,-0.29634 -2.1945,-0.26124 -0.3091,0.0796 -0.5225,0.087 -0.5225,0.087 h -1.3585 c -1.03216,0 -1.06459,1.11467 0,1.11467 h 1.53267 m -3.62267,-2.15967 v -0.80117 l 2.73442,-2.35997 2.67346,2.35997 v 0.85342 m 1.05371,-1.15822 -1.05371,-0.91584 v -1.77504 h -0.87954 v 1.01058 l -1.79392,-1.55921 -3.80555,3.23951"
+       style="fill:none;stroke:#ffffff;stroke-width:0.25153822;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12630" />
+    <image
+       sodipodi:absref="/home/javier/indicadores/src/images/mapas/40102.svg"
+       y="69.569138"
+       x="19.113596"
+       id="image9420"
+       xlink:href="http://localhost/~javier/indicadores/www/img/mapas/municipios/40102.svg"
+       preserveAspectRatio="xMidYMid meet"
+       height="50.457443"
+       width="53.99419"
+       style="fill:#757575;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       script="mapaDepartamento:municipios.cod_ine" />
+    <g
+       style="display:inline"
+       id="multilinea-8-0"
+       transform="matrix(0.36890505,0,0,0.44753911,-6.3704777,117.02325)"
+       script="listaleyes:municipios.norma">
+      <rect
+         y="98.993927"
+         x="97.292847"
+         height="60"
+         width="160"
+         id="idMulti-9-0-5"
+         style="opacity:0.95;fill:none;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         ry="0" />
+      <circle
+         id="mi vineta-9-4-8"
+         cx="99.420883"
+         cy="111.59876"
+         tipo="vineta"
+         r="1.2855"
+         style="fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:0.12855001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.19128227px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07852891"
+         x="98.336929"
+         y="108.20892"
+         id="text1090-5"><tspan
+           sodipodi:role="line"
+           tipo="data"
+           id="tspan4635-7-7-9-5"
+           x="98.336929"
+           y="108.20892"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.19128227px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.07852891">Ley 1992323 de noviembre</tspan></text>
+    </g>
+    <text
+       id="text12389-3"
+       y="140.90601"
+       x="27.992905"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       xml:space="preserve"><tspan
+         id="tspan12485-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+         y="140.90601"
+         x="27.992905">Extensión:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       x="30.190132"
+       y="140.90601"
+       id="text12491-7"><tspan
+         field="m2tokm2:municipios.superficie"
+         x="30.190132"
+         y="140.90601"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27735859"
+         id="tspan12489-5">72404.0 Km²</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       x="27.992905"
+       y="146.18373"
+       id="text6245-3"><tspan
+         x="27.992905"
+         y="146.18373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+         id="tspan6243-5">Altura:</tspan></text>
+    <text
+       id="text6334-6"
+       y="146.18373"
+       x="30.085533"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       xml:space="preserve"><tspan
+         id="tspan6332-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27735859"
+         y="146.18373"
+         x="30.085533"
+         field="msndm:municipios.altitud">2000 m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       x="28.522072"
+       y="151.46143"
+       id="text6253-9"><tspan
+         x="28.522072"
+         y="151.46143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+         id="tspan6251-1">Temperatura:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       x="29.986992"
+       y="151.46143"
+       id="text6338-2"><tspan
+         field="grados:municipios.temperatura"
+         x="29.986992"
+         y="151.46143"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27735859"
+         id="tspan6336-7">18.5 °</tspan></text>
+    <text
+       id="text6431-0"
+       y="157.25447"
+       x="28.522072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       xml:space="preserve"><tspan
+         id="tspan6429-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+         y="157.25447"
+         x="28.522072">Clima:</tspan></text>
+    <text
+       id="text6435-3"
+       y="157.25447"
+       x="28.758636"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+       xml:space="preserve"><tspan
+         id="tspan6433-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.32831717px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.27735859"
+         y="157.25447"
+         x="28.758636"
+         field="municipios.clima">Húmedo seco. sub húmedo a húmedo</tspan></text>
+    <g
+       id="g9313"
+       transform="translate(-3.2386548)">
+      <g
+         id="g9319"
+         transform="translate(-0.52916667)">
+        <text
+           id="text5674-0"
+           y="162.48668"
+           x="31.782135"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+           xml:space="preserve"><tspan
+             id="tspan5672-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816947px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+             y="162.48668"
+             x="31.782135">Norma de</tspan></text>
+        <text
+           id="text5674-0-1"
+           y="165.41562"
+           x="31.936943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816971px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.27735859"
+           xml:space="preserve"><tspan
+             id="tspan5672-8-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.69816971px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;stroke-width:0.27735859"
+             y="165.41562"
+             x="31.936943">creación:</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
