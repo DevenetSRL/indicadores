@@ -6,8 +6,8 @@
 --
 -- @author Alejandro Salamanca <alejandro@devenet.net>
 -- @author Virginia Kama <virginia@devenet.net>
--- @author Josué Gutiérrez Quino <jquino@devenet.net>
--- @author Javier Ramiro Castillo Tarqui <rcastillo@devenet.net>
+-- @author Josué Gutiérrez Quino <jgutierrez@devenet.net>
+-- @author Javier Ramiro Castillo Tarqui <jcastillo@devenet.net>
 
 -- This file is part of the indicadores-municipales distribution
 -- (https://fam.egob.org or
